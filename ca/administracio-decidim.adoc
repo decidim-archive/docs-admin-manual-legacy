@@ -1,0 +1,21 @@
+[[h.2xcytpi]]
+[[h.1ci93xb]]
+= ADMINISTRACIÓ DEL DECIDIM
+
+Desplegar el Decidim implica tenir en compte totes aquelles accions que tenen a veure amb la configuració de la plataforma i el desplegament de processos de participació. Adquirir coneixements sobre l’administració del Decidim permet tenir capacitat de control sobre qüestions tan fonamentals com la configuració d’un procés participatiu, l’activació d’una fase de votació i recollida de suports, la moderació de la plataforma, la gestió dels textos legals associats, la gestió dels permisos dels administradors o el control i verificació de les organitzacions. Tots aquests aspectes no són estrictament tècnics sinó que impliquen una sèrie de decisions polítiques sobre com es vol que sigui el Decidim, quins missatges i continguts ha de contenir, quina ha de ser la política de moderació dels comentaris i els debats i sobretot com ha de ser un determinat procés participatiu, i quines funcionalitats ha de tenir actives. Per això és fonamental entendre les implicacions sociotècniques de l’administració i gestió de la plataforma Decidim a l’hora de desplegar la plataforma.
+
+Per comprendre com funciona Decidim, cal diferenciar entre espais de participació i components i funcionalitats. Essent els espais de participació els canals mitjançant els quals la ciutadania pot participar en la presa de decisions públiques, com per exemple els processos participatius, les iniciatives ciutadanes, les consultes públiques o les assemblees i Consells. Mentre els components de participació i les funcionalitats són els mecanismes que permeten la interacció entre les persones usuàries de la plataforma i els diferents espais de participació. Són components de participació les propostes, les enquestes, les votacions, els resultats, les pàgines, les trobades, etc.
+
+Així doncs, un espai de participació com un procés participatiu, en les diferents fases, pot incorporar diferents components com les trobades presencials, les propostes, les enquestes o  els resultats i el seguiment d’aquests.
+
+Per tant, els espais de participació es configuren definint (i configurant) els components que tindran. És important tenir present que aquests components de participació i les diferents funcionalitats es repeteixen en els diferents espais, oferint amplies possibilitats a l’hora de configurar els diferents espais. Aquest fet també simplifica l'aprenentatge perquè un cop s’ha configurat un espai, configurar-ne un de diferent resulta més fàcil.
+
+En aquest capítol es realitza una descripció completa sobre com configurar la plataforma Decidim per a un municipi (o instància) i com configurar, gestionar, i administrar els diferents processos participatius. Per a facilitar la comprensió de les tasques d’administració, s’ha fet una descripció en forma de tutorial, seguint els camps literals del Decidim i adjuntant captures de pantalla que acompanyen la seva interpretació. El present tutorial està subjecte a la versió v09del Decidim i pot patir modificacions en la mesura que s’actualitzi a noves versions, especialment pel que fa a la incorporació de nous components i espais de participació o mòduls.
+
+La gestió (administració) de la plataforma Decidim és relativament senzilla i intuïtiva, no es requereixen, per tant, coneixements informàtics específics.
+
+Els administradors de la plataforma Decidim d’un municipi, és a dir, les persones que tenen els permisos necessaris per a la gestió de la plataforma, poden realitzar la configuració general de la plataforma (imatges, informació, etc.), i fer la gestió dels diferents processos participatius (configurar, editar, analitzar i concloure).
+
+A més a més, poden donar permisos a diferents persones perquè configurin determinats processos participatius (“administradors de processos”) o perquè puguin fer el seguiment dels processos (“col·laboradors”). Aquests últims poden veure el que hi ha al menú administrador del procés però no poden editar.
+
+A continuació s’il·lustren les principals passes a seguir per a configurar el Decidim d’un municipi i els processos participatius i fer el seguiment d’aquests últims.
