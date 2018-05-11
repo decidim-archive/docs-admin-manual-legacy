@@ -1,0 +1,153 @@
+[[h.q9wl1ty8kmto]]
+[[h.1qoc8b1]]
+= Páginas estáticas informativas
+
+En este apartado, proponemos tres páginas informativas que pueden emplearse como modelo o mantenerse tal como están, sustituyendo el texto marcado en amarillo por el texto correcto. Se pueden encontrar las mismas páginas en inglés o en catalán en los documentos de Administración de las respectivas lenguas.
+
+[[h.4anzqyu]]
+== Información, preguntas frecuentes (FAQ)
+
+[[t.ee74a784fefad4881766213b3874bbbf1cc7bcaa]][[t.0]]
+
+[width="100%",cols="100%",]
+|===
+|PREGUNTAS FRECUENTES (ES)
+a|
+Si quieres participar en procesos participativos y expresar tu opinión, regístrate. Cabe señalar que, para algunas funcionalidades en determinados procesos (como votar o priorizar), deberás verificar que estás empadronado/a en nombredelmunicipio/ entidad con un paso muy sencillo.
+
+¿Qué es Nombreplataforma?
+
+Nombreplataforma es una plataforma para construir un nombredelmunicipio/ entidad participativo, con visión compartida y con base en un ejercicio de profundización de la democracia local participativa.
+
+Nombreplataforma es una plataforma de participación basada en código abierto. Cualquier ciudadana o ciudadano puede ver cómo está construida y reutilizarla o mejorarla. https://www.google.com/url?q=https://github.com/AjuntamentdeBarcelona/decidim.barcelona&sa=D&ust=1526042321544000[Consulta aquí el código en Github].
+
+¿Cómo puedo participar en nombreplataforma?
+
+Informándote:
+
+* Consulta los procesos participativos activos.
+* Navega por las propuestas que hagan los ciudadanos.
+* Conoce las fechas de las citas presenciales y los debates que se han llevado a cabo mediante las actas y los documentos relacionados.
+* Filtra los contenidos que te interesen en función de variables como el distrito, los temas o las etiquetas.
+
+Participando:
+
+* Realiza propuestas nuevas.
+* Da argumentos a favor o en contra o haz reflexiones generales.
+* Comparte las propuestas en las redes sociales.
+
+a|
+Haciendo un seguimiento de las propuestas:
+
+* Haz seguimiento de todas las propuestas, las iniciadas en la plataforma y las generadas en las citas presenciales.
+* Después de las citas presenciales, consulta en la plataforma todo el recorrido de los debates y las aportaciones generadas.
+* Marca una propuesta y sigue toda la evolución, desde los comentarios de otras personas, según el caso, hasta los documentos finales de devolución.
+
+¿Qué son?
+
+Procesos participativos
+
+Actividades de nombreplataforma que involucran a la ciudadanía y que se desarrollan en las fases de comunicación y diagnóstico, en las aportaciones, las decisiones, los resultados y la evaluación de las propuestas. Estas fases puedes visualizarlas en cada proceso participativo.
+
+Espacios de participación
+
+Órganos y mecanismos de participación permanente. A diferencia de los procesos, no tienen una fecha de inicio y final definidas.
+
+Encuentros presenciales
+
+Encuentros cara a cara vinculados a los procesos de cada territorio o ámbito.
+
+Debates
+
+Espacios digitales para informarte y decidir sobre las propuestas de cada proceso, habilitados en algunos procesos.
+
+Propuestas
+
+Contribuciones de los usuarios que, en algunos casos, pueden recibir el apoyo de otros participantes. Algunas tendrán una función de toma de decisión y otras serán meramente consultivas. Cada proceso tendrá sus propias reglas características.
+
+Encuestas
+
+Cuestionarios para obtener información y conocer la opinión de la ciudadanía.
+
+Comentarios
+
+En algunos procesos, se habilitará un espacio con las contribuciones de los usuarios al hilo de una propuesta o debate y podrán recibir una votación negativa o positiva.
+
+No funciona la verificación de residencia
+
+Comprueba las siguientes posibilidades:
+
+* ¿Has puesto el DNI o documento con todos los caracteres juntos, incluyendo la letra al final?
+* ¿Estás seguro de que estás empadronado/a en el municipio de nombredelmunicipio/ entidad? (El municipio es geográficamente más pequeño que el área metropolitana y la provincia de Barcelona.)
+* Quizás hay algún problema con tus datos en el registro de empadronamiento. Consulta a tu oficina de atención ciudadana más cercana y confirma que tu información del padrón es correcta.
+
+Si has seguido todos los pasos anteriores y no se ha solucionado el problema, puedes enviarnos un correo electrónico a correo-electrónico o acudir a los debates presenciales de cada proceso.
+
+No estoy empadronado/a en nombredelmunicipio/ entidad, ¿puedo apoyar las propuestas?
+
+En el caso de los procesos en los que se pueda apoyar propuestas, solo lo podrán hacer las personas empadronadas en nombredelmunicipio/ entidad. En aquellas cuestiones que afectan a la toma de decisiones propias de la ciudad, son los vecinos y las vecinas de la ciudad quienes deben participar en la toma de decisiones.
+
+Es cierto que hay personas que no están empadronadas en nombredelmunicipio/ entidad y que, a pesar de todo, pueden verse afectadas por estas decisiones, pero el padrón es el censo más amplio del que disponemos, que nos permite llegar al mayor número posible de personas y que, al mismo tiempo, garantiza que el proceso de participación sea seguro. Además, no todos los procesos que se impulsen desde la plataforma tienen como condición estar empadronado/a en la ciudad.
+
+No estoy empadronado/a en nombredelmunicipio/ entidad, ¿puedo participar?
+
+En algunos procesos, sí es posible participar aunque no estés empadronado/a. Puedes participar en aquellos procesos habilitados, en los debates presenciales, realizar una propuesta o comentar las propuestas existentes en la plataforma sin necesidad de estar empadronado/a. Solo en los procesos para los que sea necesario estar empadronado/a, los apoyos a las propuestas se limitarán a la gente empadronada, del mismo modo que solo las personas empadronadas en la ciudad pueden votar en las elecciones municipales.
+
+¿Para qué sirve verificar mi cuenta?
+
+Para utilizar la plataforma necesitas una cuenta de usuario. Según el grado de verificación, podrás hacer más o menos cosas:
+
+* Si te registras en la plataforma con la dirección electrónica y no das ningún dato más (no se realiza el proceso de verificación de residencia), podrás comentar y argumentar propuestas.
+* Si después de registrarte has hecho la verificación básica, es decir, has verificado la residencia a través de la plataforma (véase “¿Cómo creo y verifico mi cuenta?”), podrás apoyar las propuestas (en determinados procesos).
+* Siempre puedes participar de manera presencial en cualquiera de los encuentros presenciales que hay en cada proceso de participación. Las contribuciones que se realicen de forma presencial serán recogidas, publicadas y accesibles en la plataforma.
+
+¿Necesito teléfono móvil o acceso a internet para poder participar?
+
+No. Todas las acciones relacionadas con las propuestas, tanto crearlas como apoyarlas, votarlas o informarse de ellas, puedes hacerlas presencialmente en cualquiera de los debates en curso. También puedes crearte una cuenta de usuario completamente verificada, en caso de que quieras utilizar la plataforma.
+
+¿Cómo creo y verifico mi cuenta?
+
+El primer paso es crear una cuenta. Crea y completa los datos solicitados. Es un requisito marcar la casilla de aceptación de las condiciones de uso. Al crear una nueva cuenta, te llegará un correo electrónico a la dirección que hayas especificado, y tendrás que hacer clic en el enlace que contiene (“Confirmar mi cuenta”) para finalizar el proceso.
+
+Una vez creada la cuenta básica, y tras entrar con tu correo y contraseña, el sistema te dará la opción de hacer una verificación básica. Para ello, haz clic en el enlace “Mi cuenta” de la parte superior derecha, y después en el botón “Verificar mi cuenta”. Lo primero que se te pedirá es que introduzcas tus datos de residencia, para verificar que estás empadronado/a en el municipio. Si los datos son correctos, tu cuenta te permitirá apoyar las propuestas.
+
+He olvidado la contraseña o no me funciona, ¿qué puedo hacer?
+
+Puedes solicitar una nueva contraseña para que se te envíe a tu correo electrónico. Si la solución anterior no funciona, puedes enviar un correo electrónico a la dirección correo-electrónico, desde donde te resolverán el problema asociado a tu cuenta. En procesos que tengan citas presenciales, también puedes dirigirte a ellas y participar sin tener que registrarte en la plataforma.
+
+No consigo crear mi cuenta correctamente
+
+Revisa la sección “No me funciona la verificación de residencia” si el problema persiste (este paso suele ser el problema más frecuente). Si no se ha solucionado, revisa la sección “¿Cómo creo y verifico mi cuenta?”, para asegurarte de que estás siguiendo los pasos adecuadamente. Si todavía se mantiene el problema, puedes enviar un correo electrónico a la dirección correo-electrónico, y recibirás asistencia.
+
+¿Cómo puedo cambiar mi correo electrónico, mi nombre de usuario y la contraseña, darme de baja o activar o desactivar las notificaciones que me llegan al correo electrónico?
+
+Haz clic en el enlace Entrar, introduce tu correo electrónico y la contraseña y pulsa el botón Entrar. Una vez hecho esto, haz clic en el enlace “Mi cuenta”, donde encontrarás todas las opciones que te permitirán cambiar tu correo electrónico, el nombre de usuario y la contraseña, darte de baja o activar o desactivar las notificaciones. Una vez hecho el cambio adecuado, asegúrate de hacer clic en el botón “Guardar los cambios”.
+|===
+
+[[h.2pta16n]]
+== Términos y condiciones de uso
+
+[[t.98343d0ef65766f97a829152658e1f17b5b18029]][[t.1]]
+
+[width="100%",cols="100%",]
+|===
+|TÉRMINOS Y CONDICIONES DE USO (ES)
+a|
+Aspectos legales y condiciones de uso de la plataforma de participación nombreplataforma del Ayuntamiento de nombredelmunicipio/ entidad.
+
+(Los que recomienden los servicios jurídicos. Se pueden utilizar como modelo los https://www.google.com/url?q=https://www.decidim.barcelona/pages/terms-and-conditions?locale%3Des&sa=D&ust=1526042321559000[términos y condiciones de uso de decidim.barcelona]).
+|===
+
+[[h.tytm4rdtuh8e]]
+== Accesibilidad de la plataforma
+
+[[t.d87fb70e11e4adbdd19303552f7cbb08a52859ab]][[t.2]]
+
+[width="100%",cols="100%",]
+|===
+|ACCESIBILIDAD (ES)
+a|
+Hace referencia al diseño y los contenidos de la página web, que deben ser accesibles (sin obstáculos visuales, ni tecnológicos y para el mayor número posible de usuarios y usuarias), así como a la normativa estándar (WAI).
+
+Ejemplo de decidim.barcelona https://www.google.com/url?q=https://www.decidim.barcelona/pages/accessibility&sa=D&ust=1526042321561000[Accesibilidad].
+|===

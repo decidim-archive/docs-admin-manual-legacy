@@ -1,0 +1,21 @@
+[[h.2xcytpi]]
+[[h.1ci93xb]]
+= ADMINISTRACIÓN DE DECIDIM
+
+Desarrollar Decidim implica tener en cuenta todas aquellas acciones relacionadas con la configuración de la plataforma y el desarrollo de procesos de participación. Adquirir conocimientos sobre la administración de Decidim permite tener capacidad de control sobre cuestiones tan fundamentales como la configuración de un proceso participativo, la activación de una fase de votación y recogida de apoyos, la moderación de la plataforma, la gestión de los textos legales asociados, la gestión de los permisos de los administradores o el control y la verificación de las organizaciones. Todos estos aspectos no son estrictamente técnicos, sino que implican una serie de decisiones políticas sobre cómo se pretende que sea Decidim, qué mensajes y contenidos debe contener, cuál debe ser la política de moderación de los comentarios y los debates y, sobre todo, cómo debe ser un determinado proceso participativo y qué funcionalidades debe tener activas. Por eso, es fundamental entender las implicaciones sociotécnicas de la administración y gestión de la plataforma Decidim a la hora de ponerla en marcha.
+
+Para comprender cómo funciona Decidim, hay que diferenciar entre espacios de participación y componentes y funcionalidades. Por una parte, los espacios de participación son los canales mediante los que la ciudadanía puede participar en la toma de decisiones públicas, como, por ejemplo, los procesos participativos, las iniciativas ciudadanas, las consultas públicas o las asambleas y los consejos. Por otra parte, los componentes de participación y las funcionalidades son los mecanismos que permiten la interacción entre las personas usuarias de la plataforma y los diferentes espacios de participación: las propuestas, las encuestas, las votaciones, los resultados, las páginas, los encuentros, etcétera.
+
+Así pues, un espacio de participación como un proceso participativo, en sus diferentes fases, puede incorporar diferentes componentes —los encuentros presenciales, las propuestas, las encuestas o los resultados y su seguimiento—.
+
+Por tanto, los espacios de participación se configuran definiendo (y configurando) los componentes que tendrán. Es importante tener presente que estos componentes de participación y las diversas funcionalidades se repiten en los diferentes espacios, ofreciendo amplias posibilidades a la hora de configurar dichos espacios. Este hecho también simplifica el aprendizaje, porque, una vez que se ha configurado un espacio, configurar otro diferente resulta más fácil.
+
+En este capítulo se realiza una descripción completa sobre cómo configurar la plataforma Decidim para un municipio (o instancia) y sobre cómo configurar, gestionar y administrar los diferentes procesos participativos. Para facilitar la comprensión de las tareas de administración, se ha hecho una descripción en forma de tutorial; se han seguido los campos literales de Decidim y se adjuntan capturas de pantalla que acompañan su interpretación. El siguiente tutorial está sujeto a la versión v.09 de Decidim, y puede sufrir modificaciones en la medida en que se actualice a nuevas versiones, especialmente con respecto a la incorporación de nuevos componentes y espacios de participación o módulos.
+
+La gestión (administración) de la plataforma Decidim es relativamente sencilla e intuitiva; no se requieren, por tanto, conocimientos informáticos específicos.
+
+Los administradores de la plataforma Decidim de un municipio, esto es, las personas que tienen los permisos necesarios para la gestión de la plataforma, pueden hacer su configuración general (imágenes, información, etc.), y gestionar los diferentes procesos participativos (configuración, edición, análisis y conclusión).
+
+Además, pueden dar permisos a diferentes personas para que configuren determinados procesos participativos (administradores de procesos) o para que puedan hacer el seguimiento de los procesos (colaboradores). Estos últimos pueden ver lo que hay en el menú administrador del proceso, pero no pueden editar.
+
+A continuación, se ilustran los principales pasos para configurar Decidim en un municipio y los procesos participativos correspondientes y para hacer el seguimiento de estos últimos.
