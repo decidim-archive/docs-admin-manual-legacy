@@ -13,15 +13,15 @@ En este apartado, proponemos tres páginas informativas que pueden emplearse com
 |===
 |PREGUNTAS FRECUENTES (ES)
 a|
-Si quieres participar en procesos participativos y expresar tu opinión, regístrate. Cabe señalar que, para algunas funcionalidades en determinados procesos (como votar o priorizar), deberás verificar que estás empadronado/a en nombredelmunicipio/ entidad con un paso muy sencillo.
+Si quieres participar en procesos participativos y expresar tu opinión, regístrate. Cabe señalar que, para algunas funcionalidades en determinados procesos (como votar o priorizar), deberás verificar que estás empadronado/a en #nombredelmunicipio/ entidad# con un paso muy sencillo.
 
-¿Qué es *Nombreplataforma*?
+¿Qué es #*Nombreplataforma*#?
 
-Nombreplataforma es una plataforma para construir un nombredelmunicipio/ entidad participativo, con visión compartida y con base en un ejercicio de profundización de la democracia local participativa.
+#Nombreplataforma# es una plataforma para construir un #nombredelmunicipio/ entidad# participativo, con visión compartida y con base en un ejercicio de profundización de la democracia local participativa.
 
-Nombreplataforma es una plataforma de participación basada en código abierto. Cualquier ciudadana o ciudadano puede ver cómo está construida y reutilizarla o mejorarla. https://www.google.com/url?q=https://github.com/AjuntamentdeBarcelona/decidim.barcelona&sa=D&ust=1526042321544000[Consulta aquí el código en Github].
+#Nombreplataforma# es una plataforma de participación basada en código abierto. Cualquier ciudadana o ciudadano puede ver cómo está construida y reutilizarla o mejorarla. https://www.google.com/url?q=https://github.com/AjuntamentdeBarcelona/decidim.barcelona&sa=D&ust=1526042321544000[Consulta aquí el código en Github].
 
-*¿Cómo puedo participar en nombreplataforma?*
+*¿Cómo puedo participar en #nombreplataforma#?*
 
 Informándote:
 
@@ -47,7 +47,7 @@ Haciendo un seguimiento de las propuestas:
 
 *Procesos participativos*
 
-Actividades de nombreplataforma que involucran a la ciudadanía y que se desarrollan en las fases de comunicación y diagnóstico, en las aportaciones, las decisiones, los resultados y la evaluación de las propuestas. Estas fases puedes visualizarlas en cada proceso participativo.
+Actividades de #nombreplataforma# que involucran a la ciudadanía y que se desarrollan en las fases de comunicación y diagnóstico, en las aportaciones, las decisiones, los resultados y la evaluación de las propuestas. Estas fases puedes visualizarlas en cada proceso participativo.
 
 *Espacios de participación*
 
@@ -78,18 +78,18 @@ En algunos procesos, se habilitará un espacio con las contribuciones de los usu
 Comprueba las siguientes posibilidades:
 
 * ¿Has puesto el DNI o documento con todos los caracteres juntos, incluyendo la letra al final?
-* ¿Estás seguro de que estás empadronado/a en el municipio de nombredelmunicipio/ entidad? (El municipio es geográficamente más pequeño que el área metropolitana y la provincia de Barcelona.)
+* ¿Estás seguro de que estás empadronado/a en el municipio de #nombredelmunicipio/ entidad#? (El municipio es geográficamente más pequeño que el área metropolitana y la provincia de Barcelona.)
 * Quizás hay algún problema con tus datos en el registro de empadronamiento. Consulta a tu oficina de atención ciudadana más cercana y confirma que tu información del padrón es correcta.
 
-Si has seguido todos los pasos anteriores y no se ha solucionado el problema, puedes enviarnos un correo electrónico a correo-electrónico o acudir a los debates presenciales de cada proceso.
+Si has seguido todos los pasos anteriores y no se ha solucionado el problema, puedes enviarnos un correo electrónico a #correo-electrónico# o acudir a los debates presenciales de cada proceso.
 
-*No estoy empadronado/a en nombredelmunicipio/ entidad, ¿puedo apoyar las propuestas?*
+*No estoy empadronado/a en #nombredelmunicipio/ entidad#, ¿puedo apoyar las propuestas?*
 
-En el caso de los procesos en los que se pueda apoyar propuestas, solo lo podrán hacer las personas empadronadas en nombredelmunicipio/ entidad. En aquellas cuestiones que afectan a la toma de decisiones propias de la ciudad, son los vecinos y las vecinas de la ciudad quienes deben participar en la toma de decisiones.
+En el caso de los procesos en los que se pueda apoyar propuestas, solo lo podrán hacer las personas empadronadas en #nombredelmunicipio/ entidad#. En aquellas cuestiones que afectan a la toma de decisiones propias de la ciudad, son los vecinos y las vecinas de la ciudad quienes deben participar en la toma de decisiones.
 
-Es cierto que hay personas que no están empadronadas en nombredelmunicipio/ entidad y que, a pesar de todo, pueden verse afectadas por estas decisiones, pero el padrón es el censo más amplio del que disponemos, que nos permite llegar al mayor número posible de personas y que, al mismo tiempo, garantiza que el proceso de participación sea seguro. Además, no todos los procesos que se impulsen desde la plataforma tienen como condición estar empadronado/a en la ciudad.
+Es cierto que hay personas que no están empadronadas en #nombredelmunicipio/ entidad# y que, a pesar de todo, pueden verse afectadas por estas decisiones, pero el padrón es el censo más amplio del que disponemos, que nos permite llegar al mayor número posible de personas y que, al mismo tiempo, garantiza que el proceso de participación sea seguro. Además, no todos los procesos que se impulsen desde la plataforma tienen como condición estar empadronado/a en la ciudad.
 
-*No estoy empadronado/a en nombredelmunicipio/ entidad, ¿puedo participar?*
+*No estoy empadronado/a en #nombredelmunicipio/ entidad#, ¿puedo participar?*
 
 En algunos procesos, sí es posible participar aunque no estés empadronado/a. Puedes participar en aquellos procesos habilitados, en los debates presenciales, realizar una propuesta o comentar las propuestas existentes en la plataforma sin necesidad de estar empadronado/a. Solo en los procesos para los que sea necesario estar empadronado/a, los apoyos a las propuestas se limitarán a la gente empadronada, del mismo modo que solo las personas empadronadas en la ciudad pueden votar en las elecciones municipales.
 
@@ -113,11 +113,11 @@ Una vez creada la cuenta básica, y tras entrar con tu correo y contraseña, el 
 
 *He olvidado la contraseña o no me funciona, ¿qué puedo hacer?*
 
-Puedes solicitar una nueva contraseña para que se te envíe a tu correo electrónico. Si la solución anterior no funciona, puedes enviar un correo electrónico a la dirección correo-electrónico, desde donde te resolverán el problema asociado a tu cuenta. En procesos que tengan citas presenciales, también puedes dirigirte a ellas y participar sin tener que registrarte en la plataforma.
+Puedes solicitar una nueva contraseña para que se te envíe a tu correo electrónico. Si la solución anterior no funciona, puedes enviar un correo electrónico a la dirección #correo-electrónico#, desde donde te resolverán el problema asociado a tu cuenta. En procesos que tengan citas presenciales, también puedes dirigirte a ellas y participar sin tener que registrarte en la plataforma.
 
 *No consigo crear mi cuenta correctamente*
 
-Revisa la sección “No me funciona la verificación de residencia” si el problema persiste (este paso suele ser el problema más frecuente). Si no se ha solucionado, revisa la sección “¿Cómo creo y verifico mi cuenta?”, para asegurarte de que estás siguiendo los pasos adecuadamente. Si todavía se mantiene el problema, puedes enviar un correo electrónico a la dirección correo-electrónico, y recibirás asistencia.
+Revisa la sección “No me funciona la verificación de residencia” si el problema persiste (este paso suele ser el problema más frecuente). Si no se ha solucionado, revisa la sección “¿Cómo creo y verifico mi cuenta?”, para asegurarte de que estás siguiendo los pasos adecuadamente. Si todavía se mantiene el problema, puedes enviar un correo electrónico a la dirección #correo-electrónico#, y recibirás asistencia.
 
 *¿Cómo puedo cambiar mi correo electrónico, mi nombre de usuario y la contraseña, darme de baja o activar o desactivar las notificaciones que me llegan al correo electrónico?*
 
@@ -133,7 +133,7 @@ Haz clic en el enlace *Entrar*, introduce tu correo electrónico y la contraseñ
 |===
 |TÉRMINOS Y CONDICIONES DE USO (ES)
 a|
-Aspectos legales y condiciones de uso de la plataforma de participación nombreplataforma del Ayuntamiento de nombredelmunicipio/ entidad.
+Aspectos legales y condiciones de uso de la plataforma de participación #nombreplataforma# del Ayuntamiento de #nombredelmunicipio/ entidad#.
 
 (Los que recomienden los servicios jurídicos. Se pueden utilizar como modelo los https://www.google.com/url?q=https://www.decidim.barcelona/pages/terms-and-conditions?locale%3Des&sa=D&ust=1526042321559000[términos y condiciones de uso de decidim.barcelona]).
 |===

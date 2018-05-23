@@ -1,16 +1,18 @@
 [[h.28h4qwu]]
 == Procesos
 
-Para configurar los procesos participativos en la plataforma Decidim, haz clic en *PROCESOS*, en el *PANEL DE CONTROL*. Aparecerá una lista con los procesos, en caso de que los haya (Figura 21).
+Para configurar los procesos participativos en la plataforma Decidim, haz clic en *PROCESOS*, en el *PANEL DE CONTROL*. Aparecerá una lista con los procesos, en caso de que los haya (ver <<image25-fig>>).
 
+[#image25-fig]
 ._Procesos participativos._
 image::images/image25.png[]
 
 
 Para cada uno de los procesos se muestra la fecha de creación, si está publicado o no, y se permite realizar las siguientes acciones, haciendo clic en los iconos correspondientes: duplicar el proceso, configurarlo y previsualizar cómo quedará una vez publicado. +
 Se puede editar la información sobre los procesos haciendo clic en el icono *Configurar* o bien en el nombre del proceso. +
-Para crear un nuevo proceso, haz clic en *Nuevo/a*, en el submenú *PROCESOS PARTICIPATIVOS*, o en la parte superior derecha de la ventana (Figura 21). Se abrirá la pantalla donde hay que escribir la información general sobre el proceso (véase “3.5.1. Información”). La configuración del proceso (fases, usuarios, funcionalidades/ componentes, etc.) se realiza a través del submenú del proceso que aparece cuando se hace clic en un proceso en la pantalla de la lista de procesos (Figura 22). Este submenú se encuentra a la izquierda de la ventana del proceso.
+Para crear un nuevo proceso, haz clic en *Nuevo/a*, en el submenú *PROCESOS PARTICIPATIVOS*, o en la parte superior derecha de la ventana (ver <<image25-fig>>). Se abrirá la pantalla donde hay que escribir la información general sobre el proceso (véase “3.5.1. Información”). La configuración del proceso (fases, usuarios, funcionalidades/ componentes, etc.) se realiza a través del submenú del proceso que aparece cuando se hace clic en un proceso en la pantalla de la lista de procesos (ver <<image78-fig>>). Este submenú se encuentra a la izquierda de la ventana del proceso.
 
+[#image78-fig]
 ._Submenú de proceso participativo._
 image::images/image78.png[]
 
@@ -18,8 +20,9 @@ image::images/image78.png[]
 [[h.1mrcu09]]
 === Información
 
-En primer lugar, hay que completar los campos con la información general sobre el proceso. Haz clic en *PROCESOS*, en el *PANEL DE CONTROL*, y haz clic en *Nuevo/a*, en el submenú de *PROCESOS PARTICIPATIVOS* o en la parte superior derecha de la ventana que aparece donde está la lista de procesos. Se abrirá la ventana *NUEVO PROCESO PARTICIPATIVO* (Figura 23).
+En primer lugar, hay que completar los campos con la información general sobre el proceso. Haz clic en *PROCESOS*, en el *PANEL DE CONTROL*, y haz clic en *Nuevo/a*, en el submenú de *PROCESOS PARTICIPATIVOS* o en la parte superior derecha de la ventana que aparece donde está la lista de procesos. Se abrirá la ventana *NUEVO PROCESO PARTICIPATIVO* (ver <<image59-fig>>).
 
+[#image59-fig]
 ._Nuevo proceso participativo._
 image::images/image59.png[]
 
@@ -34,26 +37,29 @@ Completa los siguientes campos (cabe recordar que, en caso de que la plataforma 
 * *Destacado*: debe marcarse si se desea destacar el proceso en la página principal de la plataforma.
 * *Descripción breve*: debe explicar las acciones de participación en máximo de 600 caracteres.
 * *Descripción*: a partir de 1.600 caracteres se mostrará un “Leer más”.
-* *Imagen de portada*: imagen asociada al proceso participativo que aparece en la página general de procesos (Figura 24) y en la página principal de la plataforma Decidim, si se ha marcado la opción de destacado (Figura 25) (dimensiones mínimas: 1.015 px de anchura × 667 px de altura).
-* *Imagen de banner*: imagen para todas las páginas del proceso. Se publica en la parte superior de las páginas, de izquierda a derecha (figura 26) (dimensiones mínimas: 1200 px de anchura × 300 px de altura).
+* *Imagen de portada*: imagen asociada al proceso participativo que aparece en la página general de procesos (ver <<image24-fig>>) y en la página principal de la plataforma Decidim, si se ha marcado la opción de destacado (ver <<image17-fig>>) (dimensiones mínimas: 1.015 px de anchura × 667 px de altura).
+* *Imagen de banner*: imagen para todas las páginas del proceso. Se publica en la parte superior de las páginas, de izquierda a derecha (ver <<image33-fig>>) (dimensiones mínimas: 1200 px de anchura × 300 px de altura).
 * *Grupo promotor*: gestor/a y responsable político del proceso participativo. Puede ser solo el Ayuntamiento o un grupo formado por técnicos o políticos del Ayuntamiento, y ciudadanos, asociaciones, empresas u otras entidades.
 * *Áreas municipales*: áreas del Ayuntamiento implicadas en el proceso participativo.
 * *Metadatos de ámbito*: no se mostrará, pero es información interna sobre el ámbito de la ciudad al que va dirigido el proceso.
 * *¿A quién va dirigida?*: personas a quienes está destinado el proceso participativo.
 * *Ámbitos habilitados*: debe marcarse si se desea identificar con un ámbito de actuación (municipal, distrito 1, distrito 2...).
-* *Ámbito*: selecciona el ámbito correspondiente en el desplegable. Previamente, se deberán haber creado los ámbitos^link:#ftnt7[[7]]^.
+* *Ámbito*: selecciona el ámbito correspondiente en el desplegable. Previamente, se deberán haber creado los ámbitos footnote:[Sobre cómo crear los ámbitos, véase el punto 2.].
 * *Ámbito participativo*: explicación del margen o de los límites de decisión que tendrá la ciudadanía en este proceso.
 * *Estructura participativa*: grupo motor, comisión de seguimiento, grupo de trabajo, entidades que han participado en los diversos talleres y reuniones del proceso de participación.
 * *Grupo de procesos*: en caso de que se trate de un proceso dentro de un grupo, selecciona el grupo de procesos correspondiente en el desplegable. Por ejemplo, un plan de acción por distrito, dentro de un plan de acción municipal. Previamente, debe haberse creado el grupo. Si no forma parte de ningún grupo, selecciona *Ninguno* en el desplegable.
 * *Mostrar estadísticas*: debe marcarse si se desean mostrar las estadísticas del proceso (número de encuentros, propuestas...) en la página principal del proceso.
 * *Anuncio*: en caso de que se desee que aparezca un párrafo con un anuncio específico (por ejemplo, si empieza una nueva fase en algún proceso de participación).
 
+[#image24-fig]
 ._Imagen de portada de la página general de procesos._
 image::images/image24.png[]
 
+[#image17-fig]
 ._Imagen de portada de la página principal de Decidim._
 image::images/image17.png[]
 
+[#image33-fig]
 ._Imagen de banner._
 image::images/image33.png[]
 
@@ -68,7 +74,7 @@ Un proceso participativo se verá reflejado en la plataforma Decidim en fases di
 
 A título orientativo, la estructura estándar de un proceso participativo puede ser esta: fase 1: presentación; fase 2: diagnosis; fase 3: creación de propuestas y debate; fase 4: priorización de propuestas; fase 5: selección de resultados; fase 6: valoración; fase 7: seguimiento.
 
-Para configurar las fases del proceso, haz clic en *Fases del proceso*, en el submenú del *PROCESO PARTICIPATIVO*. A continuación, haz clic en *NUEVO/A*. Se abrirá la ventana *NUEVA FASE DE PROCESO PARTICIPATIVO* (Figura 27).
+Para configurar las fases del proceso, haz clic en *Fases del proceso*, en el submenú del *PROCESO PARTICIPATIVO*. A continuación, haz clic en *NUEVO/A*. Se abrirá la ventana *NUEVA FASE DE PROCESO PARTICIPATIVO* (ver <<image13-fig>>).
 
 Para cada una de las fases, debe escribirse lo siguiente:
 
@@ -78,33 +84,38 @@ Para cada una de las fases, debe escribirse lo siguiente:
 
 Después, haz clic en *Crear*.
 
+[#image13-fig]
 ._Nueva fase de proceso participativo._
 image::images/image13.png[]
 
-Para activar la fase en que se encuentra el proceso, en el submenú del *PROCESO PARTICIPATIVO*, haz clic en *Fases del proceso*. Se abrirá la ventana donde están todas las fases del proceso que han sido configuradas y los iconos que permiten *activar*, *editar* y *eliminar* cada una de ellas. Haz clic en *Activar* en la fase correspondiente (Figura 28).
+Para activar la fase en que se encuentra el proceso, en el submenú del *PROCESO PARTICIPATIVO*, haz clic en *Fases del proceso*. Se abrirá la ventana donde están todas las fases del proceso que han sido configuradas y los iconos que permiten *activar*, *editar* y *eliminar* cada una de ellas. Haz clic en *Activar* en la fase correspondiente (ver <<image8-fig>>).
 
+[#image8-fig]
 ._Fases del proceso._
 image::images/image8.png[]
 
-Las personas usuarias podrán visualizar las diferentes fases y descripciones que han sido configuradas, haciendo clic en *Ver las fases* (en la imagen de bandera, a la derecha). La fase que se encuentra activa se evidenciará marcada en rojo (Figura 29).
+Las personas usuarias podrán visualizar las diferentes fases y descripciones que han sido configuradas, haciendo clic en *Ver las fases* (en la imagen de bandera, a la derecha). La fase que se encuentra activa se evidenciará marcada en rojo (ver <<image73-fig>>).
 
+[#image73-fig]
 ._Visualización de las fases del proceso del usuario participante._
 image::images/image73.png[]
 
 [[h.3ygebqi]]
 === Categorías
 
-Las categorías (y subcategorías) sirven para clasificar contenidos en los diferentes espacios o procesos de participación; también facilitan a las personas usuarias filtrar los contenidos. Se definen para cada una de las instancias de los espacios.  Por ejemplo, un proceso de participación puede incluir varias categorías y subcategorías, y los encuentros, las encuestas, las propuestas u otros componentes del proceso se pueden clasificar en estas categorías. Una categoría podría ser “Medio ambiente” y dos subcategorías de esta, “Movilidad” y “Calidad del aire”. En la Figura 30 se pueden ver las categorías y subcategorías que se utilizaron en el proceso participativo para la elaboración del Plan de actuación municipal (PAM) de Barcelona del 2016.
+Las categorías (y subcategorías) sirven para clasificar contenidos en los diferentes espacios o procesos de participación; también facilitan a las personas usuarias filtrar los contenidos. Se definen para cada una de las instancias de los espacios.  Por ejemplo, un proceso de participación puede incluir varias categorías y subcategorías, y los encuentros, las encuestas, las propuestas u otros componentes del proceso se pueden clasificar en estas categorías. Una categoría podría ser “Medio ambiente” y dos subcategorías de esta, “Movilidad” y “Calidad del aire”. En la <<image63-fig>> se pueden ver las categorías y subcategorías que se utilizaron en el proceso participativo para la elaboración del Plan de actuación municipal (PAM) de Barcelona del 2016.
 
+[#image63-fig]
 ._Categorías y subcategorías en el PAM de Barcelona del 2016._
 image::images/image63.png[]
 
 Es importante tener en cuenta que, una vez definidas las categorías, no conviene cambiarlas porque se convierten en el índice que estructura los contenidos en un espacio de participación. Por ejemplo, en el caso de un proceso participativo para la elección de candidatos, las categorías podrían identificar listas o tipos de candidaturas. Y en caso de que el proceso fuera para definir un plan, las categorías coincidirían con el índice de este plan.
 
-También se debe tener en cuenta que, con respecto a la clasificación de contenidos, Decidim también permite diferenciar y configurar ámbitos y etiquetas (o _tags_). A diferencia de las categorías, los ámbitos (territoriales o temáticos) son generales en toda la plataforma y se definen durante la configuración de la plataforma Decidim del municipio o entidad^link:#ftnt8[[8]]^, mientras que las etiquetas las definen libremente las personas participantes y se pueden aplicar a cualquier instancia o componente. Desde el panel de administración también se pueden crear etiquetas y anidarlas.
+También se debe tener en cuenta que, con respecto a la clasificación de contenidos, Decidim también permite diferenciar y configurar ámbitos y etiquetas (o _tags_). A diferencia de las categorías, los ámbitos (territoriales o temáticos) son generales en toda la plataforma y se definen durante la configuración de la plataforma Decidim del municipio o entidad footnote:[Sobre cómo crear los ámbitos, véase el punto 2.2.], mientras que las etiquetas las definen libremente las personas participantes y se pueden aplicar a cualquier instancia o componente. Desde el panel de administración también se pueden crear etiquetas y anidarlas.
 
-Para configurar las categorías, haz clic en *Categorías*, en el submenú del *PROCESO PARTICIPATIVO*. A continuación, haz clic en *NUEVO/A*. Para cada una de las categorías o subcategorías hay que completar los siguientes campos (Figura 31): *Nombre*, *Descripción* y, en caso de que se trate de una subcategoría, debe seleccionarse la categoría a la que corresponde en el desplegable *Superior*. Al acabar, haz clic en *Crear categoría*.
+Para configurar las categorías, haz clic en *Categorías*, en el submenú del *PROCESO PARTICIPATIVO*. A continuación, haz clic en *NUEVO/A*. Para cada una de las categorías o subcategorías hay que completar los siguientes campos (ver <<image12-fig>>): *Nombre*, *Descripción* y, en caso de que se trate de una subcategoría, debe seleccionarse la categoría a la que corresponde en el desplegable *Superior*. Al acabar, haz clic en *Crear categoría*.
 
+[#image12-fig]
 ._Nueva categoría._
 image::images/image12.png[]
 
@@ -117,22 +128,25 @@ Cuando se pone en marcha un proceso participativo es importante facilitar a la c
 
 Estos documentos se pueden clasificar/agrupar en *Colecciones*. Por ejemplo para un proceso de remodelación de una plaza, se podrían crear las colecciones con información sobre los posibles usos, con los planos, con información económica, etc.
 
-En primer lugar se crean las colecciones para más adelante poder adjuntar los archivos. Haz clic en *Colecciones* en el submenú del PROCESO PARTICIPATIVO, se abrirá la ventana *COLECCIONES DE ARCHIVOS ADJUNTOS* (Figura 32).
+En primer lugar se crean las colecciones para más adelante poder adjuntar los archivos. Haz clic en *Colecciones* en el submenú del PROCESO PARTICIPATIVO, se abrirá la ventana *COLECCIONES DE ARCHIVOS ADJUNTOS* (ver <<image15-fig>>).
 
+[#image15-fig]
 ._Colecciones de archivos adjuntos._
 image::images/image15.png[]
 
-A continuación pulsar *NUEVO/VA* para crear una nueva colección. Añadir *Nombre*, *Peso* (_Weight_) y una *Descripción*. Para finalizar, pulsar Crear (Figura 33).
+A continuación pulsar *NUEVO/VA* para crear una nueva colección. Añadir *Nombre*, *Peso* (_Weight_) y una *Descripción*. Para finalizar, pulsar Crear (ver <<image48-fig>>).
 
+[#image48-fig]
 ._Nueva Colección._
 image::images/image48.png[]
 
-Después de haber creado las colecciones, podréis añadir ficheros adjuntos a las carpetas haciendo clic en *Archivos* de los Procesos participativos donde se verán los ficheros adjuntos. Hacer clic en NUEVO/A para adjuntar nuevos archivos (Figura 34) Se abrirá la ventana NUEVO ARCHIVO ADJUNTO. Completa los campos *Título*, *Peso* (_Weight_) y *Descripción, Colección* (selecciona la colección creada anteriormente) y carga el archivo haciendo clic en *Archivo/Seleccionar archivo*. Para finalizar, haz clic en *Crear archivo adjunto*.
+Después de haber creado las colecciones, podréis añadir ficheros adjuntos a las carpetas haciendo clic en *Archivos* de los Procesos participativos donde se verán los ficheros adjuntos. Hacer clic en NUEVO/A para adjuntar nuevos archivos (ver <<image56-fig>>) Se abrirá la ventana NUEVO ARCHIVO ADJUNTO. Completa los campos *Título*, *Peso* (_Weight_) y *Descripción, Colección* (selecciona la colección creada anteriormente) y carga el archivo haciendo clic en *Archivo/Seleccionar archivo*. Para finalizar, haz clic en *Crear archivo adjunto*.
 
 Los ficheros adjuntos deben ser documentos en formatos abiertos (.odt, .rtf .pdf, etc.). El sistema no permite subir textos en formatos como .doc (aparecería un mensaje solicitando el cambio de formato, porque se ha intentado subir un texto en formato no libre ni interoperable).
 
 La persona usuaria verá estos documentos en la pantalla de información sobre el proyecto (en la parte de abajo).
 
+[#image56-fig]
 ._Nuevo archivo adjunto._
 image::images/image56.png[]
 
@@ -146,8 +160,9 @@ Los *administradores* de un proceso pueden configurar o editar el proceso, mien
 
 Para dar de alta a los administradores, colaboradores o moderadores de un proceso, en el submenú del proceso, dirígete a *Usuarios del proceso* y haz clic en *NUEVO/A*.
 
-Se abrirá la pantalla *NUEVO USUARIO DEL PROCESO PARTICIPATIVO* (Figura 35).
+Se abrirá la pantalla *NUEVO USUARIO DEL PROCESO PARTICIPATIVO* (ver <<image32-fig>>).
 
+[#image32-fig]
 ._Nuevo usuario del proceso participativo._
 image::images/image32.png[]
 
@@ -160,7 +175,7 @@ La funcionalidad/ componente *Moderaciones* permite moderar los debates para qu
 
 En general, se consideran contenidos denunciables los que son ofensivos, pueden ser considerados _spam_ (posts publicitarios relacionados o no con el tema de debate, enlaces a páginas web maliciosas, _trolling_, información abusiva o no deseada) o no están relacionados con el tema de discusión.
 
-Para la gestión de los contenidos denunciados, haz clic en *Moderaciones*, en el submenú del proceso. Aparecerá una pantalla con todos los comentarios que han sido denunciados pendientes de moderación y la siguiente información para cada uno de ellos (Figura 36):
+Para la gestión de los contenidos denunciados, haz clic en *Moderaciones*, en el submenú del proceso. Aparecerá una pantalla con todos los comentarios que han sido denunciados pendientes de moderación y la siguiente información para cada uno de ellos (ver <<image9-fig>>):
 
 * *TIPO*: si se trata de una propuesta (*Proposal*) o de un comentario (*Comment*).
 * *URL del contenido reportado*: enlace donde se puede ver el contenido denunciado y las motivaciones que han llevado a denunciarlo.
@@ -168,13 +183,15 @@ Para la gestión de los contenidos denunciados, haz clic en *Moderaciones*, en e
 * *RECUENTO*: número de veces que ha sido denunciado por usuarios diferentes.
 * *ACCIONES*: haciendo clic en los iconos de la derecha puedes *cancelar denuncia* o *esconder*.
 
+[#image9-fig]
 ._Moderaciones._
 image::images/image9.png[]
 
-Los contenidos denunciados que ya han sido ocultados se pueden ver haciendo clic en *OCULTAS* (en la parte superior derecha del cuadro de moderaciones). Aparecerá la lista de los contenidos denunciados ocultos y la siguiente información para cada uno (Figura 37): TIPO, CONTENIDO, DENUNCIAS, RECUENTO, FECHA DE OCULTACIÓN (la fecha en que se ha ocultado el contenido), ACCIONES (en este caso, la acción posible es *Deshacer denuncia*).
+Los contenidos denunciados que ya han sido ocultados se pueden ver haciendo clic en *OCULTAS* (en la parte superior derecha del cuadro de moderaciones). Aparecerá la lista de los contenidos denunciados ocultos y la siguiente información para cada uno (ver <<image10-fig>>): TIPO, CONTENIDO, DENUNCIAS, RECUENTO, FECHA DE OCULTACIÓN (la fecha en que se ha ocultado el contenido), ACCIONES (en este caso, la acción posible es *Deshacer denuncia*).
 
 Para volver a los contenidos denunciados visibles, haz clic en *NO OCULTAS*, en la parte superior derecha del cuadro de moderaciones.
 
+[#image10-fig]
 ._Contenidos ocultos._
 image::images/image10.png[]
 
@@ -195,15 +212,17 @@ Actualmente, existen las siguientes funcionalidades/ componentes de los procesos
 * *DEBATES*:  permite abrir debates sobre preguntas o temas específicos definidos por los administradores o por los participantes.
 * *SORTEOS*: permite determinar las personas que formarán parte de un grupo (como un comité) de forma aleatoria de entre un grupo más amplio.
 
-Para configurar las funcionalidades/ componentes, haz clic en *Funcionalidades/ Componentes*, en el submenú del *PROCESO*. Aparecerá una lista con las funcionalidades/ componentes que ya han sido configuradas por el proceso, el *NOMBRE DE LA FUNCIONALIDAD/ COMPONENTE* que se le ha dado y el *TIPO DE FUNCIONALIDAD/ COMPONENTE* que se ha utilizado para crearla (Figura 38).
+Para configurar las funcionalidades/ componentes, haz clic en *Funcionalidades/ Componentes*, en el submenú del *PROCESO*. Aparecerá una lista con las funcionalidades/ componentes que ya han sido configuradas por el proceso, el *NOMBRE DE LA FUNCIONALIDAD/ COMPONENTE* que se le ha dado y el *TIPO DE FUNCIONALIDAD/ COMPONENTE* que se ha utilizado para crearla (ver <<image29-fig>>).
 
 Desde esta lista, mediante los iconos, se pueden realizar las siguientes acciones: *gestionar, publicar/despublicar, configurar*, configurar los *permisos* y *eliminar la funcionalidad/ componente*.
 
+[#image29-fig]
 ._Funcionalidades/ Componentes del proceso._
 image::images/image29.png[]
 
-Para configurar una nueva funcionalidad/ componente, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona el tipo de funcionalidad/ componente que se desees configurar en el desplegable (Figura 39).
+Para configurar una nueva funcionalidad/ componente, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona el tipo de funcionalidad/ componente que se desees configurar en el desplegable (ver <<image46-fig>>).
 
+[#image46-fig]
 ._Añadir funcionalidad/ componente._
 image::images/image46.png[]
 
@@ -212,7 +231,7 @@ image::images/image46.png[]
 
 Se trata de páginas con información sobre los diferentes procesos en las que se puede describir el proceso, sus fases, cómo se puede participar en él, sus objetivos, etcétera.
 
-Para añadir una página, haz clic en *Página*, en el desplegable *Añadir funcionalidad/ componente*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: PÁGINA*, en la que se deben completar los siguientes campos (Figura 40):
+Para añadir una página, haz clic en *Página*, en el desplegable *Añadir funcionalidad/ componente*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: PÁGINA*, en la que se deben completar los siguientes campos (ver <<image41-fig>>):
 
 * *Nombre*: nombre de la página.
 * *Peso*: corresponde al orden en el que los componentes (en este caso, la página) se muestran en el menú del proceso participativo.
@@ -221,29 +240,32 @@ Para añadir una página, haz clic en *Página*, en el desplegable *Añadir func
 
 A continuación, haz clic en *Añadir funcionalidad/ componente*.
 
+[#image41-fig]
 ._Añadir página._
 image::images/image41.png[]
 
 Para crear o editar los contenidos de la página configurada, en el submenú de la izquierda del proceso de participación, en *Funcionalidades/ Componentes*, haz clic sobre el *Nombrepágina* (el nombre que se le ha dado a la página).
 
-Se abrirá la ventana Editar página. En el cuadro *Cuerpo*, escribe el contenido de la página. Después, haz clic en *Actualizar* (Figura 41).
+Se abrirá la ventana Editar página. En el cuadro *Cuerpo*, escribe el contenido de la página. Después, haz clic en *Actualizar* (ver <<image23-fig>>).
 
+[#image23-fig]
 ._Editar página._
 image::images/image23.png[]
 
-También se puede editar la página o cambiar su configuración desde la ventana *Funcionalidades/ Componentes* (Figura 38), haciendo clic en los iconos correspondientes (*Gestionar* y *Configurar*). Asimismo, desde esta ventana se puede *publicar/despublicar* o *eliminar* la página.
+También se puede editar la página o cambiar su configuración desde la ventana *Funcionalidades/ Componentes* (ver <<image29-fig>>), haciendo clic en los iconos correspondientes (*Gestionar* y *Configurar*). Asimismo, desde esta ventana se puede *publicar/despublicar* o *eliminar* la página.
 
 [[h.3hv69ve]]
 ==== Encuentros
 
-Para añadir los actos presenciales, en primer lugar, hay que configurar la funcionalidad/ componente *Encuentros*. En el desplegable *Añadir funcionalidad/ componente* (Figura 39), haz clic en *Encuentros*; se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: ENCUENTROS* (Figura 42).
+Para añadir los actos presenciales, en primer lugar, hay que configurar la funcionalidad/ componente *Encuentros*. En el desplegable *Añadir funcionalidad/ componente* (ver <<image46-fig>>), haz clic en *Encuentros*; se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: ENCUENTROS* (ver <<image22-fig>>).
 
 Hay que dar un *nombre* a la funcionalidad/ componente Encuentros, seleccionar el *peso* (posición en el menú del proceso) y, en *Ajustes globales* y *Configuración de fase*, escribir los *avisos*, en su caso, y marcar (haciendo clic) *Comentarios habilitados* para que los participantes del proceso puedan hacer comentarios en los encuentros o *comentarios bloqueados*.
 
 A continuación, haz clic en *Añadir funcionalidad/ componente*.
 
-Una vez configurada la funcionalidad/ componente *Encuentros*, se pueden crear los encuentros. En el submenú de la izquierda del proceso de participación, en *Funcionalidades/ Componentes*, haz clic en *NombreEncuentros* (el nombre que se le ha dado a la funcionalidad/ componente). Se abrirá la ventana *ENCUENTROS* con la lista de encuentros que se han creado previamente (Figura 42).
+Una vez configurada la funcionalidad/ componente *Encuentros*, se pueden crear los encuentros. En el submenú de la izquierda del proceso de participación, en *Funcionalidades/ Componentes*, haz clic en *NombreEncuentros* (el nombre que se le ha dado a la funcionalidad/ componente). Se abrirá la ventana *ENCUENTROS* con la lista de encuentros que se han creado previamente (ver <<image22-fig>>).
 
+[#image22-fig]
 ._Encuentros._
 image::images/image22.png[]
 
@@ -257,12 +279,13 @@ Desde esta ventana, haciendo clic sobre los iconos, se pueden realizar las sigui
 * *Adjuntar* archivos.
 * *Borrar* (eliminar el encuentro).
 
-Para crear un encuentro, haz clic en *NUEVO*, en la parte superior derecha de la ventana *ENCUENTROS* (Figura 43). Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: ENCUENTROS*.
+Para crear un encuentro, haz clic en *NUEVO*, en la parte superior derecha de la ventana *ENCUENTROS* (ver <<image43-fig>>). Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: ENCUENTROS*.
 
+[#image43-fig]
 ._Añadir funcionalidad/ componente: Encuentros._
 image::images/image43.png[]
 
-La información que debe editarse cuando se crea un encuentro es la siguiente (Figura 44):
+La información que debe editarse cuando se crea un encuentro es la siguiente (ver <<image65-fig>>):
 
 * *Título*.
 * *Descripción*.
@@ -274,28 +297,32 @@ La información que debe editarse cuando se crea un encuentro es la siguiente (F
 * *Ámbito*: selecciona el ámbito en el desplegable (ciudad, barrio o distrito).
 * *Categoría*: en su caso, selecciona la categoría en el desplegable.
 
+[#image65-fig]
 ._Crear encuentro._
 image::images/image65.png[]
 
-Para activar las inscripciones del encuentro, en la ventana *ENCUENTROS* (Figura 42), haz clic en el icono *Inscripciones*. Se abrirá la ventana *Inscripciones* (Figura 45), en la que hay que hacer clic en *Inscripciones abiertas*, seleccionar en el desplegable *Espacios disponibles para este encuentro* el aforo disponible (dejar en 0 si los espacios disponibles son ilimitados) y escribir los plazos de inscripción en *Términos y condiciones de inscripción*. Al acabar, haz clic en *Guardar*. Desde esta ventana se pueden exportar las inscripciones a los formatos CSV, JSON o EXCEL seleccionando el formato en el desplegable *Exportar*.
+Para activar las inscripciones del encuentro, en la ventana *ENCUENTROS* (ver <<image22-fig>>), haz clic en el icono *Inscripciones*. Se abrirá la ventana *Inscripciones* (ver <<image1-fig>>), en la que hay que hacer clic en *Inscripciones abiertas*, seleccionar en el desplegable *Espacios disponibles para este encuentro* el aforo disponible (dejar en 0 si los espacios disponibles son ilimitados) y escribir los plazos de inscripción en *Términos y condiciones de inscripción*. Al acabar, haz clic en *Guardar*. Desde esta ventana se pueden exportar las inscripciones a los formatos CSV, JSON o EXCEL seleccionando el formato en el desplegable *Exportar*.
 
+[#image1-fig]
 ._Inscripciones._
 image::images/image1.png[]
 
-Si deseas adjuntar un archivo a la información sobre el encuentro, en la ventana *ENCUENTROS* (Figura 42), haz clic en el icono *Adjuntos*. Se abrirá la ventana *ADJUNTOS* (Figura 46), donde aparecerá la lista si hay otros archivos adjuntos, desde la que, además, se pueden *editar* o *eliminar* los archivos adjuntos.
+Si deseas adjuntar un archivo a la información sobre el encuentro, en la ventana *ENCUENTROS* (ver <<image22-fig>>), haz clic en el icono *Adjuntos*. Se abrirá la ventana *ADJUNTOS* (ver <<image21-fig>>), donde aparecerá la lista si hay otros archivos adjuntos, desde la que, además, se pueden *editar* o *eliminar* los archivos adjuntos.
 
+[#image21-fig]
 ._Adjuntos._
 image::images/image21.png[]
 
-Hacer clic en *NUEVO/A* para adjuntar un archivo. A continuación, en la ventana *NUEVO ARCHIVO ADJUNTO* (Figura 47), escribe el *título* y la *descripción*, carga el archivo (haciendo clic en *“Seleccionar archivo”* , en *Archivo*) y, finalmente, haz clic en *Crear archivo adjunto*.
+Hacer clic en *NUEVO/A* para adjuntar un archivo. A continuación, en la ventana *NUEVO ARCHIVO ADJUNTO* (ver <<image72-fig>>), escribe el *título* y la *descripción*, carga el archivo (haciendo clic en *“Seleccionar archivo”* , en *Archivo*) y, finalmente, haz clic en *Crear archivo adjunto*.
 
+[#image72-fig]
 ._Nuevo archivo adjunto._
 image::images/image72.png[]
 
 [[h.pkwqa1]]
 ==== Propuestas
 
-Para configurar la funcionalidad/ componente *Propuestas*, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*. A continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *Propuestas*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: PROPUESTAS* (Figura 48). La información que se debe escribir cuando se configura la funcionalidad/ componente Propuestas es la siguiente:
+Para configurar la funcionalidad/ componente *Propuestas*, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*. A continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *Propuestas*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: PROPUESTAS* (ver <<image67-fig>>). La información que se debe escribir cuando se configura la funcionalidad/ componente Propuestas es la siguiente:
 
 * *Nombre*.
 * *Peso*: el orden en que el componente *Propuestas* se mostrará en el menú del proceso participativo.
@@ -320,23 +347,27 @@ Para configurar la funcionalidad/ componente *Propuestas*, en el submenú del *P
 
 Finalmente, haz clic en *Añadir funcionalidad/ componente*.
 
+[#image67-fig]
 ._Añadir funcionalidad/ componente: Propuestas._
 image::images/image67.png[]
 
-Para la gestión de las propuestas, es decir, aceptar o rechazar las propuestas que han hecho los participantes durante el proceso, haz clic en *PROPUESTAS*, en el submenú del *PROCESO*. Se abrirá la ventana *PROPUESTAS* (Figura 49), donde se encuentra la lista con todas las propuestas y una serie de información para cada una de ellas (*IDENTIFICADOR, TÍTULO, CATEGORÍA, ESTADO*, es decir, si está *aceptada, rechazada, en evaluación, no contestada, VOTOS, COMENTARIOS, NOTAS, FECHA DE CREACIÓN* y las posibles *ACCIONES* (*notas privadas, responder* y *previsualizar*).
+Para la gestión de las propuestas, es decir, aceptar o rechazar las propuestas que han hecho los participantes durante el proceso, haz clic en *PROPUESTAS*, en el submenú del *PROCESO*. Se abrirá la ventana *PROPUESTAS* (ver <<image2-fig>>), donde se encuentra la lista con todas las propuestas y una serie de información para cada una de ellas (*IDENTIFICADOR, TÍTULO, CATEGORÍA, ESTADO*, es decir, si está *aceptada, rechazada, en evaluación, no contestada, VOTOS, COMENTARIOS, NOTAS, FECHA DE CREACIÓN* y las posibles *ACCIONES* (*notas privadas, responder* y *previsualizar*).
 
+[#image2-fig]
 ._Propuestas._
 image::images/image2.png[]
 
-Para responder las propuestas, haz clic en el icono *Respuesta*; se abrirá la ventana *RESPONDER A LA PROPUESTA* (Figura 50), donde se debe marcar *Aceptada, Rechazada* o *En evaluación* y escribir el motivo o la respuesta en el cuadro *Respuesta*.
+Para responder las propuestas, haz clic en el icono *Respuesta*; se abrirá la ventana *RESPONDER A LA PROPUESTA* (ver <<image34-fig>>), donde se debe marcar *Aceptada, Rechazada* o *En evaluación* y escribir el motivo o la respuesta en el cuadro *Respuesta*.
 
+[#image34-fig]
 ._Responder a la propuesta._
 image::images/image34.png[]
 
 También se pueden exportar las propuestas o los comentarios en los formatos CSV JSON o EXCEL, haciendo clic en *EXPORTAR*, en la parte superior derecha.
 
-Para crear una nueva propuesta, es decir, hacer propuestas oficiales, haz clic en *NUEVA*, en la parte superior derecha de la ventana *PROPUESTAS* (Figura 49); se abrirá la ventana *CREAR PROPUESTA* (Figura 51), donde se debe indicar el *título* y el *cuerpo* (descripción) y seleccionar la *categoría* en el desplegable, en su caso. A continuación, haz clic en *Crear*.
+Para crear una nueva propuesta, es decir, hacer propuestas oficiales, haz clic en *NUEVA*, en la parte superior derecha de la ventana *PROPUESTAS* (ver <<image2-fig>>); se abrirá la ventana *CREAR PROPUESTA* (ver <<image51-fig>>), donde se debe indicar el *título* y el *cuerpo* (descripción) y seleccionar la *categoría* en el desplegable, en su caso. A continuación, haz clic en *Crear*.
 
+[#image51-fig]
 ._Crear propuesta._
 image::images/image51.png[]
 
@@ -344,7 +375,7 @@ image::images/image51.png[]
 [[h.1302m92]]
 ==== Presupuestos
 
-Para configurar la funcionalidad/ componentes de presupuestos participativos, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *PRESUPUESTOS*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: PRESUPUESTOS* (Figura 52). Deben completarse los siguientes campos:
+Para configurar la funcionalidad/ componentes de presupuestos participativos, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *PRESUPUESTOS*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: PRESUPUESTOS* (ver <<image40-fig>>). Deben completarse los siguientes campos:
 
 * *Nombre*: nombre de la funcionalidad/ componente.
 * *Peso*: el orden en que se tiene que mostrar el componente *Presupuestos* en el menú del proceso participativo.
@@ -364,12 +395,13 @@ Para configurar la funcionalidad/ componentes de presupuestos participativos, en
 
 Para finalizar, haz clic en *Añadir funcionalidad/ componente*.
 
+[#image40-fig]
 ._Añadir funcionalidad/ componente: Presupuestos._
 image::images/image40.png[]
 
 Una vez configurada la funcionalidad/ componente *Presupuestos*, deben crearse los proyectos que irán a votación. En el submenú del proceso participativo, en *Funcionalidades/ Componentes*, selecciona *Nombrepresupuestos* (el nombre que se haya dado a la funcionalidad/ componente), y haz clic en *Nuevo*.
 
-Se abrirá la ventana *NUEVO RESULTADO* (Figura 53). Los campos que aparecen en la ficha son los siguientes:
+Se abrirá la ventana *NUEVO RESULTADO* (ver <<image47-fig>>). Los campos que aparecen en la ficha son los siguientes:
 
 * *Título*.
 * *Descripción*.
@@ -378,21 +410,25 @@ Se abrirá la ventana *NUEVO RESULTADO* (Figura 53). Los campos que aparecen en
 * *Categoría*: selecciona la categoría del menú desplegable, en su caso.
 * *Propuestas relacionadas*: selecciona las propuestas que tienen relación con el proyecto.
 
+[#image47-fig]
 ._Nuevo resultado de los presupuestos._
 image::images/image47.png[]
 
-Para editar los proyectos en votación, en el submenú del proceso participativo, en *Funcionalidades/ Componentes*, selecciona *Nombrepresupuestos* (el nombre que se ha dado a la funcionalidad/ componente). Se abrirá la ventana *PROYECTOS* (Figura 54). Haz clic en los iconos correspondientes: *Previsualizar*, para ver cómo quedará; *Editar, Colecciones, Archivos adjuntos*, para añadir documentos; o *Borrar*. Desde esta ventana, también se pueden ver los apoyos que han recibido los diferentes proyectos (*Número de votos*) y los votos totales (*Votos terminados* y *Votos pendientes*; estos últimos indican que el participante ha empezado a votar pero todavía no ha emitido el voto).
+Para editar los proyectos en votación, en el submenú del proceso participativo, en *Funcionalidades/ Componentes*, selecciona *Nombrepresupuestos* (el nombre que se ha dado a la funcionalidad/ componente). Se abrirá la ventana *PROYECTOS* (ver <<image50-fig>>). Haz clic en los iconos correspondientes: *Previsualizar*, para ver cómo quedará; *Editar, Colecciones, Archivos adjuntos*, para añadir documentos; o *Borrar*. Desde esta ventana, también se pueden ver los apoyos que han recibido los diferentes proyectos (*Número de votos*) y los votos totales (*Votos terminados* y *Votos pendientes*; estos últimos indican que el participante ha empezado a votar pero todavía no ha emitido el voto).
 
+[#image50-fig]
 ._Lista de proyectos a votación._
 image::images/image50.png[]
 
-Además de crear los proyectos, hay que especificar quién podrá darles apoyo. En el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes* y en el icono *Permisos* de *Nombrepresupuestos* (Figura 55).
+Además de crear los proyectos, hay que especificar quién podrá darles apoyo. En el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes* y en el icono *Permisos* de *Nombrepresupuestos* (ver <<image53-fig>>).
 
+[#image53-fig]
 ._Icono permisos de presupuestos._
 image::images/image53.png[]
 
-Se abrirá la ventana *Editar permisos* donde hay que seleccionar en el desplegable el criterio para que las personas puedan votar. Estos criterios varían en función de la instancia y se definen cuando se instala el Decidim, aunque pueden ser modificados posteriormente por un programador. En el ejemplo (Figura 56), los criterios son: *Todo el mundo, Documentos de identidad (con varios pasos), Código por carta postal (Con varios pasos), Autorización de ejemplo (Directo)*.
+Se abrirá la ventana *Editar permisos* donde hay que seleccionar en el desplegable el criterio para que las personas puedan votar. Estos criterios varían en función de la instancia y se definen cuando se instala el Decidim, aunque pueden ser modificados posteriormente por un programador. En el ejemplo (ver <<image14-fig>>), los criterios son: *Todo el mundo, Documentos de identidad (con varios pasos), Código por carta postal (Con varios pasos), Autorización de ejemplo (Directo)*.
 
+[#image14-fig]
 ._Permisos de edición de apoyos de presupuestos._
 image::images/image14.png[]
 
@@ -401,7 +437,7 @@ image::images/image14.png[]
 
 Este componente permite diseñar y realizar encuestas, así como visualizar los resultados de las encuestas. Es útil para poder conocer la opinión de la ciudadanía.
 
-Para configurar el componente (funcionalidad) de encuestas, en el submenú de *PROCESOS*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente* en la parte superior derecha de la ventana, y selecciona *Encuesta*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: ENCUESTA* (Figura 57).
+Para configurar el componente (funcionalidad) de encuestas, en el submenú de *PROCESOS*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente* en la parte superior derecha de la ventana, y selecciona *Encuesta*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: ENCUESTA* (ver <<image38-fig>>).
 
 Deben completarse los siguientes campos:
 
@@ -412,10 +448,11 @@ Deben completarse los siguientes campos:
 
 Finalmente, haz clic en *Añadir funcionalidad/ componente*.
 
+[#image38-fig]
 ._Añadir funcionalidad/ componente: Encuesta._
 image::images/image38.png[]
 
-Para editar la encuesta, haz clic en *Encuesta* en el submenú de *Funcionalidades/ Componentes* del proceso participativo. Se abrirá la ventana en la que se debe poner la información general sobre la encuesta (Figura 58):
+Para editar la encuesta, haz clic en *Encuesta* en el submenú de *Funcionalidades/ Componentes* del proceso participativo. Se abrirá la ventana en la que se debe poner la información general sobre la encuesta (ver <<image57-fig>>):
 
 * *Título* (_Title_)
 * *Descripción*
@@ -431,6 +468,7 @@ A continuación, haz clic en *Añadir pregunta*. Para cada una de las preguntas 
 
 Haz clic de nuevo en *Añadir pregunta* para configurar el resto de preguntas. Se repite el mismo procedimiento para cada una de las preguntas de la encuesta. Al terminar pulsar *Guardar*.
 
+[#image57-fig]
 ._Crear Encuesta._
 image::images/image57.png[]
 
@@ -441,7 +479,7 @@ La funcionalidad/ componente *Seguimiento/ Responsabilidad* permite a las perso
 
 Los resultados pueden convertirse en proyectos o derivar en subproyectos, que pueden ser descritos con más detalle y para los que se puede definir el estado de ejecución, en tramos que van desde 0% de ejecución al 100%. Los resultados, proyectos y estados se puede actualizar mediante un CVS y manualmente mediante la interfaz de administración.
 
-Para configurar la funcionalidad/ componente *Seguimiento*, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *Seguimiento/ Responsabilidad*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: SEGUIMIENTO/ RESPONSABILIDAD* (Figura 59).
+Para configurar la funcionalidad/ componente *Seguimiento*, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *Seguimiento/ Responsabilidad*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: SEGUIMIENTO/ RESPONSABILIDAD* (ver <<image27-fig>>).
 
 Deben completarse los siguientes campos:
 
@@ -457,11 +495,13 @@ Deben completarse los siguientes campos:
 
 Finalmente, haz clic en *Añadir funcionalidad/ componente*.
 
+[#image27-fig]
 ._Añadir funcionalidad/ componente: Seguimiento/ Responsabilidad._
 image::images/image27.png[]
 
-Para crear un nuevo resultado, haz clic en *NUEVO/A RESULTADO*, en la ventana *SEGUIMIENTO* (para acceder, haz clic en *Seguimiento*, en el submenú *Funcionalidades/ Componentes* del proceso participativo). Se abrirá la ventana *NUEVO RESULTADO* (Figura 60).
+Para crear un nuevo resultado, haz clic en *NUEVO/A RESULTADO*, en la ventana *SEGUIMIENTO* (para acceder, haz clic en *Seguimiento*, en el submenú *Funcionalidades/ Componentes* del proceso participativo). Se abrirá la ventana *NUEVO RESULTADO* (ver <<image70-fig>>).
 
+[#image70-fig]
 ._Nuevo resultado._
 image::images/image70.png[]
 
@@ -478,8 +518,9 @@ En esta ventana se encuentran los siguientes campos:
 * *Propuestas incluidas*: selecciona en el desplegable las propuestas que incluye (utiliza la función *Ctrl* para seleccionar más de una propuesta).
 * *Proyectos incluidos*: ídem.
 
-Para la gestión de los *Resultados*, haz clic en *NombreResultados*, en el submenú del *PROCESO*. Se abrirá la ventana *SEGUIMIENTO*, donde aparece la lista de los resultados y las posibles *ACCIONES* (*Previsualizar, Nuevo/a Resultado, Evolución del proyecto, Editar* y *Borrar*) (Figura 61).
+Para la gestión de los *Resultados*, haz clic en *NombreResultados*, en el submenú del *PROCESO*. Se abrirá la ventana *SEGUIMIENTO*, donde aparece la lista de los resultados y las posibles *ACCIONES* (*Previsualizar, Nuevo/a Resultado, Evolución del proyecto, Editar* y *Borrar*) (ver <<image36-fig>>).
 
+[#image36-fig]
 ._Resultados._
 image::images/image36.png[]
 
@@ -488,8 +529,9 @@ image::images/image36.png[]
 
 La funcionalidad/ componente *Debates* permite crear preguntas o debates sobre temas específicos definidos por los administradores o por los participantes.
 
-Para configurar la funcionalidad/ componente *Debates*, en el submenú de *PROCESOS PARTICIPATIVOS*, haz clic en *Funcionalidades/ Componentes*. A continuación clica Añadir funcionalidad/ componente en la parte superior derecha de la ventana y seleccionar *Debates*. Se abre la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: DEBATES* (Figura 62).
+Para configurar la funcionalidad/ componente *Debates*, en el submenú de *PROCESOS PARTICIPATIVOS*, haz clic en *Funcionalidades/ Componentes*. A continuación clica Añadir funcionalidad/ componente en la parte superior derecha de la ventana y seleccionar *Debates*. Se abre la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: DEBATES* (ver <<image35-fig>>).
 
+[#image35-fig]
 ._Añadir funcionalidad/ componente: Debates._
 image::images/image35.png[]
 
@@ -502,7 +544,7 @@ Se deben rellenar los siguientes campos:
 
 Finalmente, haz clic en *Añadir funcionalidad/ componente*.
 
-Para abrir un nuevo debate, haz clic en *NUEVO DEBATE* en la ventana *DEBATES* (para acceder pulsar *Debates* en el submenú *funcionalidades/ componentes* del proceso participativo). Se abre la ventana NUEVO DEBATE (Figura 63).
+Para abrir un nuevo debate, haz clic en *NUEVO DEBATE* en la ventana *DEBATES* (para acceder pulsar *Debates* en el submenú *funcionalidades/ componentes* del proceso participativo). Se abre la ventana NUEVO DEBATE (ver <<image55-fig>>).
 
 Los campos que se deben rellenar para configurar un nuevo debate son:
 
@@ -515,11 +557,13 @@ Los campos que se deben rellenar para configurar un nuevo debate son:
 
 Finalmente, haz clic en *Crear debate*.
 
+[#image55-fig]
 ._Nuevo debate._
 image::images/image55.png[]
 
-Una vez creado, para ver la lista de debates se debe hacer clic en *Debates* del menú de *Funcionalidades/ Componentes* del *Proceso participativo* correspondiente. De este modo accedemos a la ventana *Debates* (Figura 64).
+Una vez creado, para ver la lista de debates se debe hacer clic en *Debates* del menú de *Funcionalidades/ Componentes* del *Proceso participativo* correspondiente. De este modo accedemos a la ventana *Debates* (ver <<image61-fig>>).
 
+[#image61-fig]
 ._Debates._
 image::images/image61.png[]
 
@@ -530,8 +574,9 @@ Para cada uno de los debates se muestra el título, la fecha de inicio, la de fi
 
 La funcionalidad/ componente *Sorteos* permite elegir de forma aleatoria un número determinado de propuestas respecto a un conjunto; por ejemplo, determinar a las personas que formarán parte de un grupo (como un comité) aleatoriamente de entre un grupo más amplio, donde cada persona es una propuesta de candidatura.
 
-Para configurar la funcionalidad/ componente *Sorteos*, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *Sorteos*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: SORTEOS* (Figura 65).
+Para configurar la funcionalidad/ componente *Sorteos*, en el submenú del *PROCESO*, haz clic en *Funcionalidades/ Componentes*; a continuación, haz clic en *Añadir funcionalidad/ componente*, en la parte superior derecha de la ventana, y selecciona *Sorteos*. Se abrirá la ventana *AÑADIR FUNCIONALIDAD/ COMPONENTE: SORTEOS* (ver <<image64-fig>>).
 
+[#image64-fig]
 ._Añadir funcionalidad/ componente: Sorteos._
 image::images/image64.png[]
 
@@ -543,7 +588,7 @@ Deben completarse los siguientes campos:
 
 Finalmente, haz clic en *Añadir funcionalidad/ componente*.
 
-Para realizar un sorteo, haz clic en *NUEVO*, en la ventana *SORTEOS* (para acceder, haz clic en *Sorteos*, en el submenú *Funcionalidades/ Componentes* del proceso participativo). Se abrirá la ventana *NUEVO SORTEO* (Figura 66).
+Para realizar un sorteo, haz clic en *NUEVO*, en la ventana *SORTEOS* (para acceder, haz clic en *Sorteos*, en el submenú *Funcionalidades/ Componentes* del proceso participativo). Se abrirá la ventana *NUEVO SORTEO* (ver <<image16-fig>>).
 
 Los campos que hay que completar para configurar un nuevo sorteo son los siguientes:
 
@@ -555,6 +600,7 @@ Los campos que hay que completar para configurar un nuevo sorteo son los siguien
 * *Información adicional*: debe completarse si se considera relevante incluir otra información.
 * *Resultado de la tirada de dados*: para ampliar las garantías de la aleatoriedad del resultado, hay que tirar un dado de 6 caras (o buscar otra manera aleatoria de generar un número del 1 al 6) ante los testigos e introducir el número resultante en el desplegable.
 
+[#image16-fig]
 ._Nuevo sorteo._
 image::images/image16.png[]
 
@@ -565,12 +611,13 @@ Un grupo de procesos resulta útil para subdividir grandes procesos participativ
 
 Para configurar grupos de procesos participativos, haz clic en *GRUPOS DE PROCESOS*, en el menú de la izquierda del *PANEL DE CONTROL*.
 
+[#image31-fig]
 ._Grupos de procesos._
 image::images/image31.png[]
 
-A continuación, haz clic en *Nuevo/a*, en la ventana *GRUPOS DE PROCESOS PARTICIPATIVOS* (Figura 67), donde aparecerá la lista de *Grupos de procesos* cuando hayan sido creados.
+A continuación, haz clic en *Nuevo/a*, en la ventana *GRUPOS DE PROCESOS PARTICIPATIVOS* (ver <<image31-fig>>), donde aparecerá la lista de *Grupos de procesos* cuando hayan sido creados.
 
-Se abrirá la ventana *NUEVO GRUPO DE PROCESOS* (Figura 68), donde se debe indicar lo siguiente:
+Se abrirá la ventana *NUEVO GRUPO DE PROCESOS* (ver <<image42-fig>>), donde se debe indicar lo siguiente:
 
 * *Nombre*.
 * *Descripción*.
@@ -579,5 +626,6 @@ Se abrirá la ventana *NUEVO GRUPO DE PROCESOS* (Figura 68), donde se debe indi
 
 Para finalizar, haz clic en *Crear*.
 
+[#image42-fig]
 ._Nuevo grupo de procesos._
 image::images/image42.png[]

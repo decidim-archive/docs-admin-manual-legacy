@@ -9,7 +9,7 @@ image::images/image68.png[]
 
 Se abrirá la ventana *Iniciar sesión* (ver <<image62-fig>>), en la que deberán completarse los campos *Correo electrónico* y *Contraseña*, y hacer clic en *Iniciar sesión*. Primero, es necesario que la persona se haya registrado.
 
-Para registrarse, se puede hacer desde esta misma ventana (Figura 3), haciendo clic en *Créate una cuenta* (en la parte superior de la pantalla) o en *Regístrate* (en la parte inferior), o bien desde la página principal, haciendo clic en *Regístrate*.
+Para registrarse, se puede hacer desde esta misma ventana (ver <<image62-fig>>), haciendo clic en *Créate una cuenta* (en la parte superior de la pantalla) o en *Regístrate* (en la parte inferior), o bien desde la página principal, haciendo clic en *Regístrate*.
 
 [#image62-fig]
 ._Entra._
