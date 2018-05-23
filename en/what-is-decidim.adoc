@@ -4,9 +4,9 @@
 
 Decidim is a technopolitical project. A digital citizen-participation platform for a democratic city, made openly and collaboratively using free software.. It is a public commons infrastructure. Public because it enjoys a clear institutional impetus and commons because the code is open and free, in other words, anyone can see it, use it, copy it or amend it. It is a platform designed for coordinating citizen-participation processes and spaces, aimed at extending and facilitating access to citizen participation, opening new spaces for deliberation and collaboration in co-designing and co-producing public policies and new spaces for direct participation and democracy, thereby enabling disintermediation and cooperation between citizens, institutions and organisations of civil society.
 
-image:images/image69.png[decidim.barcelona(4).png]
-
-[[h.1t3h5sf]]Figure 1 - decidim.barcelona
+[#decidim.barcelona-fig]
+._decidim.barcelona_.
+image::images/image69.png[decidim.barcelona(4).png]
 
 [[h.4d34og8]]
 == Principles

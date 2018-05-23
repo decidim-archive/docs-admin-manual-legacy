@@ -13,13 +13,13 @@ Here we offer you three informative pages that you can use as a template or re-u
 |===
 |FAQS (EN)
 a|
-If you’d like to take part in participatory processes and have your say, register! Note that to use some of the functions of certain processes (such as voting and prioritising) you will have to verify that you are registered with Name of the Municipality/ Organization, by following a very simple step.
+If you’d like to take part in participatory processes and have your say, register! Note that to use some of the functions of certain processes (such as voting and prioritising) you will have to verify that you are registered with #Name of the Municipality/ Organization#, by following a very simple step.
 
-*What is Name of the Municipality/ Organization?*
+*What is #Name of the Municipality/ Organization?#*
 
-A platform for building a more participatory Name of the Municipality/ Organization, with a shared vision and for delving deeper into local participatory democracy.
+A platform for building a more participatory #Name of the Municipality/ Organization#, with a shared vision and for delving deeper into local participatory democracy.
 
-Platformname is a participatory platform based on open code. Citizens can see how it is built and can reuse or improve it. https://www.google.com/url?q=https://github.com/AjuntamentdeBarcelona/decidim.barcelona&sa=D&ust=1526042251888000[Check out the code here on GitHub].
+#Platformname# is a participatory platform based on open code. Citizens can see how it is built and can reuse or improve it. https://www.google.com/url?q=https://github.com/AjuntamentdeBarcelona/decidim.barcelona&sa=D&ust=1526042251888000[Check out the code here on GitHub].
 
 *How can I participate in Platformname?*
 
@@ -47,7 +47,7 @@ Follow the existing proposals
 
 *Participatory processes*
 
-*Platformname* activities that involve citizens and which are carried out in several stages: information, diagnosis, contributions, decisions, results and evaluation of the proposals.
+*#Platformname#* activities that involve citizens and which are carried out in several stages: information, diagnosis, contributions, decisions, results and evaluation of the proposals.
 
 *Assemblies*
 
@@ -78,18 +78,18 @@ Contributions you can make as a user in response to a proposal or discussion and
 Check the following possibilities:
 
 * Have you entered your national ID number or document without spaces between the digits, including the final letter?
-* Are you sure you are a registered resident in the municipality of Name of the Municipality/ Organization? (The municipality is geographically smaller than the Barcelona Metropolitan Area and the Province of Barcelona)
+* Are you sure you are a registered resident in the municipality of #Name of the Municipality/ Organization#? (The municipality is geographically smaller than the Barcelona Metropolitan Area and the Province of Barcelona)
 * There may be a problem with your data in the residency register. Consult your nearest CITIZEN HELP AND INFORMATION OFFICE and confirm that your registration information is correct.
 
-If all the above steps do not solve the problem, email us at Email or come to the face-to-face discussions and debates for each process.
+If all the above steps do not solve the problem, email us at #Email# or come to the face-to-face discussions and debates for each process.
 
-*I am not a registered resident in Name of the Municipality/ Organization; why can't I vote for the proposals?*
+*I am not a registered resident in #Name of the Municipality/ Organization#; why can't I vote for the proposals?*
 
-Only registered residents in Name of the Municipality/ Organization are allowed to vote in processes where proposals can be voted on. When it comes to questions that affect decisions to be taken that are specific to the city, it is the city’s residents who need to take part in such decision-taking.
+Only registered residents in #Name of the Municipality/ Organization# are allowed to vote in processes where proposals can be voted on. When it comes to questions that affect decisions to be taken that are specific to the city, it is the city’s residents who need to take part in such decision-taking.
 
-It is true that there are people not registered Name of the Municipality/ Organization residents who may still be affected by these decisions, but the Register is the broadest available census that we have in Name of the Municipality/ Organization: it allows us to reach the maximum number of people while also guaranteeing that the participatory process is secure. On the other hand, not all the processes launched from the platform require their participants to be registered residents in the city.
+It is true that there are people not registered #Name of the Municipality/ Organization# residents who may still be affected by these decisions, but the Register is the broadest available census that we have in #Name of the Municipality/ Organization#: it allows us to reach the maximum number of people while also guaranteeing that the participatory process is secure. On the other hand, not all the processes launched from the platform require their participants to be registered residents in the city.
 
-*I am not a registered Name of the Municipality/ Organization resident. Can I participate?*
+*I am not a registered #Name of the Municipality/ Organization# resident. Can I participate?*
 
 Yes, you can take part even when you are not a registered resident. You can take part in several enabled processes, in face-to-face discussions and debates, and you can launch a proposal, without having to be a registered resident. It is only in some processes that voting for proposals is limited to registered residents, just as only registered residents can vote at municipal elections.
 
@@ -111,11 +111,11 @@ The first step is to create an account. Create the account and fill in the infor
 
 Once your basic account has been created and you have logged in using your email and password, the system will give you the option of carrying out a basic verification. To do this, click on the "My account" link on the top right and then click on the "Verify my account" button.
 
-Some processes, where necessary, will also require you to enter your residency data, to verify you are a registered resident in Name of the Municipality/ Organization (it is important to enter the document number along with the letter and your date of birth, and tick the box stating you accept access to the Municipal Register). If your data is correct, your account will allow you to support the proposals.
+Some processes, where necessary, will also require you to enter your residency data, to verify you are a registered resident in #Name of the Municipality/ Organization# (it is important to enter the document number along with the letter and your date of birth, and tick the box stating you accept access to the Municipal Register). If your data is correct, your account will allow you to support the proposals.
 
 *I've forgotten my password and my account doesn't work. What can I do?*
 
-You can request a new password, which will be sent to your email address. If the above solution does not work, you can email us at Email, and we will solve the problem associated with your account. Processes that include face-to-face meetings are open to you to attend and take part in, without the need for you to register with the platform.
+You can request a new password, which will be sent to your email address. If the above solution does not work, you can email us at #Email#, and we will solve the problem associated with your account. Processes that include face-to-face meetings are open to you to attend and take part in, without the need for you to register with the platform.
 
 *How can I change my email address, my user name, my password, unsubscribe or activate/deactivate the notifications that are sent to email address?*
 
@@ -123,7 +123,7 @@ Click on the "Enter" link, enter your email address and password, and click on t
 
 *I am unable to create my account correctly.*
 
-Review the section "My residency verification doesn't work", in case the problem lies in this step; generally speaking, this is the most frequent problem. If this does not solve your problem, review the section "How to create and verify my account", to ensure that your are following the steps correctly. If the problem persists, email us at Email, and you will be given assistance.
+Review the section "My residency verification doesn't work", in case the problem lies in this step; generally speaking, this is the most frequent problem. If this does not solve your problem, review the section "How to create and verify my account", to ensure that your are following the steps correctly. If the problem persists, email us at #Email#, and you will be given assistance.
 |===
 
 [[h.mqwt6we7yoz]]
@@ -136,7 +136,7 @@ Review the section "My residency verification doesn't work", in case the problem
 |===
 |Terms and conditions of use (EN)
 a|
-Legal aspects and conditions of use for the Platformname participatory platform at Name of the Municipality/ Organization City Council.
+Legal aspects and conditions of use for the #Platformname# participatory platform at #Name of the Municipality/ Organization# City Council.
 
 (the ones that the legal services recommend you. You can use the https://www.google.com/url?q=https://decidim.barcelona/pages/terms-and-conditions&sa=D&ust=1526042251902000[Decidim.Barcelona terms and conditions of use] as a model).
 |===

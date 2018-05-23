@@ -1,28 +1,30 @@
 [[h.nmf14n]]
 == Processes
 
-To configure participatory processes on the Decidim platform, click on *PROCESSES* in the *DASHBOARD*. A list will appear with the existing processes, if there are any (Figure 21).
+To configure participatory processes on the Decidim platform, click on *PROCESSES* in the *DASHBOARD*. A list will appear with the existing processes, if there are any (<<participatory-processes-fig>>).
 
-[[h.37m2jsg]]image:images/image29.png[image]Figure 21 - Participatory processes
+[#participatory-processes-fig]
+._Participatory processes_.
+image::images/image29.png[image]
 
 The created at date is shown for each of the processes, whether or not published, and the following actions can be performed by clicking on the corresponding icons: duplicate the process; configure and preview how it will look once published.
 
 The information on the processes can be edited by clicking on the *Configure* icon or name of the process.
 
-To create a new process, click on *New* in the *PARTICIPATORY PROCESSES* submenu or on the upper right part of the window (Figure 21). A window will open where you have to enter general information on the process (See 5.1 Information). The process (stages, users, functions etc.,) is configured through the submenu of the process that appears when you click on a process on the process list screen (Figure 22). This submenu is on the left of the process window.
+To create a new process, click on *New* in the *PARTICIPATORY PROCESSES* submenu or on the upper right part of the window (<<participatory-processes-fig>>). A window will open where you have to enter general information on the process (See 5.1 Information). The process (stages, users, functions etc.,) is configured through the submenu of the process that appears when you click on a process on the process list screen (<<participatory-process-submenu-fig>>). This submenu is on the left of the process window.
 
-image:images/image31.png[image]
-
-[[h.1mrcu09]]Figure 22 -  Participatory process submenu
+[#participatory-process-submenu-fig]
+._Participatory process submenu
+image::images/image31.png[image]
 
 [[h.46r0co2]]
 === Information
 
-You first have to fill in the fields with general information on the process. Click on *PROCESSES* in the *DASHBOARD* and click on *New* in the *PARTICIPATORY PROCESS* submenu on the upper right of the window that appears with the list of processes. A *NEW PARTICIPATORY PROCESS* window will open (Figure 23).
+You first have to fill in the fields with general information on the process. Click on *PROCESSES* in the *DASHBOARD* and click on *New* in the *PARTICIPATORY PROCESS* submenu on the upper right of the window that appears with the list of processes. A *NEW PARTICIPATORY PROCESS* window will open (<<new-participatory-process-fig>>).
 
-image:images/image55.png[image]
-
-[[h.2lwamvv]]Figure 23 - New participatory process
+[#new-participatory-process-fig]
+._New participatory process
+image::images/image55.png[image]
 
 Fill in the following fields (remember that where the platform is in two or more languages, you will need to fill in the information in all the languages):
 
@@ -35,8 +37,8 @@ Fill in the following fields (remember that where the platform is in two or more
 * *Promoted*: tick whether you wish to highlight the process on the platform’s home page.
 * *Short description*: 600 characters maximum, explaining the participatory actions.
 * *Description*: from 1600 characters “llegir més” (read more) is displayed.
-* *Home image*: image associated with the participatory process that appears on the general process page (Figure 24) and on Decidim's home page, where the *promoted* option has been ticked (Figure 25). Minimum sizes: 1015 px. wide x 667 px. high.
-* *Banner image*: image for all the pages of the process, published on the upper part of the pages, from left to right (Figure 26). Minimum sizes: 1200 px. wide x 300 px. high.
+* *Home image*: image associated with the participatory process that appears on the general process page (<<image-of-genera-processes-front-pate-fig>>) and on Decidim's home page, where the *promoted* option has been ticked (<<image-of-decidim-homepage-front-page-img>>). Minimum sizes: 1015 px. wide x 667 px. high.
+* *Banner image*: image for all the pages of the process, published on the upper part of the pages, from left to right (<<banner-image-fig>>). Minimum sizes: 1200 px. wide x 300 px. high.
 * *Developer group*: manager and person politically responsible for the participatory process, can only be the City Council or a group made up of City Council professionals and politicians and associations, enterprises, city residents and other entities.
 * *Local area*: areas of the City Council involved in the participatory process.
 * *Scope metadata*: this is not displayed, being internal information about which area of the city the process is aimed at.
@@ -49,17 +51,17 @@ Fill in the following fields (remember that where the platform is in two or more
 * *Show statistics*: tick whether you wish to display the process’s statistics (Number of meetings, proposals and so on) on the process’ main page.
 * *Announcement*: if you want a paragraph displayed with a specific announcement (for example, if a new stage begins in any participatory process).
 
-image:images/image63.png[imatge processo destacats.png]
+[#image-of-genera-processes-front-pate-fig]
+._Image of general processes' front page_.
+image::images/image63.png[imatge]
 
-[[h.111kx3o]]Figure 24 - Image of general processes’ front page
+[#image-of-decidim-homepage-front-page-img]
+._Image of Decidim homepage's front page_.
+image::images/image43.png[image]
 
-image:images/image43.png[image]
-
-[[h.3l18frh]]Figure 25 - Image of Decidim homepage’s front page
-
-image:images/image47.png[image]
-
-[[h.206ipza]]Figure 26 - Banner image
+[#banner-image-fig]
+._Banner image_.
+image::images/image47.png[image]
 
 To finish, click on *Create*. You can see how all this information will be displayed by clicking on the process’s corresponding *Preview* icon.
 
@@ -72,7 +74,7 @@ A participatory process will be reflected on the Decidim platform at different s
 
 As a guideline, the standard structure of a participatory process may be as follows: Stage 1: presentation; Stage 2: diagnosis; Stage 3: proposal creation and debate; Stage 4: prioritisation of proposals; Stage 5: selection of results; Stage 6: assessment; Stage 7: monitoring.
 
-To configure the stages of the process, click on *Steps* in the *PARTICIPATORY PROCESS* submenu and then click *NEW*. A *NEW PARTICIPATORY PROCESS STEP* window will open (Figure 27).
+To configure the stages of the process, click on *Steps* in the *PARTICIPATORY PROCESS* submenu and then click *NEW*. A *NEW PARTICIPATORY PROCESS STEP* window will open (<<new-participatory-process-step-fig>>).
 
 You need to enter the following for each of the stages:
 
@@ -82,80 +84,90 @@ You need to enter the following for each of the stages:
 
 Once you have done that, click on *Create*.
 
-image:images/image32.png[image]
+[#new-participatory-process-step-fig]
+._New participatory process step_.
+image::images/image32.png[image]
 
-Figure 27 - New participatory process step
+To activate the stage the process is at, click on *Steps* from the *PARTICIPATORY PROCESS* submenu. A window will open showing all the stages of the process that have been configured and the icons that enable you to *Activate*, *Edit* and *Destroy* each of them. Click on *Activate* at the corresponding stage (<<process-steps-fig>>).
 
-To activate the stage the process is at, click on *Steps* from the *PARTICIPATORY PROCESS* submenu. A window will open showing all the stages of the process that have been configured and the icons that enable you to *Activate*, *Edit* and *Destroy* each of them. Click on *Activate* at the corresponding stage (Figure 28).
+[#process-steps-fig]
+._Process steps_.
+image::images/image40.png[image]
 
-image:images/image40.png[image]
+Users will be able to display the various stages and descriptions that have been configured, by clicking on *View steps* (in the flag image, on the right). The stage that is active will be highlighted in red (<<displaying-steps-of-the-participating-user-process-fig>>).
 
-[[h.1egqt2p]]Figure 28 - Process steps
-
-Users will be able to display the various stages and descriptions that have been configured, by clicking on *View steps* (in the flag image, on the right). The stage that is active will be highlighted in red (Figure 29).
-
-image:images/image14.png[image]
-
-[[h.3ygebqi]]Figure 29 - Displaying steps of the participating user process
+[#displaying-steps-of-the-participating-user-process-fig]
+._Displaying steps of the participating user process_.
+image::images/image14.png[image]
 
 [[h.2dlolyb]]
 === Categories
 
-Categories (and subcategories) are used for classing contents within the various participatory spaces/ processes, as well as enabling users to filter contents. They are defined for each of the instances of the spaces.  For example, a participatory space can include several categories and subcategories and meetings, surveys, proposals and other components of the process can be classed under these categories. A category could be Environment and two of its subcategories Mobility and Air quality. Figure 30 shows the categories and subcategories that were used in the participatory process for drafting the Barcelona Municipal Action Plan (PAM) for 2016.
+Categories (and subcategories) are used for classing contents within the various participatory spaces/ processes, as well as enabling users to filter contents. They are defined for each of the instances of the spaces.  For example, a participatory space can include several categories and subcategories and meetings, surveys, proposals and other components of the process can be classed under these categories. A category could be Environment and two of its subcategories Mobility and Air quality. <<categories-and-subcagetories-in-the-barcelona-PAM-for-20016-fig>> shows the categories and subcategories that were used in the participatory process for drafting the Barcelona Municipal Action Plan (PAM) for 2016.
 
-[[h.sqyw64]]image:images/image65.png[Screenshot 11/07/2017 a las 13.25.32.png]Figure 30 - Categories and subcategories in the Barcelona PAM for 2016
+[#categories-and-subcagetories-in-the-barcelona-PAM-for-20016-fig]
+._Categories and subcategories in the Barcelona PAM for 2016_.
+image::images/image65.png[image]
 
 Note that once the categories have been defined, you cannot change them as they become the index that structures the contents inside a participation space. For example, if there is a participatory process for electing candidates, the categories could identify lists or types of candidacies. And where the process is for defining a Plan, the categories would coincide with the index for this Plan.
 
 Note too that when it comes to classing contents, Decidim also allows scopes and labels (or tags) to be distinguished and configured. Unlike categories, (territorial or thematic) scopes are general throughout the platform and are defined during the configuration of the Decidim platform of the local authority/ entity.^link:#ftnt8[[8]]^ Whereas labels (or tags) are freely defined by participants and can apply to any instance or component. The administration panel also allows you to create and nest labels.
 
-For configuring categories, click on *Categories* in the *PARTICIPATIVE PROCESS* submenu. Then click on *NEW* below. You need to enter the following for each of the categories/ subcategories (Figure 31): *Name* and *Description* and, where a subcategory is involved, select the category it corresponds to from the *Parent* drop-down menu. To finish, click on *Create category*.
+For configuring categories, click on *Categories* in the *PARTICIPATIVE PROCESS* submenu. Then click on *NEW* below. You need to enter the following for each of the categories/ subcategories (<<new-category-fig>>): *Name* and *Description* and, where a subcategory is involved, select the category it corresponds to from the *Parent* drop-down menu. To finish, click on *Create category*.
 
-image:images/image21.png[image]
-
-[[h.3cqmetx]]Figure 31 - New category
+[#new-category-fig]
+._New category_.
+image::images/image21.png[image]
 
 [[h.hujj6qjwvw9u]]
 === Attachments: Collections and Files
-When a participatory process is launched, it is important to provide citizens with as much information as possible about them so that they can participate with knowledge. That is why it is helpful to add files (Attachments) with the information that is considered relevant. +
-These documents can be classified/ grouped in *Collections*. For example, for a process of remodeling a place, collections could be created with information about possible uses, with plans, with economic information, etc. +
-First you need to create the collections to be able to place the attachments later. Click *Collections* in the submenu of the *PARTICIPATORY PROCESS*, the window is shown *ADVANCED COLLECTIONS* (Figure 32).
+When a participatory process is launched, it is important to provide citizens with as much information as possible about them so that they can participate with knowledge. That is why it is helpful to add files (Attachments) with the information that is considered relevant.
 
-image:images/image39.png[image]
+These documents can be classified/ grouped in *Collections*. For example, for a process of remodeling a place, collections could be created with information about possible uses, with plans, with economic information, etc.
 
-[[h.qk8964pm6h0b]]Figure 32 - Attachment collections
+First you need to create the collections to be able to place the attachments later. Click *Collections* in the submenu of the *PARTICIPATORY PROCESS*, the window is shown *ADVANCED COLLECTIONS* (<<attachment-collections-fig>>).
 
-Then click on *NEW* to create a new collection. Add *Name*, *Weight* and a *Description*. To finish, click *Create attachment* (Figure 33).
+[#attachment-collections-fig]
+._Attachment collections_.
+image::images/image39.png[image]
 
-[[h.pi9185cpag2w]]image:images/image17.png[image]
-[[h.3cqmetx-3]]Figure 33 - New collection
+Then click on *NEW* to create a new collection. Add *Name*, *Weight* and a *Description*. To finish, click *Create attachment* (<<new-collecion-fig>>).
 
-Once the collections have been created, the attachments can be added. Click *Files* in the sub-menu of the *PARTICIPATORY PROCESS* and click *NEW* to add the files. The *NEW ATTACHMENT* window opens (Figure 34). Write the *Title* and the *Description*, select the *Weight* and the *Collection* which you want to associate the file, and upload the file by filling the *File* option. To finish click *Create attachment*.
+[#new-collecion-fig]
+._New collection_.
+image::images/image17.png[image]
 
-image:images/image37.png[image]
+Once the collections have been created, the attachments can be added. Click *Files* in the sub-menu of the *PARTICIPATORY PROCESS* and click *NEW* to add the files. The *NEW ATTACHMENT* window opens (<<new-attachment-fig>>). Write the *Title* and the *Description*, select the *Weight* and the *Collection* which you want to associate the file, and upload the file by filling the *File* option. To finish click *Create attachment*.
 
-[[h.4bvk7pj]]Figure 34 - New attachment
+[#new-attachment-fig]
+._New attachment_.
+image::images/image37.png[image]
 
 [[h.2r0uhxc]]
 === Process' users
 
-Authorisation may be given to other individuals, besides the platform’s general administrators, so that they can administer or collaborate in a certain process or moderate where there are contents that have been reported. +
-The process *administrators* can configure/ edit a process whereas *collaborators* can only see what is on the administrator menu of the process without being able to configure/ edit. +
-To register administrators, collaborators and/or moderators of a process, in the process's submenu, go to *Process users* and click on *NEW*. +
-A *NEW PARTICIPATORY PROCESS USER* window will open (Figure 35).
+Authorisation may be given to other individuals, besides the platform’s general administrators, so that they can administer or collaborate in a certain process or moderate where there are contents that have been reported.
 
-image:images/image38.png[image]
+The process *administrators* can configure/ edit a process whereas *collaborators* can only see what is on the administrator menu of the process without being able to configure/ edit.
 
-[[h.1664s55]]Figure 35 - New participatory process user
+To register administrators, collaborators and/or moderators of a process, in the process's submenu, go to *Process users* and click on *NEW*.
+
+A *NEW PARTICIPATORY PROCESS USER* window will open (<<new-participatory-process-user-fig>>).
+
+[#new-participatory-process-user-fig]
+._New participatory process user_.
+image::images/image38.png[image]
 
 You need to fill in the following fields: *Name*, *Email* and *Role* (select from the *Administrator*, *Collaborator* or *Moderator* drop-down menu). Click on *Create* immediately afterwards
 
 [[h.3q5sasy]]
 === Moderating
 
-The *Moderation* function allows you to moderate debates and ensure they are democratic and constructive. Making use of this function, administrators, collaborators and the moderator of a process can hide the contents/ contributions that have been reported, where the complaint is deemed appropriate, or delete the complaint. +
-Contents are generally deemed reportable where they are offensive, can be regarded as spam (advertising posts whether or not related to the discussion topic, links to malicious websites, trolling, abusive or unsolicited information), or have nothing to do with the subject under discussion. +
-To manage reported contents, click on *Moderations* from the process's submenu. A screen will appear with all the comments that have been reported pending moderation and the following information for each of them (Figure 36):
+The *Moderation* function allows you to moderate debates and ensure they are democratic and constructive. Making use of this function, administrators, collaborators and the moderator of a process can hide the contents/ contributions that have been reported, where the complaint is deemed appropriate, or delete the complaint.
+
+Contents are generally deemed reportable where they are offensive, can be regarded as spam (advertising posts whether or not related to the discussion topic, links to malicious websites, trolling, abusive or unsolicited information), or have nothing to do with the subject under discussion.
+
+To manage reported contents, click on *Moderations* from the process's submenu. A screen will appear with all the comments that have been reported pending moderation and the following information for each of them (<<moderations-fig>>):
 
 * *Reportable*: where this concerns a *Proposal* or *Comment*.
 * *Reported content URL*: link for seeing the content reported and the reasons for the complaint.
@@ -163,16 +175,17 @@ To manage reported contents, click on *Moderations* from the process's submenu.
 * *Count*: Number of times it has been reported by different users
 * *Actions*: by clicking on the items on the right you can *Unreport* or *Hide*.
 
-image:images/image42.png[image]
+[#moderations-fig]
+._Modeations_.
+image::images/image42.png[image]
 
-[[h.25b2l0r]]Figure 36 - Moderations
+Reported contents that have already been concealed can be seen by clicking *NOT HIDDEN* (in the upper right of the moderator box). A list of concealed reported contents will appear, with the following information for each of them (<<hidden-content-fig>>): REPORTABLE, REPORTED CONTENT URL, REPORTS, COUNT, HIDDEN AT date (date the content was concealed on), ACTIONS (in this case the action available is *Unreport*).
 
-Reported contents that have already been concealed can be seen by clicking *NOT HIDDEN* (in the upper right of the moderator box). A list of concealed reported contents will appear, with the following information for each of them (Figure 37): REPORTABLE, REPORTED CONTENT URL, REPORTS, COUNT, HIDDEN AT date (date the content was concealed on), ACTIONS (in this case the action available is *Unreport*). +
 To return to visible reported contents, click on *NOT HIDDEN* on the upper right of the moderations.
 
-image:images/image50.png[image]
-
-[[h.kgcv8k]]Figure 37 - Hidden content
+[#hidden-content-fig]
+._Hidden content_.
+image::images/image50.png[image]
 
 [[h.34g0dwd]]
 === Features/ Components
@@ -188,25 +201,26 @@ Participatory processes currently have the following components:
 * *DEBATES*: for conducting debates.
 * *SORTITIONS*: This allows the people who will form part of a group (such as a committee) to be selected at random from a larger group.
 
-To configure components, click on *Features/ Components* from the *PROCESSES* submenu. A list will appear showing the functions that have already been configured by the process (the *FEATURE/ COMPONENT NAME* (which it is given) and the *FEATURE/ COMPONENT TYPE* that has been used for creating it (Figure 38).
+To configure components, click on *Features/ Components* from the *PROCESSES* submenu. A list will appear showing the functions that have already been configured by the process (the *FEATURE/ COMPONENT NAME* (which it is given) and the *FEATURE/ COMPONENT TYPE* that has been used for creating it (<<features-components-fig>>).
 
 The icons in this list enable you to carry out the following actions: *Manage, Publish/ Unpublish, Configure*, and configure *Permissions* and *Destroy* the feature/ component.
 
-image:images/image56.png[image]
+[#features-components-fig]
+._Features/ Components
+image::images/image56.png[image]
 
-[[h.1jlao46]]Figure 38 - Features/Components
+To configure a new function, click on *Add feature/ component* from the upper right part of the window and select the type of function you wish to configure from the drop-down menu (<<add-feature-component-fig>>).
 
-To configure a new function, click on *Add feature/ component* from the upper right part of the window and select the type of function you wish to configure from the drop-down menu (Figure 39).
-
-image:images/image54.png[image]
-
-[[h.43ky6rz]]Figure 39 - Add feature/ Component
+[#add-feature-component-fig]
+._Add Feature/ Component_.
+image::images/image54.png[image]
 
 [[h.2iq8gzs]]
 ==== Page
 
-These are pages with information on the various processes that may describe the process and its stages, participation methods, goals etc. +
-To add a page, click *Page* in the *Add feature/ Component* drop-down menu. The *ADD A FEATURE/ COMPONENT: PAGE* window will open: where the following fields have to be filled in (Figure 40):
+These are pages with information on the various processes that may describe the process and its stages, participation methods, goals etc.
+
+To add a page, click *Page* in the *Add feature/ Component* drop-down menu. The *ADD A FEATURE/ COMPONENT: PAGE* window will open: where the following fields have to be filled in (<<add-feature-component-page-fig>>):
 
 * *Name*: name of the page.
 * *Weight*: This corresponds to the order in which the components (in this case, the page) are displayed in the participatory process menu.
@@ -215,34 +229,34 @@ To add a page, click *Page* in the *Add feature/ Component* drop-down menu. Th
 
 Then click on *Add feature/ Component*.
 
-image:images/image72.png[image]
-
-[[h.3hv69ve]]Figure 40 - Add feature/ Component: page
+[#add-feature-component-page-fig]
+._Add Feature/ Component: Page
+image::images/image72.png[image]
 
 To create/ edit the contents of the configured page, go to the submenu on the left of the participation process, *Features/ Component*, and click on the *page name* (the name that the page has been given).
 
-The Edit page will open. Enter the page's content in the *Body* box. Once you have done that, click on *Update* (Figure 41).
+The Edit page will open. Enter the page's content in the *Body* box. Once you have done that, click on *Update* (<<edit-page-fig>>).
 
-image:images/image75.png[image]
+[#edit-page-fig]
+._Edit page_.
+image::images/image75.png[image]
 
-[[h.xvir7l]]Figure 41 - Edit page
-
-You can also edit the page or change its settings from the *Features/ Component* window (Figure 38), by clicking the corresponding (*Manage* and *Configure*) icons. This window will likewise allow you to *Publish/ Unpublish* or *Destroy* the page.
+You can also edit the page or change its settings from the *Features/ Component* window (<<features-components-fig>>), by clicking the corresponding (*Manage* and *Configure*) icons. This window will likewise allow you to *Publish/ Unpublish* or *Destroy* the page.
 
 [[h.1x0gk37]]
 ==== Meetings
 
-To add face-to-face events, you must first configure the *Meetings* function. Go to the *Add feature/ component* drop-down menu (Figure 39) and click on *Meetings*. The *ADD FEATURES/ COMPONENTS: MEETINGS* window will open (Figure 42).
+To add face-to-face events, you must first configure the *Meetings* function. Go to the *Add feature/ component* drop-down menu (<<add-feature-component-fig>>) and click on *Meetings*. The *ADD FEATURES/ COMPONENTS: MEETINGS* window will open (<<meetings-fig>>).
 
 You need to give a *Name* to the Trobades function, select *Weight* (position in the process's menu), and enter *Announcement*, where appropriate, in *Global settings* and *Step settings*, and tick (by clicking) *Comments enabled* so that the process’s participants can make comments on the meetings or *Comments blocked*.
 
 Click on *Add feature/ Component* immediately after.
 
-Once the *Meetings* function has been configured, you can create meetings. Go to the submenu on the left of the participatory process, to *Features/ Components* and click on *MeetingName* (the name that the function has been given). The *MEETINGS* window will open with the list of meetings that have been previously created (Figure42).
+Once the *Meetings* function has been configured, you can create meetings. Go to the submenu on the left of the participatory process, to *Features/ Components* and click on *MeetingName* (the name that the function has been given). The *MEETINGS* window will open with the list of meetings that have been previously created (<<meetings-fig>>).
 
- image:images/image1.png[image]
-
-[[h.4h042r0]]Figure 42 - Meetings
+[#meetings-fig]
+._Meetings_.
+image::images/image1.png[image]
 
 The window allows you to perform the following actions by clicking on the icons:
 
@@ -254,13 +268,13 @@ The window allows you to perform the following actions by clicking on the icons:
 * Add *Collections*
 * *Delete*
 
-To create a meeting, click on *NEW* in the upper right part of the *MEETINGS* window (Figure 43). The *ADD FEATURES/ COMPONENTS: MEETINGS* window will open:
+To create a meeting, click on *NEW* in the upper right part of the *MEETINGS* window (<<add-features-compoents-meetings-fig>>). The *ADD FEATURES/ COMPONENTS: MEETINGS* window will open:
 
-image:images/image62.png[image]
+[#add-features-compoents-meetings-fig]
+._Add Features/ Components: Meetings
+image::images/image62.png[image]
 
-[[h.2w5ecyt]]Figure 43 - Add features/ Components: meetings
-
-The information that has to be edited where a meeting is created is (Figure 44):
+The information that has to be edited where a meeting is created is (<<create-meeting-fig>>):
 
 * *Title*
 * *Description*
@@ -271,32 +285,32 @@ The information that has to be edited where a meeting is created is (Figure 44):
 * *End time*: as above
 * *Category*: where necessary, select the category from the drop-down menu.
 
-image:images/image60.png[image]
+[#create-meeting-fig]
+._Create meeting_.
+image::images/image60.png[image]
 
-[[h.1baon6m]]Figure 44 - Create meeting
+To activate meeting registrations, go to the *MEETINGS* window (<<meetings-fig>>), and click on the *Registrations* icon. An *Inscripcions* window will open (<<registrations-fig>>), where you need to click on *Registrations enabled*, select the available seating capacity from the *Available slots* drop-down menu (leave it at 0 if there is an unlimited number), and enter the details in *Registration terms*. To finish, click *Save*. The window lets you export the registrations in CSV, JSON or EXCEL format, which you can select from the *Export* drop-down menu.
 
-To activate meeting registrations, go to the *MEETINGS* window (Figure 42), and click on the *Registrations* icon. An *Inscripcions* window will open (Figure 45), where you need to click on *Registrations enabled*, select the available seating capacity from the *Available slots* drop-down menu (leave it at 0 if there is an unlimited number), and enter the details in *Registration terms*. To finish, click *Save*. The window lets you export the registrations in CSV, JSON or EXCEL format, which you can select from the *Export* drop-down menu.
+[#registrations-fig]
+._Registrations_.
+image::images/image9.png[image]
 
-image:images/image9.png[image]
+If you wish to attach a file to the information on the meeting, go to the *MEETINGS* window (<<meetings-fig>>) and click on the *Attachments* icon. The *Attachments* window will open (<<attachments-fig), where a list will appear if there are other attached files and where you can *Edit* or *Delete* the attached files.
 
-[[h.3vac5uf]]Figure 45 - Registrations
+[#attachments-fig]
+._Attachments_.
+image::images/image44.png[image]
 
-If you wish to attach a file to the information on the meeting, go to the *MEETINGS* window (Figure 42) and click on the *Attachments* icon. The *Attachments* window will open (Figure 46), where a list will appear if there are other attached files and where you can *Edit* or *Delete* the attached files.
+Click on *NEW* to attach a file. Then, in the *NEW ATTACHMENT* window (<<new-attachment-fig>>), enter the *Title* and *Description*, upload the file (by clicking on *Seleccionar archivo*). To finish, click on *Create attachment*.
 
-image:images/image44.png[image]
-
-[[h.2afmg28]]Figure 46 - Attachments
-
-Click on *NEW* to attach a file. Then, in the *NEW ATTACHMENT* window (Figure 47), enter the *Title* and *Description*, upload the file (by clicking on *Seleccionar archivo*). To finish, click on *Create attachment*.
-
-image:images/image17.png[image]
-
-[[h.pkwqa1]]Figure 47 - New attachment
+[#new-attachment-fig]
+._New attachment_.
+image::images/image17.png[image]
 
 [[h.39kk8xu]]
 ==== Proposals
 
-To configure the *Proposals* function, go to the *PROCESSES* submenu and click on *Features/ Components*, then click on *Add feature/ Component* in the upper right part of the window and select *Proposals*. The *ADD FEATURE/ COMPONENT: PROPOSALS* window will open (Figure 48). The information you need to enter when the proposal function is configured is:
+To configure the *Proposals* function, go to the *PROCESSES* submenu and click on *Features/ Components*, then click on *Add feature/ Component* in the upper right part of the window and select *Proposals*. The *ADD FEATURE/ COMPONENT: PROPOSALS* window will open (<<add-feature-component-proposals-fig>>). The information you need to enter when the proposal function is configured is:
 
 * *Name*: Name of the proposal
 * *Weight*: the order in which the *Proposals* component is meant to be displayed on the participatory process’s menu.
@@ -321,34 +335,34 @@ To configure the *Proposals* function, go to the *PROCESSES* submenu and click 
 
 To finish, click on *Afegir feature/ Component*.
 
-image:images/image77.png[image]
+[#add-feature-component-proposals-fig]
+._Add Feature/ Component: Proposals
+image::images/image77.png[image]
 
-[[h.1opuj5n]]Figure 48 - Add feature/ Component: proposals
+To manage proposals, that is, to accept/ reject proposals made by participants during the process, click on *PROPOSALS* from the *PROCESSES* submenu. A *PROPOSALS* window will open (<<proposals-fig>>), where there is a list with all the proposals and a series of pieces of information for each one (*TITLE, CATEGORY, ESTATE*, in other words, if it is *Accepted, Withdraw, Not answered*, or *Evaluating*, and the possible *ACTIONS (Private notes, Answer, and Preview)*.
 
-To manage proposals, that is, to accept/ reject proposals made by participants during the process, click on *PROPOSALS* from the *PROCESSES* submenu. A *PROPOSALS* window will open (Figure 49), where there is a list with all the proposals and a series of pieces of information for each one (*TITLE, CATEGORY, ESTATE*, in other words, if it is *Accepted, Withdraw, Not answered*, or *Evaluating*, and the possible *ACTIONS (Private notes, Answer, and Preview)*.
+[#proposals-fig]
+._Proposals_.
+image::images/image24.png[image]
 
-image:images/image24.png[image]
+To respond to proposals, click on the *Answer* icon, the *ANSWER FOR PROPOSAL* (<<answer-for-proposal-fig>>) window will open where you need to tick *Accepted, Rejected*,  or *Evaluating* and enter the reason or response that you wish to give in the *Answer box*.
 
-[[h.48pi1tg]]Figure 49 - Proposals
-
-To respond to proposals, click on the *Answer* icon, the *ANSWER FOR PROPOSAL* (Figure 50) window will open where you need to tick *Accepted, Rejected*,  or *Evaluating* and enter the reason or response that you wish to give in the *Answer box*.
-
-image:images/image33.png[image]
-
-[[h.2nusc19]]Figure 50 - Answer for proposal
+[#answer-for-proposal-fig]
+._Answer for proposal_.
+image::images/image33.png[image]
 
 You can also export proposals and/ or comments in CSV, JSON or EXCEL formats, by clicking on *EXPORT* in the upper right part.
 
-To create a new proposal, in other words, to make official proposals, click on *NEW* in the upper right part of the *PROPOSALS* window (Figure 49), and the *CREATE PROPOSAL* window (Figure 51) will open up, where you need to enter: *Title* and *Body*. Then click on *Create*.
+To create a new proposal, in other words, to make official proposals, click on *NEW* in the upper right part of the *PROPOSALS* window (<<proposals-fig>>), and the *CREATE PROPOSAL* window (<<create-proposal-fig>>) will open up, where you need to enter: *Title* and *Body*. Then click on *Create*.
 
-image:images/image35.png[image]
-
-[[h.1302m92]]Figure 51 - Create proposal
+[#create-proposal-fig]
+._Create proposal_.
+image::images/image35.png[image]
 
 [[h.3mzq4wv]]
 ==== Budgets
 
-To configure the participatory budget function, go to the *PROCESSES* submenu, click on *Features/Components* click on *Add feature/ Component* in the upper right part of the window and select *BUDGETS*. The *ADD FEATURES/ COMPONENTS: BUDGETS* (Figure 52) window will open. You need to fill in the following fields:
+To configure the participatory budget function, go to the *PROCESSES* submenu, click on *Features/Components* click on *Add feature/ Component* in the upper right part of the window and select *BUDGETS*. The *ADD FEATURES/ COMPONENTS: BUDGETS* (<<add-feature-component-budgets-fig>>) window will open. You need to fill in the following fields:
 
 * *Name*: name of the function.
 * *Weight*: this corresponds to the order in which you wish to display the component in the process menu.
@@ -368,13 +382,13 @@ To configure the participatory budget function, go to the *PROCESSES* submenu, c
 
 To finish, click on *Add feature/ Components*.
 
-image:images/image76.png[image]
-
-[[h.2250f4o]]Figure 52 - Add feature/ Component: budgets
+[#add-feature-component-budgets-fig]
+._Add Feature/ Component: Budgets_.
+image::images/image76.png[image]
 
 Once the budget function has been configured, the projects that will be put to the vote need to be created. Go to the participatory process's submenu, to *Features/ Components* and select *Budgedname* (the name that is given to the function), and click *New*.
 
-The *NEW RESULT* window will open (Figure 53). The fields that appear in the file are as follows:
+The *NEW RESULT* window will open (<<new-budget-result-fig>>). The fields that appear in the file are as follows:
 
 * *Title*
 * *Description*
@@ -383,31 +397,34 @@ The *NEW RESULT* window will open (Figure 53). The fields that appear in the fi
 * *Category*: where necessary, select the category from the drop-down menu.
 * *Related proposals*: select proposals relating to the project.
 
-image:images/image11.png[image]
+[#new-budget-result-fig]
+._New budget result_.
+image::images/image11.png[image]
 
-[[h.haapch]]Figure 53 - New budget result
+To edit projects for voting on, go to the participatory process's submenu, then go to *Features/ Components* and select *Budgetname* (the name that the function has been given). The *PROJECTS* window (<<list-of-projects-for-voting-on-fig>>) will open. Click on the corresponding icons: *Preview* to see how they will look, *Edit, Collections* and *Attachments* for adding documents or *Delete*. This window also lets you see the votes that the various projects have received. (Number of votes) and the total number of votes (*Finished votes* and *Pending votes*, that is, that a participant has started voting but has still not cast their vote).
 
-To edit projects for voting on, go to the participatory process's submenu, then go to *Features/ Components* and select *Budgetname* (the name that the function has been given). The *PROJECTS* window (Figure 54) will open. Click on the corresponding icons: *Preview* to see how they will look, *Edit, Collections* and *Attachments* for adding documents or *Delete*. This window also lets you see the votes that the various projects have received. (Number of votes) and the total number of votes (*Finished votes* and *Pending votes*, that is, that a participant has started voting but has still not cast their vote).
+[#list-of-projects-for-voting-on-fig]
+._List of projects for voting on_.
+image::images/image41.png[image]
 
-image:images/image41.png[image]
+Besides creating the projects, you also have to specify who can vote for them. Go to the *PROCESSES* submenu and click first on *Features/ Components* and then on the *Permissions* icon from *Budgets*. (<<budget-permissions-icon-fig>>).
 
-[[h.319y80a]]Figure 54 - List of projects for voting on
+[#budget-permissions-icon-fig]
+._Budget permissions icon_.
+image::images/image26.png[image]
 
-Besides creating the projects, you also have to specify who can vote for them. Go to the *PROCESSES* submenu and click first on *Features/ Components* and then on the *Permissions* icon from *Budgets*. (Figure 55).
+The *Editing Permissions* window opens, in which the criterion must be selected in the drop-down so people can vote. These criteria vary depending on the instance and must be defined when the Decide is installed, although they can be modified later by a programmer. In the example (<<budget-edit-permissions-fig>>), the criteria are: *Everyone, Identify documents (Multy-Step), Code by postal letter (Multi-Step)* and *Example authorization (Direct)*.
 
-image:images/image26.png[image]
+[#budget-edit-permissions-fig]
+._Budget edit permissions_.
+image::images/image66.png[image]
 
-[[h.1gf8i83]]Figure 55 - Budget permissions icon
-
-The *Editing Permissions* window opens, in which the criterion must be selected in the drop-down so people can vote. These criteria vary depending on the instance and must be defined when the Decide is installed, although they can be modified later by a programmer. In the example (Figure 56), the criteria are: *Everyone, Identify documents (Multy-Step), Code by postal letter (Multi-Step)* and *Example authorization (Direct)*.
-
-image:images/image66.png[image]
-
-[[h.unx8fsgzex3]]Figure 56 - Budget edit permissions
 [[h.3vg7bsevff4p]]
 ==== Surveys
-This component allows you to design and carry out surveys, as well as to visualize the results of the surveys. It is useful to be able to know the opinion of the citizens. +
-To configure the component (feature) of the surveys, in the *PROCESS* sub-menu, click on *Features / Components*, then click *Add feature/ component* in the upper right corner of the window and select *Survey*. Opens the window *ADD FEATURE/ COMPONENT: SURVEY* (Figure 57). +
+This component allows you to design and carry out surveys, as well as to visualize the results of the surveys. It is useful to be able to know the opinion of the citizens.
+
+To configure the component (feature) of the surveys, in the *PROCESS* sub-menu, click on *Features / Components*, then click *Add feature/ component* in the upper right corner of the window and select *Survey*. Opens the window *ADD FEATURE/ COMPONENT: SURVEY* (<<add-features-components-survey-fig>>).
+
 The following items must be filled:
 
 * *Name*: name of the survey.
@@ -417,11 +434,11 @@ The following items must be filled:
 
 Finally click on *Add feature/ component*.
 
-image:images/image20.png[image]
+[#add-features-components-survey-fig]
+._Add Features/ Components: Survey_.
+image::images/image20.png[image]
 
-[[h.nt3m4asdyv5b]]Figure 57 - Add features/ Components: Survey
-
-[[h.d3rrn28vkmsl]]To edit the survey, click *Survey* in the *Featuress/ Components* submenu of the participatory process. A window opens in which the general information about the survey should be put (Figure 58):
+[[h.d3rrn28vkmsl]]To edit the survey, click *Survey* in the *Featuress/ Components* submenu of the participatory process. A window opens in which the general information about the survey should be put (<<create-survey-fig>>):
 
 * [[h.mwxxoyjoip7u]]*Title*: Title of the survey
 * [[h.r35xjk94reiz]]*Description*: Description of the survey
@@ -437,15 +454,17 @@ Then click *Add question*. For each of the questions, the following fields must 
 
 Click again *Add question* to configure the rest of the questions. The same procedure is repeated for each of the questions in the survey. When you finish click *Save*.
 
-image:images/image64.png[image]
-
-[[h.upglbi-5]]Figure 58 - Create survey
+[#create-survey-fig]
+._Create survey_.
+image::images/image64.png[image]
 
 [[h.vcki5p75qbnl]]
 ==== Accountability
-The *Accountability* component allows people who visit the platform to view the level of execution (global, by categories and / or subcategories), of the results of a participatory process. That is to say, the proposals that have ended up being the result of the decision making in the Decidim, either directly (through the result of the application of a voting system) or mediated by meetings, assemblies, technical or political team, and its degree of execution. +
-The results can be converted into projects or decomposed into subprojects, which can be described in more detail and for which the execution status can be defined, ranging from 0% execution to 100%. The results, projects and states can be updated through a CVS and manually through the administration interface. +
-To configure the *Accountability* component, go to the *PROCESSES* submenu and click first on *Features/ Components* then click on *Add feature/ Component* in the upper right part of the window and select *Accountability*. The *ADD FEATURE/ COMPONENT: ACCOUNTABILITY* window will open (Figure 59).
+The *Accountability* component allows people who visit the platform to view the level of execution (global, by categories and / or subcategories), of the results of a participatory process. That is to say, the proposals that have ended up being the result of the decision making in the Decidim, either directly (through the result of the application of a voting system) or mediated by meetings, assemblies, technical or political team, and its degree of execution.
+
+The results can be converted into projects or decomposed into subprojects, which can be described in more detail and for which the execution status can be defined, ranging from 0% execution to 100%. The results, projects and states can be updated through a CVS and manually through the administration interface.
+
+To configure the *Accountability* component, go to the *PROCESSES* submenu and click first on *Features/ Components* then click on *Add feature/ Component* in the upper right part of the window and select *Accountability*. The *ADD FEATURE/ COMPONENT: ACCOUNTABILITY* window will open (<<add-features-components-accountability-fig>>).
 
 The following fields have to be filled in:
 
@@ -461,15 +480,15 @@ The following fields have to be filled in:
 
 To finish, click on *Add feature/ Component*.
 
-image:images/image28.png[image]
+[#add-features-components-accountability-fig]
+._Add Features/ Components: Accountability_.
+image::images/image28.png[image]
 
-[[h.upglbi-6]]Figure 59 - Add features/ Components: accountability
+To create a new result, click on *NEW RESULT* from the *ACCOUNTABILITY* window (to access it, click on *Accountability* from the participatory process's *Features/ Components* submenu). The *NEW RESULT* window will open (<<new-result-fig>>).
 
-To create a new result, click on *NEW RESULT* from the *ACCOUNTABILITY* window (to access it, click on *Accountability* from the participatory process's *Features/ Components* submenu). The *NEW RESULT* window will open (Figure 60).
-
-image:images/image12.png[image]
-
-[[h.3ep43zb]]Figure 60 - New result
+[#new-result-fig]
+._New result_.
+image::images/image12.png[image]
 
 Featuring the following fields:
 
@@ -484,19 +503,20 @@ Featuring the following fields:
 * *Add proposals*: Go to the drop-down menu and select the proposals it includes (use the *ctrl* function to select more than one proposal).
 * *Included projects*: select from the drop-down menu
 
-To manage the *Accountability*, click on *_Acountabilityname_* from the *Processes* submenu. The *ACCOUNTABILITY* window will open displaying a list of the results and possible *ACTIONS (Preview, New result, Project evolution, Edit* and *Delete*) (Figure 61).
+To manage the *Accountability*, click on *_Acountabilityname_* from the *Processes* submenu. The *ACCOUNTABILITY* window will open displaying a list of the results and possible *ACTIONS (Preview, New result, Project evolution, Edit* and *Delete*) (<<results-fig>>).
 
-image:images/image18.png[image]
-
-[[h.1tuee74]]Figure 61 - Results
+[#results-fig]
+._Results_.
+image::images/image18.png[image]
 
 [[h.jfz7cmhy3v63]]
 ==== Debates
 The feature/ component *Debate* allows you to open questions or discussions about specific topics defined by the administrators or the participants. +
-To configure the *Debate* Feature/ Component, in the submenu of *PARTICIPATORY PROCESSES*, click on *features/ components*. Then click on *Add feature/ component* in the upper right corner of the window and select Debates. The window opens *ADD FEATURE/ COMPLEMENT: DEBATES* (Figure 62).
+To configure the *Debate* Feature/ Component, in the submenu of *PARTICIPATORY PROCESSES*, click on *features/ components*. Then click on *Add feature/ component* in the upper right corner of the window and select Debates. The window opens *ADD FEATURE/ COMPLEMENT: DEBATES* (<<add-feature-components-debates-fig>>).
 
-image:images/image49.png[image]
-[[h.ycpipsl01a5u]]Figure 62 - Add feature/ Components: debates
+[#add-feature-components-debates-fig]
+._Add Feature/ Components: Debates_.
+image::images/image49.png[image]
 
 The following items must be filled:
 
@@ -507,7 +527,7 @@ The following items must be filled:
 
 Finally, click on *Add feature/ component*.
 
-To open a new debate, click on *NEW DEBATE* in the *DEBATES* window (to access it, click on *Debates* in the submenu *features/components* of the participatory process). The *NEW DEBATE* window opens (Figure 63).
+To open a new debate, click on *NEW DEBATE* in the *DEBATES* window (to access it, click on *Debates* in the submenu *features/components* of the participatory process). The *NEW DEBATE* window opens (<<new-debate-fig>>).
 
 The items to fill in to configure a new debate are:
 
@@ -520,14 +540,15 @@ The items to fill in to configure a new debate are:
 
 Finally, click on *Create a debate*.
 
-image:images/image34.png[image]
+[#new-debate-fig]
+._New debate_.
+image::images/image34.png[image]
 
-[[h.auzfprqotd33]]Figure 63 - New debate
+[[h.vnx1y0ifive7]]Once created, to view the list of debates, click *Debates* in the menu of *features/ components* of the corresponding *Participatory Process*. In this way, we access the *Debates* window (<<debates-fig>>).
 
-[[h.vnx1y0ifive7]]Once created, to view the list of debates, click *Debates* in the menu of *features/ components* of the corresponding *Participatory Process*. In this way, we access the *Debates* window (Figure 64).
-
- [[h.2uybb94636jt]]image:images/image36.png[image]
-[[h.qcexp8pwze3r]]Figure 64 - Debates
+[#debates-fig]
+._Debates_.
+image::images/image36.png[image]
 
 [[h.2szc72q]]For each of the debates, the title, the start date, the end date and the actions that can be made with each debate (*Edit* and *Delete*) are shown.
 
@@ -536,11 +557,11 @@ image:images/image34.png[image]
 
 The *Sortitions* function allows you to randomly select a certain number of proposals from a series, for example, to determine at random which people will form part of a group (such as a committee) from a larger group, where each person would be a nomination.
 
-To configure the *Sortitions* function in the *PROCESSES* submenu, click first on *Features/ Components* and then click on *Add feature* in the upper right part of the window and select *Sortitions*. The *ADD FEATURE/ COMPONENTS: SORTITIONS* (Figure 65).
+To configure the *Sortitions* function in the *PROCESSES* submenu, click first on *Features/ Components* and then click on *Add feature* in the upper right part of the window and select *Sortitions*. The *ADD FEATURE/ COMPONENTS: SORTITIONS* (<<add-feature-components-sortitions-fig>>).
 
-image:images/image45.png[image]
-
-[[h.2szc72q-7]]Figure 65 - Add feature/ Components: sortitions
+[#add-feature-components-sortitions-fig]
+._Add Feature/ Components: Sortitions_.
+image::images/image45.png[image]
 
 The following fields have to be filled in:
 
@@ -551,7 +572,7 @@ The following fields have to be filled in:
 To finish, click on *Add feature/ Component*.
 
 To carry out a draw, click on *NEW* from the *SORTITIONS* window (to access it click on *Sortitions* from the participatory process's *Features/ Components* submenu). +
-The *NEW SORTITION* window (Figure 66) will open.
+The *NEW SORTITION* window (<<new-sortition-fig>>) will open.
 
 The fields that have to be filled in for configuring a new draw are as follows:
 
@@ -563,8 +584,9 @@ The fields that have to be filled in for configuring a new draw are as follows:
 * *Sortition information*: fill in if further information is deemed relevant.
 * *Result of die roll*: To further guarantee the randomness of the result, you will need to throw a 6-sided die (or look for another random way of generating a number from 1 to 6) before witnesses and enter the resulting number in the drop-down menu.
 
-[[h.184mhaj]]image:images/image4.png[image]
-[[h.3s49zyc]]Figure 66 - New Sortition
+[#new-sortition-fig]
+._New Sortition_.
+image::images/image4.png[image]
 
 [[h.279ka65]]
 === Process groups
@@ -573,13 +595,13 @@ A group of processes proves useful for subdividing large participatory processes
 
 To configure participatory process groups, click on *PROCESS GROUP* from the menu on the left of the *DASHBOARD*.
 
-image:images/image3.png[image]
+[#process-groups-fig]
+._Process groups_.
+image::images/image3.png[image]
 
-[[h.meukdy]]Figure 67 - Process groups
+Then click on *New* in the *PARTICIPATORY PROCESS GROUPS* window (<<process-groups-fig>>), which will display the list of *Process groups* when they have been created.
 
-Then click on *New* in the *PARTICIPATORY PROCESS GROUPS* window (Figure 67), which will display the list of *Process groups* when they have been created.
-
-The *NEW PROCESS GROUP* (Figure 68) window will open, where the following has to be entered:
+The *NEW PROCESS GROUP* (<<new-process-group-fig>>) window will open, where the following has to be entered:
 
 * *Name*
 * *Description*
@@ -588,9 +610,9 @@ The *NEW PROCESS GROUP* (Figure 68) window will open, where the following has t
 
 To finish, click on *Create*.
 
-image:images/image23.png[image]
-
-[[h.36ei31r]]Figure 68 - New process group
+[#new-process-group-fig]
+._New process group_.
+image::images/image23.png[image]
 
 link:#ftnt_ref7[[7]] On creating scopes, see point 2.
 

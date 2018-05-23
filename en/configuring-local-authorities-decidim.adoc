@@ -1,24 +1,24 @@
 [[h.23ckvvd]]
 == Configuring a local authority’s Decidim platform
 
-To configure a local authority’s Decidim platform, click on *SETTINGS*  on the lower part of the *DASHBOARD*. A form will appear with information that has to be filled in and images that can be uploaded (Figure 9).
+To configure a local authority’s Decidim platform, click on *SETTINGS*  on the lower part of the *DASHBOARD*. A form will appear with information that has to be filled in and images that can be uploaded (<<Configuration-window-fig>>).
 
-image:images/image16.png[image]
-
-[[h.ihv636]]Figure 9 - Configuration window
+[#Configuration-window-fig]
+._Configuration window_.
+image::images/image16.png[image]
 
 The platform is multi-language although it is not automatically translated. If it has been decided that the platform is to be in two languages, for example, Catalan and Spanish, the fields will have to be filled in for both languages. For each of the text fields you will have to click on “*CA*” to enter Catalan text and “*ES*” to enter Spanish text.
 
 The fields that have to be filled in are:
 
-- Configuration window (Figure 9):
+- Configuration window (<<Configuration-window-fig>>):
 
 * *Name*: the name of the platform, for example Formació Decidim.
 * *Social*: the social media profile name(Twitter, Facebook, Instagram, YouTube, GitHub). Only the ones that are used.
 * *Default locale*: select the default language the platform is to be opened with.
 * *Reference prefix*: unique identifier or acronym of the local authority’s name that appears with the proposals, in face-to-face meetings, results etc.
 
-- Appearance window (Figure 10):
+- Appearance window (<<Appearance-window-fig>>):
 
 * *Show statistics*: tick if you want statistics shown.
 * *Description*: a brief introductory text beneath the main image.
@@ -40,23 +40,26 @@ As for images, you are advised to see their availability beforehand on some of t
 
 Once you have finished, click on *Update*.
 
-[[h.qpgo6xnptwgs]]image:images/image52.png[image]
-[[h.ihv636-2]]Figure 10 - Appearance window
+[#Appearance-window-fig]
+._Appearance window_.
+image::images/image52.png[image]
 
 To finish configuring the platform you will need to specify the areas, that is, the territorial organisation (districts, neighbourhoods, etc.,) and/or sectoral areas that the participatory processes can be linked to. The areas can be classed according to *scopes* where appropriate.
 
-To configure scope types, go to the *SETTINGS*, submenu click on *Scope types* and then click on *ADD*. Fill in the fields *Name* and *Plural* (in Catalan and in Spanish) and click on *Create scope type* (Figure 11).
+To configure scope types, go to the *SETTINGS*, submenu click on *Scope types* and then click on *ADD*. Fill in the fields *Name* and *Plural* (in Catalan and in Spanish) and click on *Create scope type* (<<Scope-types-fig>>).
 
-image:images/image10.png[image]
+[#Scope-types-fig]
+._Scope types_.
+image::images/image10.png[image]
 
-[[h.32hioqz]]Figure 11 - Scope types
+To configure scopes, go to the *SETTINGS* submenu and click on *Scopes*, and then add the areas one by one by clicking on *ADD*. For each of the areas you have to fill in the *Name* and *Code* fields (in Catalan and in Spanish), and select scope type from the *Scope type* drop-down menu. Then click on *Create scope* (<<New-scope-fig>>).
 
-To configure scopes, go to the *SETTINGS* submenu and click on *Scopes*, and then add the areas one by one by clicking on *ADD*. For each of the areas you have to fill in the *Name* and *Code* fields (in Catalan and in Spanish), and select scope type from the *Scope type* drop-down menu. Then click on *Create scope* (Figure 12).
+[#New-scope-fig]
+._New Scope_.
+image::images/image15.png[image]
 
-image:images/image15.png[image]
+Once created, the areas will appear on a list (scope name and type). If you click the icons on the right, the list allows you to *Browse*, *Edit* and *Destroy* each of the scopes (<<scopes-fig>>).
 
-[[h.1hmsyys]]Figure 12 - New Scope
-
-Once created, the areas will appear on a list (scope name and type). If you click the icons on the right, the list allows you to *Browse*, *Edit* and *Destroy* each of the scopes (Figure 13).
-
-[[h.41mghml]]image:images/image19.png[image]Figure 13 - Scopes
+[#scopes-fig]
+._Scopes_.
+image::images/image19.png[image]

@@ -4,37 +4,37 @@
 
 Managing administration users involves such tasks as: registering other administrators; validating user groups (organisations/ collectives) that have been registered and whose effective existence has been confirmed; managing temporary users created from Citizen Help and Information Offices to enable people who have no internet to take part in Decidim: recognising that a person has a certain position in the organisation (Oficializations) and authenticating that the person taking part is who they say they are (Verifications).^link:#ftnt6[[6]]^
 
-To manage users, click on *USERS* in the *DASHBOARD* menu. The *USERS* window will open (Figure 16).
+To manage users, click on *USERS* in the *DASHBOARD* menu. The *USERS* window will open (<<users-fig>>).
 
-image:images/image46.png[image]
+[#users-fig]
+._Users_.
+image::images/image46.png[image]
 
-[[h.4f1mdlm]]Figure 16 - Users
+To register an administrator, click on *Admins* in the *USERS* submenu. A list of those that are already administrators will appear; click on *New* in the upper right of the screen. A screen will open (<<invite-user-as-administrator-fig>>) whose *Name* and *Email* fields have to be filled in and *Role* selected from the (*Admin* or *User manager*) drop-down menu. To finish, click *Invite*.
 
-To register an administrator, click on *Admins* in the *USERS* submenu. A list of those that are already administrators will appear; click on *New* in the upper right of the screen. A screen will open (Figure 17) whose *Name* and *Email* fields have to be filled in and *Role* selected from the (*Admin* or *User manager*) drop-down menu. To finish, click *Invite*.
+[#invite-user-as-administrator-fig]
+._Invite user as administrator_.
+image::images/image51.png[image]
 
-image:images/image51.png[image]
+To validate a user group, go to *User groups* in the *USERS* submenu. A new window will open (<<user-groups-fig>>) displaying a list with all the user groups that have been registered, respective numbers of documents, telephone numbers, user numbers, creation date, status (verified, rejected or pending) and possible initiatives (*Verify* or *Reject*).
 
-[[h.2u6wntf]]Figure 17 - Invite user as administrator
-
-To validate a user group, go to *User groups* in the *USERS* submenu. A new window will open (Figure 18) displaying a list with all the user groups that have been registered, respective numbers of documents, telephone numbers, user numbers, creation date, status (verified, rejected or pending) and possible initiatives (*Verify* or *Reject*).
-
-image:images/image5.png[image]
-
-[[h.19c6y18]]Figure 18 - User groups
+[#user-groups-fig]
+._User groups_.
+image::images/image5.png[image]
 
 User groups can be directly validated in this window, once their existence has been confirmed, by clicking on the corresponding *Verify* icon. To facilitate management the user groups can be filtered according to whether they are verified, rejected or pending, by selecting from the *Filter by* drop-down menu.
 
-To publicly accredit (officialise) that a person has a certain position/ post in the organisation, click on *Oficializations* in the Users submenu. The *OFICIALIZATIONS* window (Figure 19) will open, displaying a list with some of the users and the initiatives that can be carried out: *Officialize*, and where the person has already been officialised, *Reofficialize* or *Unofficialize*.
+To publicly accredit (officialise) that a person has a certain position/ post in the organisation, click on *Oficializations* in the Users submenu. The *OFICIALIZATIONS* window (<<officializations-fig>>) will open, displaying a list with some of the users and the initiatives that can be carried out: *Officialize*, and where the person has already been officialised, *Reofficialize* or *Unofficialize*.
 
-image:images/image2.png[image]
+[#officializations-fig]
+._Officializations_.
+image::images/image2.png[image]
 
-[[h.3tbugp1]]Figure 19 - Officializations
+To officialise a person and post, filter by name and click on the *Officialize* action. The Officialize User “X” window will open (<<officialize-user-fig>>), where you will have to insert the *Officialization badge* (the position that is recognised).
 
-To officialise a person and post, filter by name and click on the *Officialize* action. The Officialize User “X” window will open (Figure 20), where you will have to insert the *Officialization badge* (the position that is recognised).
-
-image:images/image25.png[image]
-
-[[h.28h4qwu]]Figure 20 - Officialize user
+[#officialize-user-fig]
+._Officialize user_.
+image::images/image25.png[image]
 
 To manage managed users (impersonally temporary with previous identification), click on *Managed Users* in the *USERS* submenu [the appropriate authorisation has to be granted from management of administrators before this action can be carried out.
 
