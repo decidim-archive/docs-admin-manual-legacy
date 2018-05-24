@@ -28,10 +28,10 @@ include::../locale/attributes.adoc[]
 :_editors:
 
 // MANDATORY. See this field description in section "Criterios de autoría ..." below.
-:authors:
+:authors: Marta Almela (IN3/UOC), Arnau Monterde (IN3/UOC), Juan Linares (IN3/UOC), Antonio Calleja-López (IN3/UOC)
 
 // OPTIONAL. See this field description in section "Criterios de autoría ..." below.
-:_contributors:
+:_contributors: Carolina Romero (Localret), Xabier Barandiaran (Ayuntamiento de Barcelona), Mònica Garriga Miret (Free Knowledge Institute-FKI), Joan Olivé Llanos (Ayuntamiento de Barcelona), Mariola Ruiz (Ayuntamiento de Barcelona), Inma Rodríguez (Ayuntamiento de Barcelona)
 
 // OPTIONAL. See this field description in section "Criterios de autoría ..." below.
 :_proofreaders:
@@ -46,10 +46,10 @@ include::../locale/attributes.adoc[]
 // MANDATORY. Comma-separated list of terms to help classifying and searching the
 // document. In web format, this terms are integrated as SEO enabling metadata. In PDF
 // format, they are shown near the other metadata.
-:keywords: Decidim, manual de administración, plataforma de participación democrática, componentes, espacios de participación, software, e-democracia, participación, asamblearismo, participación ciudadana, procesos participativos, consells de barri, consultas ciudadanas, accountability, rendición de cuentas, propuestas, e-voting, transparencia
+:keywords: Decidim, manual de administración, plataforma de participación democrática, componentes, espacios de participación, software, e-democracia, participación, asamblearismo, participación ciudadana, procesos participativos, consejos de barrio, consultas ciudadanas, accountability, rendición de cuentas, propuestas, e-voting, transparencia
 
 // MANDATORY. Document's history.
-:_dochistory:
+:_dochistory: La primera versión de este documento responde a un encargo de la Diputación de Barcelona, dentro del proyecto “Desarrollo del diseño conceptual del multitenancy y las funcionalidades básicas del configurador de procesos participativos de la plataforma web de participación ciudadana de la Diputación de Barcelona”. Fue realizado por el grupo de investigación Tecnopolítica, de Communication Networks and Social Change (http://www.communicationchange.net/es/[CNSC]), en el Internet Interdisciplinary Institute (http://www.uoc.edu/portal/es/in3/index.html[IN3]) de la Universitat Oberta de Catalunya (http://www.uoc.edu/portal/es/index.html[UOC]). El documento ha seguido evolucionando y, en esta versión, se introducen las mejoras, nuevas funcionalidades y espacios de participación que incorporan las versiones delsoftware de Decidim v0.7, v0.8, v0.9 y v0.10.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE URGE YOU
 // NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title}, {authors},
