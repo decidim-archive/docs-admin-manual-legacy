@@ -14,7 +14,7 @@ The information on the processes can be edited by clicking on the *Configure* i
 To create a new process, click on *New* in the *PARTICIPATORY PROCESSES* submenu or on the upper right part of the window (<<participatory-processes-fig>>). A window will open where you have to enter general information on the process (See 5.1 Information). The process (stages, users, functions etc.,) is configured through the submenu of the process that appears when you click on a process on the process list screen (<<participatory-process-submenu-fig>>). This submenu is on the left of the process window.
 
 [#participatory-process-submenu-fig]
-._Participatory process submenu
+._Participatory process submenu_.
 image::images/image31.png[image]
 
 [[h.46r0co2]]
@@ -23,7 +23,7 @@ image::images/image31.png[image]
 You first have to fill in the fields with general information on the process. Click on *PROCESSES* in the *DASHBOARD* and click on *New* in the *PARTICIPATORY PROCESS* submenu on the upper right of the window that appears with the list of processes. A *NEW PARTICIPATORY PROCESS* window will open (<<new-participatory-process-fig>>).
 
 [#new-participatory-process-fig]
-._New participatory process
+._New participatory process_.
 image::images/image55.png[image]
 
 Fill in the following fields (remember that where the platform is in two or more languages, you will need to fill in the information in all the languages):
@@ -206,7 +206,7 @@ To configure components, click on *Features/ Components* from the *PROCESSES* 
 The icons in this list enable you to carry out the following actions: *Manage, Publish/ Unpublish, Configure*, and configure *Permissions* and *Destroy* the feature/ component.
 
 [#features-components-fig]
-._Features/ Components
+._Features/ Components_.
 image::images/image56.png[image]
 
 To configure a new function, click on *Add feature/ component* from the upper right part of the window and select the type of function you wish to configure from the drop-down menu (<<add-feature-component-fig>>).
@@ -230,7 +230,7 @@ To add a page, click *Page* in the *Add feature/ Component* drop-down menu. Th
 Then click on *Add feature/ Component*.
 
 [#add-feature-component-page-fig]
-._Add Feature/ Component: Page
+._Add Feature/ Component: Page_.
 image::images/image72.png[image]
 
 To create/ edit the contents of the configured page, go to the submenu on the left of the participation process, *Features/ Component*, and click on the *page name* (the name that the page has been given).
@@ -271,7 +271,7 @@ The window allows you to perform the following actions by clicking on the icons:
 To create a meeting, click on *NEW* in the upper right part of the *MEETINGS* window (<<add-features-compoents-meetings-fig>>). The *ADD FEATURES/ COMPONENTS: MEETINGS* window will open:
 
 [#add-features-compoents-meetings-fig]
-._Add Features/ Components: Meetings
+._Add Features/ Components: Meetings_.
 image::images/image62.png[image]
 
 The information that has to be edited where a meeting is created is (<<create-meeting-fig>>):
@@ -336,7 +336,7 @@ To configure the *Proposals* function, go to the *PROCESSES* submenu and click 
 To finish, click on *Afegir feature/ Component*.
 
 [#add-feature-component-proposals-fig]
-._Add Feature/ Component: Proposals
+._Add Feature/ Component: Proposals_.
 image::images/image77.png[image]
 
 To manage proposals, that is, to accept/ reject proposals made by participants during the process, click on *PROPOSALS* from the *PROCESSES* submenu. A *PROPOSALS* window will open (<<proposals-fig>>), where there is a list with all the proposals and a series of pieces of information for each one (*TITLE, CATEGORY, ESTATE*, in other words, if it is *Accepted, Withdraw, Not answered*, or *Evaluating*, and the possible *ACTIONS (Private notes, Answer, and Preview)*.
