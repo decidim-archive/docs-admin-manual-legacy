@@ -22,7 +22,7 @@ The fields that have to be filled in are:
 
 * *Show statistics*: tick if you want statistics shown.
 * *Description*: a brief introductory text beneath the main image.
-* *Wellcome text*: slogan (brief phrase) which appears on the main image. In the example here: “Benvingut/da a la Formació Decidim!”.
+* *Welcome text*: slogan (brief phrase) which appears on the main image. In the example here: “Benvingut/da a la Formació Decidim!”.
 * *Call to action button path*: You can overwrite where the Call To Action button in the homepage links to. Use partial paths, not full URLs here. Accepts letters, numbers, dashes and slashes, and must start with a letter. The Call To Action button is shown in the homepage between the welcome text and the description. Example: https://meta.decidim.barcelona/processes/welcome
 * *Call to action button text*: You can overwrite the Call To Action button text in the homepage for each available language in your organization. If not set, the default value will be used. The Call To Action button is shown in the homepage between the welcome text and the description.
 * *Highlighted content banner*: Tick if you want the highlighted content banner shown. Also you are able to add the *Title*, a *Short description, Action button title, action button subtitle, Action button URL*, an  *Image*. Also you are able to remove the file if you tick the *Remove this file* option.

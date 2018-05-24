@@ -2,7 +2,7 @@
 [[h.1v1yuxt]]
 == Users
 
-Managing administration users involves such tasks as: registering other administrators; validating user groups (organisations/ collectives) that have been registered and whose effective existence has been confirmed; managing temporary users created from Citizen Help and Information Offices to enable people who have no internet to take part in Decidim: recognising that a person has a certain position in the organisation (Oficializations) and authenticating that the person taking part is who they say they are (Verifications).^link:#ftnt6[[6]]^
+Managing administration users involves such tasks as: registering other administrators; validating user groups (organisations/ collectives) that have been registered and whose effective existence has been confirmed; managing temporary users created from Citizen Help and Information Offices to enable people who have no internet to take part in Decidim: recognising that a person has a certain position in the organisation (Oficializations) and authenticating that the person taking part is who they say they are (Verifications) footnote:[The *Verifications* function is currently under development.].
 
 To manage users, click on *USERS* in the *DASHBOARD* menu. The *USERS* window will open (<<users-fig>>).
 
@@ -37,5 +37,3 @@ To officialise a person and post, filter by name and click on the *Officialize*�
 image::images/image25.png[image]
 
 To manage managed users (impersonally temporary with previous identification), click on *Managed Users* in the *USERS* submenu [the appropriate authorisation has to be granted from management of administrators before this action can be carried out.
-
-link:#ftnt_ref6[[6]] The Verifications function is currently under development .

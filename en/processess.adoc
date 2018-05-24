@@ -44,7 +44,7 @@ Fill in the following fields (remember that where the platform is in two or more
 * *Scope metadata*: this is not displayed, being internal information about which area of the city the process is aimed at.
 * *Target*: individuals the participatory process is aimed at.
 * *Scopes enabled*: tick whether you wish to identify with a sphere of action (municipal, district 1, district 2 and so on).
-* *Scope*: select the corresponding scope from the drop-down menu. The scopes will need to have been created beforehand.^link:#ftnt7[[7]]^
+* *Scope*: select the corresponding scope from the drop-down menu. The scopes will need to have been created beforehand footnote:[On creating scopes, see point 2.].
 * *Participatory scope*: explanation of the decision margin or limits that citizens will have in this process.
 * *Participatory structure*: promoter group, monitoring committee, working group, entities that will be taking part in the participatory process’s various workshops and meetings.
 * *Processes group*: where this is a process within a group, select the corresponding process group from the drop-down menu. For example, an Action Plan by District, within a Municipal Action Plan. The group must have been created beforehand. If it is not part of any group, select *None* from the drop-down menu.
@@ -111,7 +111,7 @@ image::images/image65.png[image]
 
 Note that once the categories have been defined, you cannot change them as they become the index that structures the contents inside a participation space. For example, if there is a participatory process for electing candidates, the categories could identify lists or types of candidacies. And where the process is for defining a Plan, the categories would coincide with the index for this Plan.
 
-Note too that when it comes to classing contents, Decidim also allows scopes and labels (or tags) to be distinguished and configured. Unlike categories, (territorial or thematic) scopes are general throughout the platform and are defined during the configuration of the Decidim platform of the local authority/ entity.^link:#ftnt8[[8]]^ Whereas labels (or tags) are freely defined by participants and can apply to any instance or component. The administration panel also allows you to create and nest labels.
+Note too that when it comes to classing contents, Decidim also allows scopes and labels (or tags) to be distinguished and configured. Unlike categories, (territorial or thematic) scopes are general throughout the platform and are defined during the configuration of the Decidim platform of the local authority/ entity footnote:[On how to create scopes, see point 2.2.]. Whereas labels (or tags) are freely defined by participants and can apply to any instance or component. The administration panel also allows you to create and nest labels.
 
 For configuring categories, click on *Categories* in the *PARTICIPATIVE PROCESS* submenu. Then click on *NEW* below. You need to enter the following for each of the categories/ subcategories (<<new-category-fig>>): *Name* and *Description* and, where a subcategory is involved, select the category it corresponds to from the *Parent* drop-down menu. To finish, click on *Create category*.
 
@@ -336,7 +336,7 @@ To configure the *Proposals* function, go to the *PROCESSES* submenu and click 
 To finish, click on *Afegir feature/ Component*.
 
 [#add-feature-component-proposals-fig]
-._Add Feature/ Component: Proposals_.
+._Add Feature/ Component: Proposals
 image::images/image77.png[image]
 
 To manage proposals, that is, to accept/ reject proposals made by participants during the process, click on *PROPOSALS* from the *PROCESSES* submenu. A *PROPOSALS* window will open (<<proposals-fig>>), where there is a list with all the proposals and a series of pieces of information for each one (*TITLE, CATEGORY, ESTATE*, in other words, if it is *Accepted, Withdraw, Not answered*, or *Evaluating*, and the possible *ACTIONS (Private notes, Answer, and Preview)*.
@@ -613,7 +613,3 @@ To finish, click on *Create*.
 [#new-process-group-fig]
 ._New process group_.
 image::images/image23.png[image]
-
-link:#ftnt_ref7[[7]] On creating scopes, see point 2.
-
-link:#ftnt_ref8[[8]] On how to create scopes, see point 2.2.
