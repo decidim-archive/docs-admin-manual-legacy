@@ -1,67 +1,69 @@
 [[h.28h4qwu]]
 == Processos
 
-Per a configurar els processos participatius a la plataforma Decidim, clicar PROCESSOS en el TAULER DE CONTROL. Apareixerà un llistat amb els processos existents, si n’hi ha (Figura 21).
+Per a configurar els processos participatius a la plataforma Decidim, clicar **PROCESSOS** en el **TAULER DE CONTROL**. Apareixerà un llistat amb els processos existents, si n’hi ha (Figura 21).
 
-image:images/image78.png[processos 1.png]Figura 21 - Processos participatius
+[#Processos participatius.fig]
+._Processos participatius_.
+image::images/image78.png[processos 1.png]
 
-Per a cadascun dels processos es mostra la data de creació, si està publicat o no, i es permet realitzar les següents accions, clicant les icones corresponents: duplicar el procés, configurar i previsualitzar com quedarà un cop publicat.
+Per a cadascun dels processos es mostra la data de creació, si està publicat o no, i es permet realitzar les següents accions, clicant les icones corresponents: duplicar el procés, **configurar** i previsualitzar com quedarà un cop publicat.
 
 Es pot editar la informació sobre els processos clicant la icona Configurar o bé clicant sobre el nom del procés.
 
-Per a crear un nou procés, clicar Nou/va en el submenú de PROCESSOS PARTICIPATIUS o en la part superior dreta de la finestra (Figura 21). S'obre la pantalla on cal escriure la Informació general sobre el procés (vegeu 5.1 Informació). La configuració del procés (fases, usuaris, funcionalitats/ components, etc.) es realitza a través del submenú del procés que apareix quan es clica sobre un procés en la pantalla del llistat de processos (Figura 22). Aquest submenú es troba a l'esquerra de la finestra del procés.
+Per a crear un nou procés, clicar **Nou/va** en el submenú de **PROCESSOS PARTICIPATIUS** o en la part superior dreta de la finestra (Figura 21). S'obre la pantalla on cal escriure la Informació general sobre el procés (vegeu 5.1 Informació). La configuració del procés (fases, usuaris, funcionalitats/ components, etc.) es realitza a través del submenú del procés que apareix quan es clica sobre un procés en la pantalla del llistat de processos (Figura 22). Aquest submenú es troba a l'esquerra de la finestra del procés.
 
-image:images/image46.png[submenú processos.png]
-
-Figura 22 - Submenú procés participatiu
+[#Submenú procés participatiu.fig]
+._Submenú procés participatiu_.
+image::images/image46.png[submenú processos.png]
 
 [[h.1mrcu09]]
 === Informació
 
-En primer lloc, cal omplir els camps amb la informació general sobre el procés. Clicar PROCESSOS en el TAULER DE CONTROL i clicar Nou/va en el submenú de PROCESSOS PARTICIPATIUS o en la part superior dreta de la finestra on hi ha el llistat de processos. S’obre la finestra NOU PROCÉS PARTICIPATIU (Figura 23).
+En primer lloc, cal omplir els camps amb la informació general sobre el procés. Clicar **PROCESSOS** en el **TAULER DE CONTROL** i clicar **Nou/va** en el submenú de **PROCESSOS PARTICIPATIUS** o en la part superior dreta de la finestra on hi ha el llistat de processos. S’obre la finestra **NOU PROCÉS PARTICIPATIU** (Figura 23).
 
-image:images/image47.png[nou procés.png]
-
-Figura 23 - Nou procés participatiu
+[#Nou procés participatiu.fig]
+._Nou procés participatiu_.
+image::images/image47.png[nou procés.png]
 
 Omplir els següents camps (recordar que en cas que la plataforma sigui en dos idiomes o més, cal omplir la informació en els diferents idiomes):
 
-* Títol: posar el nom del procés participatiu.
-* Subtítol:  escriure el nom del subtítol.
-* Nom curt d'URL: mot que identifica la pàgina web on hi haurà la informació general sobre el procés. Per exemple, “nomdelprocés”, https://decidim.nomdelmunicipi.com/processes/nomdelprocés.
-* Hashtag: etiqueta per a xarxes socials. La mateixa que s’utilitzarà a les campanyes de xarxes, a Twitter, Facebook, Instagram, etc. (una sola paraula).
-* Data d’inici: seleccionar la data corresponent en el calendari que apareix quan es clica el quadre Data d’inici.
-* Data de finalització: seleccionar la data corresponent en el calendari.
-* Destacat: marcar si es vol destacar el procés en la home de la plataforma.
-* Descripció breu: màxim 600 caràcters, explicant les accions de participació.
-* Descripció: a partir de 1600 caràcters es mostra un “llegir més”.
-* Imatge de portada: imatge associada al procés participatiu que surt a la pàgina general de processos (Figura 24) i a la homepage del Decidim, si s’ha marcat l’opció de destacat (Figura 25). Dimensions mínimes: 1015 px. d'amplada x 667 px. d'alçada.
-* Imatge de bàner: imatge per a totes les pàgines del procés, es publica en la part superior de les pàgines, d’esquerra a dreta (Figura 26). Dimensions mínimes: 1200 px. d’amplada x 300 px. d’alçada.
-* Grup promotor: gestor/a i responsable polític del procés participatiu, pot ser només l’Ajuntament, o un grup format per tècnics/ polítics de l’Ajuntament i associacions, empreses, ciutadans o altres entitats.
-* Àrea municipal: àrees de l’Ajuntament involucrades en el procés participatiu.
-* Metadades d'àmbit: no es mostrarà però és informació interna sobre a quin àmbit de la ciutat va dirigit el procés.
-* A qui va dirigit?: persones a qui està destinat el procés participatiu.
-* Àmbit habilitat: marcar si es vol identificar amb un àmbit d’actuació (municipal, districte 1, districte 2…).
-* Àmbit: seleccionar l’àmbit corresponent en el desplegable. Prèviament s’hauran d’haver creat els àmbits.^link:#ftnt7[[7]]^
-* Àmbit participatiu: explicació del marge o límits de decisió que tindrà la ciutadania en aquest procés.
-* Estructura participativa: grup promotor, comissió de seguiment, grup de treball, entitats que participaran en els diversos tallers i reunions del procés participatiu.
-* Grup de processos: en el cas que es tracti d’un procés dintre d’un grup, seleccionar el grup de processos corresponent en el desplegable. Per exemple, un Pla d’Acció per Districte, dins un Pla d’Acció Municipal. Prèviament s’ha d’haver creat el grup. Si no forma part de cap grup, cal seleccionar Cap en el desplegable.
-* Mostra estadístiques: marcar si es vol mostrar les estadístiques del procés (Número de trobades, propostes,...) a la pàgina prinicipal del procés .
-* Anunci: En el cas de que vulguem que aparegui un paràgraf amb un anunci específic (per exemple si comença una nova fase en algun procés de participació).
+* **Títol**: posar el nom del procés participatiu.
+* **Subtítol**:  escriure el nom del subtítol.
+* **Nom curt d'URL**: mot que identifica la pàgina web on hi haurà la informació general sobre el procés. Per exemple, “nomdelprocés”, https://decidim.nomdelmunicipi.com/processes/**nomdelprocés**.
+* **Hashtag**: etiqueta per a xarxes socials. La mateixa que s’utilitzarà a les campanyes de xarxes, a Twitter, Facebook, Instagram, etc. (una sola paraula).
+* **Data d’inici**: seleccionar la data corresponent en el calendari que apareix quan es clica el quadre Data d’inici.
+* **Data de finalització**: seleccionar la data corresponent en el calendari.
+* **Destacat**: marcar si es vol destacar el procés en la home de la plataforma.
+* **Descripció breu**: màxim 600 caràcters, explicant les accions de participació.
+* **Descripció**: a partir de 1600 caràcters es mostra un “llegir més”.
+* **Imatge de portada**: imatge associada al procés participatiu que surt a la pàgina general de processos (Figura 24) i a la homepage del Decidim, si s’ha marcat l’opció de **destacat** (Figura 25). Dimensions mínimes: 1015 px. d'amplada x 667 px. d'alçada.
+* **Imatge de bàner**: imatge per a totes les pàgines del procés, es publica en la part superior de les pàgines, d’esquerra a dreta (Figura 26). Dimensions mínimes: 1200 px. d’amplada x 300 px. d’alçada.
+* **Grup promotor**: gestor/a i responsable polític del procés participatiu, pot ser només l’Ajuntament, o un grup format per tècnics/ polítics de l’Ajuntament i associacions, empreses, ciutadans o altres entitats.
+* **Àrea municipal**: àrees de l’Ajuntament involucrades en el procés participatiu.
+* **Metadades d'àmbit**: no es mostrarà però és informació interna sobre a quin àmbit de la ciutat va dirigit el procés.
+* **A qui va dirigit?**: persones a qui està destinat el procés participatiu.
+* **Àmbit habilitat**: marcar si es vol identificar amb un àmbit d’actuació (municipal, districte 1, districte 2…).
+* **Àmbit**: seleccionar l’àmbit corresponent en el desplegable. Prèviament s’hauran d’haver creat els àmbits footnote:[Sobre com crear els àmbits, veure el punt 2.].
+* **Àmbit participatiu**: explicació del marge o límits de decisió que tindrà la ciutadania en aquest procés.
+* **Estructura participativa**: grup promotor, comissió de seguiment, grup de treball, entitats que participaran en els diversos tallers i reunions del procés participatiu.
+* **Grup de processos**: en el cas que es tracti d’un procés dintre d’un grup, seleccionar el grup de processos corresponent en el desplegable. Per exemple, un Pla d’Acció per Districte, dins un Pla d’Acció Municipal. Prèviament s’ha d’haver creat el grup. Si no forma part de cap grup, cal seleccionar **Cap** en el desplegable.
+* **Mostra estadístiques**: marcar si es vol mostrar les estadístiques del procés (Número de trobades, propostes,...) a la pàgina prinicipal del procés .
+* **Anunci**: En el cas de que vulguem que aparegui un paràgraf amb un anunci específic (per exemple si comença una nova fase en algun procés de participació).
 
-image:images/image48.png[imatge processo destacats.png]
+[#Imatge de portada pàgina general de processos.fig]
+._Imatge de portada pàgina general de processos_.
+image::images/image48.png[imatge processo destacats.png]
 
-Figura 24 - Imatge de portada pàgina general de processos
+[#Imatge de portada homepage Decidim.fig]
+._Imatge de portada homepage Decidim_.
+image::images/image49.png[Imatge portada procés.png]
 
-image:images/image49.png[Imatge portada procés.png]
+[#Imatge de bàner.fig]
+._Imatge de bàner_.
+image::images/image50.png[Imatge bandera procés.png]
 
-Figura 25 - Imatge de portada homepage Decidim
-
-image:images/image50.png[Imatge bandera procés.png]
-
-Figura 26 - Imatge de bàner
-
-Per finalitzar, clicar Crear. Es pot veure com es visualitzarà tota aquesta informació clicant la icona Previsualitzar que correspon al procés.
+Per finalitzar, clicar **Crear**. Es pot veure com es visualitzarà tota aquesta informació clicant la icona **Previsualitzar** que correspon al procés.
 
 Per acabar de configurar el procés, en la finestra on hi ha el llistat de processos, clicar sobre el nom del projecte. S'obre la finestra amb la Informació general sobre el procés i, a l'esquerra, apareix el submenú del procés a través del qual es poden configurar les fases del procés, les funcionalitats/ components, les categories, les usuàries, del procés, les moderacions i la informació adjunta.
 
@@ -72,31 +74,31 @@ Un procés participatiu es veurà reflectit en la plataforma Decidim en fases di
 
 A títol orientatiu, l’estructura estàndard d’un procés participatiu pot ser aquesta: Fase 1: presentació; Fase 2: diagnosi; Fase 3: creació de propostes i debat; Fase 4: priorització de propostes; Fase 5: selecció de resultats; Fase 6: avaluació; Fase 7: seguiment.
 
-Per a configurar les fases del procés, clicar Fases del procés en el submenú del PROCÉS PARTICIPATIU, a continuació clicar NOU/VA. S’obre la finestra NOVA FASE DE PROCÉS PARTICIPATIU (Figura 27).
+Per a configurar les fases del procés, clicar **Fases del procés** en el submenú del **PROCÉS PARTICIPATIU**, a continuació clicar **NOU/VA**. S’obre la finestra **NOVA FASE DE PROCÉS PARTICIPATIU** (Figura 27).
 
 Per a cadascuna de les fases, cal escriure:
 
-* Títol
-* Descripció
-* Data d'inici i Data de finalització
+* **Títol**
+* **Descripció**
+* **Data d'inici i Data de finalització**
 
-Un cop fet, clicar Crear.
+Un cop fet, clicar **Crear**.
 
-image:images/image51.png[NOVA FASE PROCÉS.png]
+[#Nova fase de procés participatiu.fig]
+._Nova fase de procés participatiu_.
+image::images/image51.png[NOVA FASE PROCÉS.png]
 
-Figura 27 - Nova fase de procés participatiu
+Per activar la fase en què es troba el procés, en el submenú del **PROCÉS PARTICIPATIU** clicar **Fases del procés**. S’obre la finestra on hi ha totes les fases del procés que han estat configurades i les icones que permeten d’**Activar, Editar** i **Eliminar** cadascuna d’elles. Clicar **Activar** en la fase que correspon (Figura 28).
 
-Per activar la fase en què es troba el procés, en el submenú del PROCÉS PARTICIPATIU clicar Fases del procés. S’obre la finestra on hi ha totes les fases del procés que han estat configurades i les icones que permeten d’Activar, Editar i Eliminar cadascuna d’elles. Clicar Activar en la fase que correspon (Figura 28).
+[#Fases del procés.fig]
+._Fases del procés_.
+image::images/image52.png[iconees fases procés.png]
 
-image:images/image52.png[iconees fases procés.png]
+Les persones usuàries podran visualitzar les diferents fases i descripcions que han estat configurades, clicant **Veure les fases** (en la Imatge de bandera, a la dreta). La fase que es troba activa s'evidenciarà marcada en vermell (Figura 29).
 
-Figura 28 - Fases del procés
-
-Les persones usuàries podran visualitzar les diferents fases i descripcions que han estat configurades, clicant Veure les fases (en la Imatge de bandera, a la dreta). La fase que es troba activa s'evidenciarà marcada en vermell (Figura 29).
-
-image:images/image53.png[Fases del procés participatiu Pla d equipaments del Poble sec Formació Decidim.png]
-
-Figura 29 - Visualització fases del procés usuari participant
+[#Visualització fases del procés usuari participant.fig]
+._Visualització fases del procés usuari participant_.
+image::images/image53.png[Fases del procés participatiu Pla d equipaments del Poble sec Formació Decidim.png]
 
 [[h.841ie2tkqox]]
 [[h.3ygebqi]]
@@ -104,17 +106,19 @@ Figura 29 - Visualització fases del procés usuari participant
 
 Les categories (i subcategories) serveixen per classificar continguts dins dels diferents espais/ processos de participació, també faciliten a les persones usuàries filtrar els continguts. Es defineixen per a cadascuna de les instàncies dels espais.  Per exemple, un procés de participació pot incloure diverses categories i subcategories i les trobades, enquestes, propostes o altres components del procés es poden classificar sota aquestes categories. Una categoria podria ser “Medi Ambient” i dues subcategories d’aquesta “Mobilitat” i “Qualitat de l’Aire”. En la Figura 30 es poden veure les categories i subcategories que es van utilitzar en el procés participatiu per a l’elaboració del Pla d’actuació municipal (PAM) de Barcelona de 2016.
 
-image:images/image54.png[Captura de pantalla 2017-07-11 a las 13.25.32.png]Figura 30 - Categories i subcategories al PAM de Barcelona de 2016
+[#Categories i subcategories al PAM de Barcelona de 2016.fig]
+._Categories i subcategories al PAM de Barcelona de 2016_.
+image::images/image54.png[Captura de pantalla 2017-07-11 a las 13.25.32.png]
 
 És important tenir en compte que un cop definides les categories, no convé canviar-les perquè esdevenen l’índex que estructura els continguts dins d’un espai de participació. Per exemple, en el cas d’un procés participatiu per l’elecció de candidats, les categories podrien identificar llistes o tipus de candidatures. I en el cas que el procés fos per definir un Pla, les categories coincidirien amb l’índex d’aquest Pla.
 
-També s’ha de tenir en compte que pel que fa a la classificació de continguts, Decidim també permet diferenciar i configurar àmbits i  etiquetes (o tags). A diferència de les categories, els àmbits (territorials o temàtics) són generals a tota la plataforma i es defineixen durant la configuració de la plataforma Decidim del municipi/ entitat.^link:#ftnt8[[8]]^ Mentre les etiquetas (o tags)  les defineixen lliurement les persones participants i es poden aplicar a qualsevol instància o component. Des del panell d'administració també es poden crear etiquetes i niar-les.
+També s’ha de tenir en compte que pel que fa a la classificació de continguts, Decidim també permet diferenciar i configurar àmbits i  etiquetes (o tags). A diferència de les categories, els àmbits (territorials o temàtics) són generals a tota la plataforma i es defineixen durant la configuració de la plataforma Decidim del municipi/ entitat footnote:[Sobre com crear els àmbits, veure punt 3.2.].Mentre les etiquetas (o tags)  les defineixen lliurement les persones participants i es poden aplicar a qualsevol instància o component. Des del panell d'administració també es poden crear etiquetes i niar-les.
 
-Per a configurar les categories, clicar Categories al submenú del PROCÉS PARTICIPATIU. A continuació clicar NOU/VA. Per a cada una de les categories/ subcategories cal escriure (Figura 31): Nom, Descripció, i en el cas que es tracti d’una subcategoria, seleccionar la categoria a què correspon en el desplegable Superior. En acabar, clicar Crea una categoria.
+Per a configurar les categories, clicar **Categories** al submenú del **PROCÉS PARTICIPATIU**. A continuació clicar **NOU/VA**. Per a cada una de les categories/ subcategories cal escriure (Figura 31): **Nom, Descripció**, i en el cas que es tracti d’una subcategoria, seleccionar la categoria a què correspon en el desplegable **Superior**. En acabar, clicar **Crea una categoria**.
 
-image:images/image55.png[Nova categoria.png]
-
-Figura 31 - Nova categoria
+[#Nova categoria.fig]
+._Nova categoria_.
+image::images/image55.png[Nova categoria.png]
 
 [[h.x2opelapxzom]]
 [[h.3cqmetx]]
@@ -122,163 +126,168 @@ Figura 31 - Nova categoria
 
 Quan es posa en marxa un procés participatiu és important facilitar a la ciutadania el màxim d'informació possible sobre el mateix perquè puguin participar amb coneixement. Per això resulta útil poder afegir fitxers (Adjunts) amb la informació que es consideri rellevant.
 
-Aquests documents es poden classificar/ agrupar en Col·leccions. Per exemple per un procés de remodelació d'una plaça, es podrien crear les col·leccions amb informació sobre els possibles usos, amb els plànols, amb informació econòmica, etc.
+Aquests documents es poden classificar/ agrupar en **Col·leccions**. Per exemple per un procés de remodelació d'una plaça, es podrien crear les col·leccions amb informació sobre els possibles usos, amb els plànols, amb informació econòmica, etc.
 
-En primer lloc caldrà crear les col·leccions per poder col·locar els adjunts més endavant. Clicar Col·leccions en el submenú del PROCÉS PARTICIPATIU, s’obre la finestra COL·LECCIONS D’ADJUNTS (Figura 32).
+En primer lloc caldrà crear les col·leccions per poder col·locar els adjunts més endavant. Clicar **Col·leccions** en el submenú del PROCÉS PARTICIPATIU, s’obre la finestra **COL·LECCIONS D’ADJUNTS** (Figura 32).
 
-image:images/image56.png[image]
+[#Col·leccions d’adjunts.fig]
+._Col·leccions d’adjunts_.
+image::images/image56.png[image]
 
-Figura 32 - Col·leccions d’adjunts
+A continuació clicar **NOU/VA** per crear una nova col·lecció. Afegir **Nom, Pes** (Weight) i una Descripció. Per finalitzar, clicar Crear (Figura 33).
 
-A continuació clicar NOU/VA per crear una nova col·lecció. Afegir Nom, Pes (Weight) i una Descripció. Per finalitzar, clicar Crear (Figura 33).
+[#Nova Col·lecció.fig]
+._Nova Col·lecció_.
+image::images/image3.png[image]
 
-image:images/image3.png[image]
-
-Figura 33 - Nova Col·lecció
-
-Un cop s’han creat les col·leccions, es poden afegir els fitxers adjunts. Clicar Fitxers en el submenú del PROCÉS PARTICIPATIU i clicar NOU/VA per afegir els arxius.  S'obrirà la finestra NOU ARXIU ADJUNT (Figura 34). Escriure el  Títol i la Descripció, seleccionar el Pes (Weight) i la Col·lecció a la qual es vol associar el fitxer, i carregar el fitxer fent clic a Arxiu/ Examinar. Per finalitzar clicar Crea arxiu adjunt.
+Un cop s’han creat les col·leccions, es poden afegir els fitxers adjunts. Clicar **Fitxers** en el submenú del PROCÉS PARTICIPATIU i clicar **NOU/VA** per afegir els arxius.  S'obrirà la finestra NOU ARXIU ADJUNT (Figura 34). Escriure el  **Títol** i la **Descripció**, seleccionar el **Pes** (_Weight_) i la **Col·lecció** a la qual es vol associar el fitxer, i carregar el fitxer fent clic a **Arxiu**/ **Examinar**. Per finalitzar clicar **Crea arxiu adjunt**.
 
 Els fitxers adjunts han de ser documents en formats oberts (.odt, .rtf, .pdf, etc.). El sistema no permet pujar textos en formats com .doc (sortiria un missatge sol·licitant el canvi de format perquè s’ha intentat pujar un text en format no lliure ni interoperable).
 
 La persona usuària veurà aquests documents en la pantalla d’informació sobre el projecte (a la part de baix).
 
-image:images/image37.png[image]Figura 34 - Nou arxiu adjunt
+[#Nou arxiu adjunt.fig]
+._Nou arxiu adjunt_.
+image::images/image37.png[image]
 
 [[h.4bvk7pj]]
 === Usuaris del procés
 
 A més dels administradors generals de la plataforma, es poden donar permisos a altres persones perquè administrin un determinat procés, perquè hi col·laborin o perquè moderin quan hi hagi continguts que han estat denunciats.
 
-Els administradors d’un procés poden configurar/ editar el procés, mentre els col·laboradors només poden veure el que hi ha al menú administrador del procés però no poden configurar/ editar.
+Els **administradors** d’un procés poden configurar/ editar el procés, mentre els **col·laboradors** només poden veure el que hi ha al menú administrador del procés però no poden configurar/ editar.
 
-Per a donar d’alta els administradors, col·laboradors i/o moderadors d’un procés, en el submenú del procés, anar a Usuaris del procés i clicar NOU/VA.
+Per a donar d’alta els administradors, col·laboradors i/o moderadors d’un procés, en el submenú del procés, anar a **Usuaris del procés** i clicar **NOU/VA**.
 
-S’obre la pantalla NOU USUARI DEL PROCÉS PARTICIPATIU (Figura 35).
+S’obre la pantalla **NOU USUARI DEL PROCÉS PARTICIPATIU** (Figura 35).
 
-image:images/image14.png[nou usuàri.png]
+[#Nou usuari del procés participatiu.fig]
+._Nou usuari del procés participatiu_.
+image::images/image14.png[nou usuàri.png]
 
-Figura 35 - Nou usuari del procés participatiu
-
-Cal omplir els camps: Nom, Correu electrònic i Rol (seleccionar en el desplegable Administrador, Col·laborador o Moderador). Tot seguit clicar Crear
+Cal omplir els camps: **Nom**, **Correu electrònic** i **Rol** (seleccionar en el desplegable **Administrador**, **Col·laborador** o **Moderador**). Tot seguit clicar **Crear**.
 
 [[h.1664s55]]
 === Moderacions
 
-La funcionalitat/ component Moderacions permet moderar els debats per tal que aquests siguin democràtics i constructius. Fent ús d’aquesta funcionalitat/ component, els administradors, col·laboradors o el moderador d’un procés, poden amagar els continguts/ aportacions que han estat denunciats, quan es consideri pertinent la denúncia, o desfer la denúncia.
+La funcionalitat/ component **Moderacions** permet moderar els debats per tal que aquests siguin democràtics i constructius. Fent ús d’aquesta funcionalitat/ component, els administradors, col·laboradors o el moderador d’un procés, poden amagar els continguts/ aportacions que han estat denunciats, quan es consideri pertinent la denúncia, o desfer la denúncia.
 
 En general es consideren continguts denunciables els que  són ofensius, poden ser considerats  spam (posts publicitaris relacionats o no amb el tema de debat, enllaços a pàgines web malicioses, trolling, informació abusiva o no desitjada), o no estan relacionats amb el tema de discussió.
 
-Per la gestió dels continguts denunciats, clicar Moderacions en el submenú del procés. Apareix una pantalla amb tots els comentaris que han estat denunciats pendents de moderació i la següent informació per a cadascun d’ells (Figura 36):
+Per la gestió dels continguts denunciats, clicar **Moderacions** en el submenú del procés. Apareix una pantalla amb tots els comentaris que han estat denunciats pendents de moderació i la següent informació per a cadascun d’ells (Figura 36):
 
-* TIPUS: si es tracta d’una proposta (Proposal) o d’un comentari (Comment).
-* URL del contingut reportat: enllaç on es pot veure el contingut denunciat i les motivacions que han portat a denunciar-lo.
-* DENÚNCIES: perquè ha estat denunciat. Pot ser: perquè: no està relacionat amb el tema de debat (“does_not_belong”), es tracta de spam o és comentari ofensiu (“offensive”).
-* RECOMPTE: Nombre de vegades que ha estat denunciat per usuaris diferents
-* ACCIONS: clicant les icones de la dreta es pot Desfer denúncia o Amagar.
+* **TIPUS**: si es tracta d’una proposta (***Proposal**) o d’un comentari (**Comment**).
+* **URL del contingut reportat**: enllaç on es pot veure el contingut denunciat i les motivacions que han portat a denunciar-lo.
+* **DENÚNCIES**: perquè ha estat denunciat. Pot ser: perquè: no està relacionat amb el tema de debat (“_does_not_belong”_), es tracta de spam o és comentari ofensiu (“_offensive_”).
+* **RECOMPTE**: Nombre de vegades que ha estat denunciat per usuaris diferents.
+* **ACCIONS**: clicant les icones de la dreta es pot **Desfer denúncia** o **Amagar**.
 
-image:images/image15.png[moderacions.png]
+[#Moderacions.fig]
+._Moderacions_.
+image::images/image15.png[moderacions.png]
 
-Figura 36 - Moderacions
+Els continguts denunciats que ja han estat amagats es poden veure clicant **OCULTS** (en la part superior dreta del quadre de moderacions). Apareixerà el llistat dels continguts denunciats ocults i la següent informació per a cadascun d’ells (Figura 37): TIPUS, CONTINGUT, DENÚNCIES, RECOMPTE, DATA D’OCULTACIÓ (la data en que el contingut ha estat amagat), ACCIONS (en aquest cas, l’acció possible és **Desfer denúncia**).
 
-Els continguts denunciats que ja han estat amagats es poden veure clicant OCULTS (en la part superior dreta del quadre de moderacions). Apareixerà el llistat dels continguts denunciats ocults i la següent informació per a cadascun d’ells (Figura 37): TIPUS, CONTINGUT, DENÚNCIES, RECOMPTE, DATA D’OCULTACIÓ (la data en que el contingut ha estat amagat), ACCIONS (en aquest cas, l’acció possible és Desfer denúncia).
+Per tornar als continguts denunciats visibles, clicar **NO OCULTS** en la part superior dreta del quadre de moderacions.
 
-Per tornar als continguts denunciats visibles, clicar NO OCULTS en la part superior dreta del quadre de moderacions.
+[#Continguts ocults.fig]
+._Continguts ocults_.
+image::images/image16.png[moderacions OCULTS.png]
 
-image:images/image16.png[moderacions OCULTS.png]
-
-Figura 37 - Continguts ocults
 
 [[h.kgcv8k]]
 === Funcionalitats/ Components
 
 Actualment existeixen les següents funcionalitats/ components dels processos participatius:
 
-* PÀGINA: Pàgines estàtiques amb suport multi idioma, opcionalment permeten comentaris i agregar iframes.
-* TROBADES: trobades presencials, és a dir esdeveniments cara a cara inclosos en un procés.
-* PROPOSTES: contribucions escrites dels usuaris i les usuàries a la plataforma, que poden ser objecte de decisió.
-* PRESSUPOSTOS: mòdul específic per desplegar un procés de pressupostos participatius. Permet determinar el percentatge mínim sobre el total del pressupost per donar suport als projectes presentats.
-* ENQUESTA: per dissenyar, realitzar i visualitzar els resultats d'enquestes.
-* SEGUIMENT: fitxes de seguiment d’actuacions, projectes, plans, etc. Permet l’agregació d’altres components com les propostes o les cites presencials.
-* DEBATS: Permet obrir debats sobre preguntes o temes específics definits pels administradors o pels participants.
-* SORTEJOS: Permet determinar les persones que formaran part d’un grup (com un comitè) de forma aleatòria  d’entre un grup més ampli.
+* **PÀGINA**: Pàgines estàtiques amb suport multi idioma, opcionalment permeten comentaris i agregar iframes.
+* **TROBADES**: trobades presencials, és a dir esdeveniments cara a cara inclosos en un procés.
+* **PROPOSTES**: contribucions escrites dels usuaris i les usuàries a la plataforma, que poden ser objecte de decisió.
+* **PRESSUPOSTOS**: mòdul específic per desplegar un procés de pressupostos participatius. Permet determinar el percentatge mínim sobre el total del pressupost per donar suport als projectes presentats.
+* **ENQUESTA**: per dissenyar, realitzar i visualitzar els resultats d'enquestes.
+* **SEGUIMENT**: fitxes de seguiment d’actuacions, projectes, plans, etc. Permet l’agregació d’altres components com les propostes o les cites presencials.
+* **DEBATS**: Permet obrir debats sobre preguntes o temes específics definits pels administradors o pels participants.
+* **SORTEJOS**: Permet determinar les persones que formaran part d’un grup (com un comitè) de forma aleatòria  d’entre un grup més ampli.
 
-Per a configurar les funcionalitats/ components, clicar Funcionalitats/ Components en el submenú del PROCÉS. Apareix un llistat amb les funcionalitats/ components que ja han estat configurades pel procés el NOM DE LA FUNCIONALITAT/ COMPONENT (que se li ha donat) i el TIPUS DE FUNCIONALITAT/  COMPONENT que s’ha utilitzat per crear-la (Figura 38).
+Per a configurar les funcionalitats/ components, clicar **Funcionalitats/ Components** en el submenú del **PROCÉS**. Apareix un llistat amb les funcionalitats/ components que ja han estat configurades pel procés el **NOM DE LA FUNCIONALITAT/ COMPONENT** (que se li ha donat) i el **TIPUS DE FUNCIONALITAT/  COMPONENT** que s’ha utilitzat per crear-la (Figura 38).
 
-Des d‘aquest llistat, a través de les icones, es poden realitzar les següents accions: Gestionar, Publicar/ Despublicar, Configurar, configurar els Permisos i Eliminar la funcionalitat/ component.
+Des d‘aquest llistat, a través de les icones, es poden realitzar les següents accions: **Gestionar, Publicar**/ **Despublicar, Configurar**, configurar els **Permisos** i **Eliminar la funcionalitat**/ **Component**.
 
-image:images/image18.png[funcionalitats procés.png]
-
-Figura 38. Funcionalitats/ components  procés
+[#Funcionalitats/ components  procés.fig]
+._Funcionalitats/ components  procés_.
+image::images/image18.png[funcionalitats procés.png]
 
 Per a configurar una nova funcionalitat/ component, clicar Afegir funcionalitat/ component en la part superior dreta de la finestra i seleccionar el tipus de funcionalitat/ component que es vol configurar en el desplegable (Figura 39).
 
-image:images/image19.png[Afegir funcionalitat.png]
+[#Afegir funcionalitat/ component.fig]
+._Afegir funcionalitat/ component_.
+image::images/image19.png[Afegir funcionalitat.png]
 
-Figura 39. Afegir funcionalitat/ component
 
 [[h.43ky6rz]]
 ==== Pàgina
 
 Es tracta de pàgines amb informació sobre els diferents processos en les quals es pot descriure el procés, les seves fases, com es pot participar en el procés, els seus objectius, etc.
 
-Per afegir una pàgina, clicar Pàgina en el desplegable Afegir funcionalitat/ component. S’obre la finestra AFEGIR FUNCIONALITAT/ COMPONENT: PÀGINA on s’ha d’omplir els següents camps (Figura 40):
+Per afegir una pàgina, clicar **Pàgina** en el desplegable **Afegir funcionalitat**/ **component**. S’obre la finestra **AFEGIR FUNCIONALITAT**/ **COMPONENT**: **PÀGINA** on s’ha d’omplir els següents camps (Figura 40):
 
-* Nom: nom de la pàgina.
-* Pes: Correspon a l’ordre en què els components (en aquest cas la pàgina) es mostren en el menú del procés participatiu.
-* A Configuració global: només si es vol mostrar un Avís en la Pàgina (missatge destacat), escriure el contingut del missatge.
-* A Configuració de fase, només si es vol mostrar un Avís en la Pàgina (missatge destacat) durant l’execució d’una fase, escriure el contingut del missatge en la fase en en la qual hauria de sortir.
+* **Nom**: nom de la pàgina.
+* **Pes**: Correspon a l’ordre en què els components (en aquest cas la pàgina) es mostren en el menú del procés participatiu.
+* A **Configuració global**: només si es vol mostrar un **Avís** en la **Pàgina** (missatge destacat), escriure el contingut del missatge.
+* A **Configuració de fase**, només si es vol mostrar un **Avís** en la **Pàgina** (missatge destacat) durant l’execució d’una fase, escriure el contingut del missatge en la fase en en la qual hauria de sortir.
 
-A continuació, clicar Afegir funcionalitat/ component.
+A continuació, clicar **Afegir funcionalitat/ component**.
 
-image:images/image41.png[NOva pàgina 3.png]
+[#Afegir pàgina.fig]
+._Afegir pàgina_.
+image::images/image41.png[NOva pàgina 3.png]
 
-Figura 40 - Afegir pàgina
+Per a crear/ editar els continguts de la pàgina configurada, en el submenú de l’esquerra del procés de participació, a **Funcionalitats/ Components**, clicar sobre **Nom pàgina** (el nom que se li ha donat a la pàgina).
 
-Per a crear/ editar els continguts de la pàgina configurada, en el submenú de l’esquerra del procés de participació, a Funcionalitats/ Components, clicar sobre Nompàgina (el nom que se li ha donat a la pàgina).
+S’obre la finestra **Editar pàgina**. Dins el quadre **Cos**, escriure el contingut de la pàgina. Un cop fet, clicar **Actualitzar** (Figura 41).
 
-S’obre la finestra Editar pàgina. Dins el quadre Cos, escriure el contingut de la pàgina. Un cop fet, clicar Actualitzar (Figura 41).
+[#Editar pàgina.fig]
+._Editar pàgina_.
+image::images/image35.png[editar pag proces 2.png]
 
-image:images/image35.png[editar pag proces 2.png]
-
-Figura 41 - Editar pàgina
-
-També es pot editar la pàgina o canviar la seva configuració des de la finestra Funcionalitats/ Components (Figura 38), clicant les icones corresponents (Gestionar i Configurar). Així mateix, des d’aquesta finestra es pot Publicar/ Despublicar o Eliminar la pàgina.
+També es pot editar la pàgina o canviar la seva configuració des de la finestra **Funcionalitats/ Components** (Figura 38), clicant les icones corresponents (**Gestionar** i **Configurar**). Així mateix, des d’aquesta finestra es pot **Publicar**/ **Despublicar** o **Eliminar** la pàgina.
 
 [[h.3hv69ve]]
 ==== Trobades
 
-Per a poder afegir els actes presencials, en primer lloc cal configurar la funcionalitat/ component Trobades. En el desplegable Afegir funcionalitat/ component (Figura 39) clicar Trobades, s’obre la finestra AFEGIR FUNCIONALITAT/ COMPONENT: TROBADES (Figura 42).
+Per a poder afegir els actes presencials, en primer lloc cal configurar la funcionalitat/ component **Trobades**. En el desplegable **Afegir funcionalitat/ component** (Figura 39) clicar **Trobades**, s’obre la finestra **AFEGIR FUNCIONALITAT**/ **COMPONENT: TROBADES** (Figura 42).
 
-Cal donar un Nom a la funcionalitat/ component Trobades, seleccionar el Pes (posició en el menú del procés), i a Configuració Global i Configuració de fase, escriure els Avisos si s’escau, i marcar (clicant) Comentaris habilitats per a que els participants del procés puguin fer comentaris en les trobades o Comentaris bloquejats.
+Cal donar un **Nom** a la funcionalitat/ component **Trobades**, seleccionar el **Pes** (posició en el menú del procés), i a **Configuració Global** i **Configuració de fase**, escriure els **Avisos** si s’escau, i marcar (clicant) **Comentaris habilitats** per a que els participants del procés puguin fer comentaris en les trobades o **Comentaris bloquejats**.
 
-Tot seguit clicar Afegir funcionalitat/ components.
+Tot seguit clicar **Afegir funcionalitat/ components**.
 
-Un cop configurada la funcionalitat/ component Trobades, es poden crear les trobades. En el submenú de l’esquerra del procés de participació, a Funcionalitats/ Components, clicar NomTrobades (el nom que se li ha donat a la funcionalitat/ component). S’obre la finestra TROBADES amb el llistat de trobades que han estat prèviament creades (Figura 42).
+Un cop configurada la funcionalitat/ component **Trobades**, es poden crear les trobades. En el submenú de l’esquerra del procés de participació, a **Funcionalitats/ Components**, clicar **_NomTrobades_** (el nom que se li ha donat a la funcionalitat/ component). S’obre la finestra **TROBADES** amb el llistat de trobades que han estat prèviament creades (Figura 42).
 
- image:images/image9.png[image]
+[#Trobades.fig]
+._Trobades_.
+image::images/image9.png[image]
 
-Figura 42 - Trobades
 
 Des d’aquesta finestra, clicant sobre les icones es poden realitzar les següents accions:
 
-* Previsualitzar com quedarà la publicació de la trobada
-* Editar
-* Configuració Inscripcions.
-* Tancar la trobada un cop realitzada.
-* Adjuntar col·leccions.
-* Adjuntar arxius.
-* Esborrar (eliminar la trobada).
+* **Previsualitzar** com quedarà la publicació de la trobada
+* **Editar**
+* Configuració **Inscripcions**.
+* **Tancar** la trobada un cop realitzada.
+* **Adjuntar** col·leccions.
+* **Adjuntar** arxius.
+* **Esborrar** (eliminar la trobada).
 
-Per crear una trobada, clicar NOVA en la part superior dreta de la finestra TROBADES (Figura 43). S’obre la finestra AFEGIR FUNCIONALITAT/ COMPONENT: TROBADES.
+Per crear una trobada, clicar **NOVA** en la part superior dreta de la finestra **TROBADES** (Figura 43). S’obre la finestra **AFEGIR FUNCIONALITAT**/ **COMPONENT**: **TROBADES**.
 
-image:images/image24.png[Afegir trobada procés.png]
-
-Figura 43 - Afegir funcionalitat/ component: Trobades
+[#Afegir funcionalitat/ component: Trobades.fig]
+._Afegir funcionalitat/ component: Trobades_.
+image::images/image24.png[Afegir trobada procés.png]
 
 La informació que s’ha d’editar quan es crea una trobada és (Figura 44):
 
-* Títol
-* Descripció
+* **Títol**
+* **Descripció**
 * Adreça: Nom de la via, número, codi postal, ciutat)
 * Ubicació: Nom de l’edifici, sala on es realitzarà...
 * Detalls d’ubicació: si s’escau, com arribar-hi, pis, bloc, etc.
@@ -620,6 +629,4 @@ image:images/image38.png[nou grup de processos.png]
 
 Figura 68 - Nou Grup de processos
 
-link:#ftnt_ref7[[7]] Sobre com crear els àmbits, veure el punt 2.
 
-link:#ftnt_ref8[[8]] Sobre com crear els àmbits, veure punt 3.2.

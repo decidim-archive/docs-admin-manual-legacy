@@ -49,7 +49,7 @@ include::../locale/attributes.adoc[]
 :keywords: Decidim, manual d'administració, plataforma de participació democràtica, components, espais de participació, programari, e-democràcia, participació, assemblearisme, participació ciutadana, processos participatius, consells de barri, consultes ciutadanes, accountability, rendició de comptes, propostes, e-voting, transparència
 
 // MANDATORY. Document's history.
-:_dochistory:
+:_dochistory: La primera versió d’aquest document respon a un encàrrec de la Diputació de Barcelona, dins el projecte "Desenvolupament del disseny conceptual del multitenancy i les funcionalitats bàsiques del configurador de processos participatius de la plataforma web de participació ciutadana de la Diputació de Barcelona". Va ser realitzat pel grup de recerca Tecnopolítica, de Communication Networks and Social Change (http://www.communicationchange.net/ca/[CNSC]) a l’Internet Interdisciplinary Institute (http://www.uoc.edu/portal/ca/in3/index.html[IN3]) de la Universitat Oberta de Catalunya (http://www.uoc.edu/portal/ca/index.html[UOC]). El document ha seguit evolucionant i en aquesta versió s’introdueixen les millores, noves funcionalitats i espais de participació que incorporen les versions del programari de Decidim v0.7, v0.8, v0.9 i v0.10.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE URGE YOU
 // NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title}, {authors},
