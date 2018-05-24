@@ -101,7 +101,7 @@ Para utilizar la plataforma necesitas una cuenta de usuario. Según el grado de 
 * Si después de registrarte has hecho la verificación básica, es decir, has verificado la residencia a través de la plataforma (véase “¿Cómo creo y verifico mi cuenta?”), podrás apoyar las propuestas (en determinados procesos).
 * Siempre puedes participar de manera presencial en cualquiera de los encuentros presenciales que hay en cada proceso de participación. Las contribuciones que se realicen de forma presencial serán recogidas, publicadas y accesibles en la plataforma.
 
-*¿Necesito teléfono móvil o acceso a internet para poder participar?*
+*¿Necesito teléfono móvil o acceso a Internet para poder participar?*
 
 No. Todas las acciones relacionadas con las propuestas, tanto crearlas como apoyarlas, votarlas o informarse de ellas, puedes hacerlas presencialmente en cualquiera de los debates en curso. También puedes crearte una cuenta de usuario completamente verificada, en caso de que quieras utilizar la plataforma.
 

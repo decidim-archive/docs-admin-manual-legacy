@@ -11,7 +11,7 @@ image::images/image58.png[]
 
 Desde esta lista, haciendo clic en los iconos de la derecha, también se puede *visualizar* cómo quedarán las páginas, así como *editar* y *eliminar* cada una de ellas.
 
-Cuando se configura una página, deben completarse los siguientes campos (ver <<image28-fig>>): el *título* de la página, el *contenido* (el texto al que hace referencia la página) y el *nombre corto de URL* que identificará la página (por ejemplo, si la página es sobre accesibilidad, “accessibility”: la palabra _accessibility_ aparecerá al final de la dirección web de la página, https://decidim.municipio.cat/pages/accessibility). Al acabar, haz clic en *Crear*.
+Cuando se configura una página, deben completarse los siguientes campos (ver <<image28-fig>>): el *título* de la página, el *contenido* (el texto al que hace referencia la página) y el *nombre corto de URL* que identificará la página (por ejemplo, si la página es sobre accesibilidad, “accessibility”: la palabra _accessibility_ aparecerá al final de la dirección web de la página, https://decidim.diba.cat/pages/accessibility). Al acabar, haz clic en *Crear*.
 
 Para la redacción del contenido de las páginas estáticas, se pueden ver y utilizar libremente los textos que hay en el anexo I.
 
