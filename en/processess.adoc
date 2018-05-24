@@ -44,7 +44,7 @@ Fill in the following fields (remember that where the platform is in two or more
 * *Scope metadata*: this is not displayed, being internal information about which area of the city the process is aimed at.
 * *Target*: individuals the participatory process is aimed at.
 * *Scopes enabled*: tick whether you wish to identify with a sphere of action (municipal, district 1, district 2 and so on).
-* *Scope*: select the corresponding scope from the drop-down menu. The scopes will need to have been created beforehand footnote:[On creating scopes, see point 2.].
+* *Scope*: select the corresponding scope from the drop-down menu. The scopes will need to have been created beforehand.footnote:[On creating scopes, see point 2.]
 * *Participatory scope*: explanation of the decision margin or limits that citizens will have in this process.
 * *Participatory structure*: promoter group, monitoring committee, working group, entities that will be taking part in the participatory process’s various workshops and meetings.
 * *Processes group*: where this is a process within a group, select the corresponding process group from the drop-down menu. For example, an Action Plan by District, within a Municipal Action Plan. The group must have been created beforehand. If it is not part of any group, select *None* from the drop-down menu.
@@ -111,7 +111,7 @@ image::images/image65.png[image]
 
 Note that once the categories have been defined, you cannot change them as they become the index that structures the contents inside a participation space. For example, if there is a participatory process for electing candidates, the categories could identify lists or types of candidacies. And where the process is for defining a Plan, the categories would coincide with the index for this Plan.
 
-Note too that when it comes to classing contents, Decidim also allows scopes and labels (or tags) to be distinguished and configured. Unlike categories, (territorial or thematic) scopes are general throughout the platform and are defined during the configuration of the Decidim platform of the local authority/ entity footnote:[On how to create scopes, see point 2.2.]. Whereas labels (or tags) are freely defined by participants and can apply to any instance or component. The administration panel also allows you to create and nest labels.
+Note too that when it comes to classing contents, Decidim also allows scopes and labels (or tags) to be distinguished and configured. Unlike categories, (territorial or thematic) scopes are general throughout the platform and are defined during the configuration of the Decidim platform of the local authority/ entity.footnote:[On how to create scopes, see point 2.2.] Whereas labels (or tags) are freely defined by participants and can apply to any instance or component. The administration panel also allows you to create and nest labels.
 
 For configuring categories, click on *Categories* in the *PARTICIPATIVE PROCESS* submenu. Then click on *NEW* below. You need to enter the following for each of the categories/ subcategories (<<new-category-fig>>): *Name* and *Description* and, where a subcategory is involved, select the category it corresponds to from the *Parent* drop-down menu. To finish, click on *Create category*.
 
@@ -301,9 +301,9 @@ If you wish to attach a file to the information on the meeting, go to the *MEETI
 ._Attachments_.
 image::images/image44.png[image]
 
-Click on *NEW* to attach a file. Then, in the *NEW ATTACHMENT* window (<<new-attachment-fig>>), enter the *Title* and *Description*, upload the file (by clicking on *Seleccionar archivo*). To finish, click on *Create attachment*.
+Click on *NEW* to attach a file. Then, in the *NEW ATTACHMENT* window (<<new-attachment-meetings-fig>>), enter the *Title* and *Description*, upload the file (by clicking on *Seleccionar archivo*). To finish, click on *Create attachment*.
 
-[#new-attachment-fig]
+[#new-attachment-meetings-fig]
 ._New attachment_.
 image::images/image17.png[image]
 
