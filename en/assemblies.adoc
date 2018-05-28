@@ -4,7 +4,7 @@ To configure bodies such as municipal Councils or city Assemblies, click on *ASS
 
 [#assemblies-fig]
 ._Assemblies_.
-image::images/image48.png[image]S
+image::images/image48.png[image]
 
 Then click on *NEW*. The *NEW ASSEMBLY* window will open (<<new-assembly-fig>>), where general information on the assembly has to be entered. See 2.5.1 (Information on participatory processes) for filling in the information required there.
 
