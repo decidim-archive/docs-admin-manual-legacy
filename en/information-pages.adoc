@@ -11,7 +11,7 @@ Here we offer you three informative pages that you can use as a template or re-u
 
 [width="100%",cols="100%",]
 |===
-|FAQS (EN)
+|_FAQS (EN)_
 a|
 If you’d like to take part in participatory processes and have your say, register! Note that to use some of the functions of certain processes (such as voting and prioritising) you will have to verify that you are registered with #Name of the Municipality/ Organization#, by following a very simple step.
 
@@ -134,7 +134,7 @@ Review the section "My residency verification doesn't work", in case the problem
 
 [width="100%",cols="100%",]
 |===
-|Terms and conditions of use (EN)
+|_Terms and conditions of use (EN)_
 a|
 Legal aspects and conditions of use for the #Platformname# participatory platform at #Name of the Municipality/ Organization# City Council.
 
@@ -148,7 +148,7 @@ Legal aspects and conditions of use for the #Platformname# participatory platfo
 
 [width="100%",cols="100%",]
 |===
-|Accessibility (EN)
+|_Accessibility (EN)_
 a|
 This refers to the webpage's design and contents, which have to be accessible (without any visual or technological obstacles and for the largest number of users possible), and to standard regulations (WAI, Web Accessibility Initiative).
 
