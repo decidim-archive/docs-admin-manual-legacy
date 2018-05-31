@@ -28,10 +28,10 @@ include::../locale/attributes.adoc[]
 :_editors:
 
 // MANDATORY. See this field description in section "Criteris d'autoria ..." below.
-:authors:
+:authors: Marta Almela (IN3/UOC), Arnau Monterde (IN3/UOC), Juan Linares (IN3/UOC), Antonio Calleja-López (IN3/UOC).
 
 // OPTIONAL. See this field description in section "Criteris d'autoria ..." below.
-:_contributors:
+:_contributors: Carolina Romero  (Localret), Xabier Barandiaran (Ajuntament de Barcelona), Mònica Garriga Miret (Free Knowledge Institute (FKI)), Joan Olivé Llanos (Ajuntament de Barcelona), Mariola Ruiz (Ajuntament de Barcelona), Inma Rodríguez (Ajuntament de Barcelona)
 
 // OPTIONAL. See this field description in section "Criteris d'autoria ..." below.
 :_proofreaders:
@@ -49,12 +49,12 @@ include::../locale/attributes.adoc[]
 :keywords: Decidim, manual d'administració, plataforma de participació democràtica, components, espais de participació, programari, e-democràcia, participació, assemblearisme, participació ciutadana, processos participatius, consells de barri, consultes ciutadanes, accountability, rendició de comptes, propostes, e-voting, transparència
 
 // MANDATORY. Document's history.
-:_dochistory:
+:_dochistory: La primera versió d’aquest document respon a un encàrrec de la Diputació de Barcelona, dins el projecte "Desenvolupament del disseny conceptual del multitenancy i les funcionalitats bàsiques del configurador de processos participatius de la plataforma web de participació ciutadana de la Diputació de Barcelona". Va ser realitzat pel grup de recerca Tecnopolítica, de Communication Networks and Social Change (http://www.communicationchange.net/ca/[CNSC]) a l’Internet Interdisciplinary Institute (http://www.uoc.edu/portal/ca/in3/index.html[IN3]) de la Universitat Oberta de Catalunya (http://www.uoc.edu/portal/ca/index.html[UOC]). El document ha seguit evolucionant i en aquesta versió s’introdueixen les millores, noves funcionalitats i espais de participació que incorporen les versions del programari de Decidim v0.7, v0.8, v0.9 i v0.10.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE URGE YOU
 // NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title}, {authors},
 // {doctitle} or {revnumber} can be used here.
-:_citation: {authors} (2018) {_title}. v{revnumber}.
+:_citation: Decidim Team (2018) {_title}. v{revnumber}.
 
 // MANDATORY. Legal terms under which this document can be distributed and/or modified.
 // It's usually not necessary to modify the default contents of this field.

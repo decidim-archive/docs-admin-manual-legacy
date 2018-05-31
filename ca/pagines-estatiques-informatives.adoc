@@ -11,17 +11,17 @@ En aquest apartat es proposen tres pàgines informatives que es poden utilitzar 
 
 [width="100%",cols="100%",]
 |===
-|PREGUNTES FREQÜENTS (CA)
+|_PREGUNTES FREQÜENTS (CA)_
 a|
-Si vols participar en processos participatius i dir la teva, registra’t! Tingues present que per a fer ús d’algunes funcionalitats/components de determinats processos (com votar o prioritzar) hauràs de verificar que estàs empadronat/da a nomdelmunicipi/ entitat amb un pas molt senzill.
+Si vols participar en processos participatius i dir la teva, registra’t! Tingues present que per a fer ús d’algunes funcionalitats/components de determinats processos (com votar o prioritzar) hauràs de verificar que estàs empadronat/da a #nomdelmunicipi/ entitat# amb un pas molt senzill.
 
-Què és nomplataforma?
+Què és #nomplataforma#?
 
-Una plataforma per construir un nomdelmunicipi/ entitat més participat, amb visió compartida i per aprofundir en  la democràcia local participativa.
+Una plataforma per construir un #nomdelmunicipi/ entitat# més participat, amb visió compartida i per aprofundir en  la democràcia local participativa.
 
-Nomplataforma és una plataforma de participació basada en codi obert. La ciutadania pot veure com està construïda, reutilitzar-la o millorar-la. https://www.google.com/url?q=https://github.com/AjuntamentdeBarcelona/decidim.barcelona&sa=D&ust=1526042293479000[Consulta aquí el codi a GitHub].
+#Nomplataforma# és una plataforma de participació basada en codi obert. La ciutadania pot veure com està construïda, reutilitzar-la o millorar-la. https://github.com/AjuntamentdeBarcelona/decidim.barcelona-legacy[Consulta aquí el codi a GitHub].
 
-Com puc participar a nomplataforma?
+*Com puc participar a #nomplataforma#*?
 
 Informa’t
 
@@ -43,57 +43,57 @@ Segueix les propostes existents
 * Després de les cites presencials segueix el recorregut dels debats i les aportacions generades.
 * Marca una proposta que t’interessi i segueix-ne tota l’evolució, des dels comentaris d’altres persones fins als documents finals de devolució.
 
-Què són...?
+*Què són...?*
 
-Processos participatius
+*Processos participatius*
 
-Activitats del Nomplataforma que involucren a la ciutadania i que es desenvolupen en diverses fases: informació , diagnòstic, aportacions, decisions, resultats i avaluació de les propostes.
+Activitats del #*Nomplataforma*# que involucren a la ciutadania i que es desenvolupen en diverses fases: informació , diagnòstic, aportacions, decisions, resultats i avaluació de les propostes.
 
-Assemblees
+*Assemblees*
 
 Canals i òrgans de participació permanent.
 
-Cites presencials
+*Cites presencials*
 
 Trobades i sessions de treball  per contribuir als processos de participació actius.
 
-Enquestes
+*Enquestes*
 
 Qüestionari per donar  informació i compartir la teva opinió.
 
-Debats
+*Debats*
 
 Espais digitals per informar-te i decidir sobre les propostes en els processos que tinguin habilitada aquesta funció.
 
-Propostes
+*Propostes*
 
 Contribucions que pots fer com a persona usuària. En alguns casos podràs rebre el suport d’altres usuàries . Algunes d’elles tindran una funció de presa de decisió, i d’altres tindran una funció merament consultiva. Cada procés tindrà les seves pròpies regles característiques.
 
-Comentaris
+*Comentaris*
 
 Contribucions que pots fer com a persona usuària al fil d’una proposta o debat.
 
-No em funciona la verificació de residència.
+*No em funciona la verificació de residència.*
 
 Comprova les possibilitats següents:
 
 * Has posat el DNI o document amb tots els caràcters junts, incloent-hi la lletra al final?
-* Estàs segur/a que estàs empadronat/da al municipi de nomdelmunicipi/ entitat? (El municipi és geogràficament més petit que l’àrea metropolitana i la província de Barcelona)
+* Estàs segur/a que estàs empadronat/da al municipi de #nomdelmunicipi/ entitat#? (El municipi és geogràficament més petit que l’àrea metropolitana i la província de Barcelona)
 * Potser hi ha algun problema amb les teves dades en el registre d'empadronament. Consulta la teva OFICINA D'ATENCIÓ AL CIUTADÀ més propera i confirma que la teva informació del Padró és correcta.
 
-Si tots els passos anteriors no solucionen el problema, pots enviar-nos un correu electrònic a correu-electrònic o venir als debats presencials de cada procés.
+Si tots els passos anteriors no solucionen el problema, pots enviar-nos un correu electrònic a #correu-electrònic#o venir als debats presencials de cada procés.
 
-No estic empadronat/da a Nomdelmunicipi/ entitat, per què no puc donar suport a les propostes?
+*No estic empadronat/da a #Nomdelmunicipi/ entitat#, per què no puc donar suport a les propostes?*
 
-En el cas d’aquells processos als qual es pugui donar suport a les propostes, només ho podran fer les persones empadronades a nomdelmunicipi/ entitat. Aquelles qüestions que afecten a la presa de decisions pròpies de la ciutat, els veïns i veïnes de la ciutat que hi resideixen són els que han de prendre part de la presa de decisions.
+En el cas d’aquells processos als qual es pugui donar suport a les propostes, només ho podran fer les persones empadronades a #nomdelmunicipi/ entitat#. Aquelles qüestions que afecten a la presa de decisions pròpies de la ciutat, els veïns i veïnes de la ciutat que hi resideixen són els que han de prendre part de la presa de decisions.
 
-És cert que hi ha persones que no estan empadronades a nomdelmunicipi/ entitat i que, malgrat tot, poden ser afectades per aquestes decisions, però el Padró és el cens més ampli de què disposem a nomdelmunicipi/ entitat, que ens permet arribar al màxim nombre possible de persones i que, al mateix temps, garanteix que el procés de participació sigui segur. D’altra banda, no tots els processos que s’impulsin des de la plataforma tenen com a condició estar empadronat/da a la ciutat.
+És cert que hi ha persones que no estan empadronades a #nomdelmunicipi/ entitat# i que, malgrat tot, poden ser afectades per aquestes decisions, però el Padró és el cens més ampli de què disposem a #nomdelmunicipi/ entitat#, que ens permet arribar al màxim nombre possible de persones i que, al mateix temps, garanteix que el procés de participació sigui segur. D’altra banda, no tots els processos que s’impulsin des de la plataforma tenen com a condició estar empadronat/da a la ciutat.
 
-No estic empadronat/da a Nomdelmunicipi/ entitat. Puc participar?
+*No estic empadronat/da a #Nomdelmunicipi/ entitat#. Puc participar?*
 
 Sí que és possible participar encara que no estiguis empadronat/da. Pots participar en alguns processos habilitats, en els debats presencials, i també és possible llançar una proposta, sense necessitat d'estar empadronat/da. Només en alguns processos, els suports a les propostes es limiten a la gent empadronada de la mateixa manera que només les persones empadronades a la ciutat poden votar en les eleccions municipals.
 
-Per a què serveix verificar el meu compte?
+*Per a què serveix verificar el meu compte?*
 
 Per utilitzar la plataforma necessites un compte d'usuari. Segons el grau de verificació podràs fer més o menys coses:
 
@@ -101,29 +101,29 @@ Per utilitzar la plataforma necessites un compte d'usuari. Segons el grau de ver
 * Si després de registrar-te has fet la verificació bàsica, és a dir, has verificat la residència a través de la plataforma (+ info a "Com creo i verifico el meu compte?") podràs donar suport a propostes en aquells processos que sigui viable (en determinats processos).
 * Sempre pots participar de manera presencial i a qualsevol de les trobades presencials que hi ha en cada procés de participació. Les contribucions que es realitzin de manera presencial seran recollides, publicades i accessibles a la plataforma.
 
-Necessito telèfon mòbil o accés a internet per poder participar?
+*Necessito telèfon mòbil o accés a internet per poder participar?*
 
 No. Totes les accions relacionades amb les propostes, tant crear-les, com dona’ls-hi suport, votar-les o informar-nos-en, les pots fer presencialment a qualsevol dels debats que s'estan duent a terme. També pots crear-te un compte d'usuari completament verificat, en cas que vulguis utilitzar la plataforma.
 
-Com creo i verifico el meu compte?
+*Com creo i verifico el meu compte?*
 
 El primer és crear un compte. Crea i omple les dades que se't demana. És un requisit marcar la casella d'acceptació de les condicions d'ús. Creant un nou compte t’arribarà un correu electrònic a l'adreça que hagis especificat, i hauràs de fer clic a l'enllaç que conté (l'enllaç que posa "Confirmar el meu compte") per acabar de crear el compte.
 
 Un cop creat el compte bàsic, i després d'entrar amb el teu correu i contrasenya, el sistema donarà l'opció de fer-ne una verificació bàsica. Per fer-ho, fes clic a l'enllaç "El meu compte" de la part superior dreta, i després al botó "Verificar el meu compte".
 
-En aquells processos en què sigui necessari, també es demanarà que introdueixis les teves dades de residència, per verificar que estàs empadronat/da a nomdelmunicipi/ entitat (és important introduir el número de document amb la lletra i la data de naixement, i marcar la casella d'acceptació d'accés al Padró). Si les dades són correctes, el teu compte et permetrà donar suport a les propostes.
+En aquells processos en què sigui necessari, també es demanarà que introdueixis les teves dades de residència, per verificar que estàs empadronat/da a #nomdelmunicipi/ entitat# (és important introduir el número de document amb la lletra i la data de naixement, i marcar la casella d'acceptació d'accés al Padró). Si les dades són correctes, el teu compte et permetrà donar suport a les propostes.
 
-M'he oblidat de la contrasenya o no em funciona, què puc fer?
+*M'he oblidat de la contrasenya o no em funciona, què puc fer?*
 
-Pots sol·licitar una nova contrasenya perquè se t'enviï al teu correu electrònic. Si la solució anterior no funciona, pots enviar un correu electrònic a l'adreça correu-electrònic, on et resoldran el problema associat al teu compte. En processos que tinguin cites presencials, també pots dirigir-te i participar-hi sense haver-te de registrar a la plataforma.
+Pots sol·licitar una nova contrasenya perquè se t'enviï al teu correu electrònic. Si la solució anterior no funciona, pots enviar un correu electrònic a l'adreça #correu-electrònic#, on et resoldran el problema associat al teu compte. En processos que tinguin cites presencials, també pots dirigir-te i participar-hi sense haver-te de registrar a la plataforma.
 
-Com puc canviar la meva adreça electrònica, el meu nom d'usuari, la contrasenya, donar-me de baixa o activar o desactivar les notificacions que m'arriben al correu electrònic?
+*Com puc canviar la meva adreça electrònica, el meu nom d'usuari, la contrasenya, donar-me de baixa o activar o desactivar les notificacions que m'arriben al correu electrònic?*
 
 Fes clic a l'enllaç "Entra", introdueix la teva adreça electrònica i la contrasenya, i prem el botó "Entra". Un cop fet això, fes clic a l'enllaç "El meu compte", on trobaràs totes les opcions que et permetran canviar la teva adreça electrònica, nom d'usuari, contrasenya, donar-te de baixa o activar o desactivar les notificacions. Un cop fet el canvi adequat, assegura't de fer clic al botó "Desa els canvis".
 
-No aconsegueixo crear el meu compte correctament
+*No aconsegueixo crear el meu compte correctament*
 
-Revisa la secció "No em funciona la verificació de residència", per si el problema estigués en aquest pas, que sol ser el problema més freqüent. Si no s'ha solucionat, revisa la secció "Com creo i verifico el meu compte?", per assegurar-te que estàs seguint els passos adequadament. Si encara es manté el problema, pots enviar un correu electrònic a l'adreça correu-electrònic, i rebràs assistència.
+Revisa la secció "No em funciona la verificació de residència", per si el problema estigués en aquest pas, que sol ser el problema més freqüent. Si no s'ha solucionat, revisa la secció "Com creo i verifico el meu compte?", per assegurar-te que estàs seguint els passos adequadament. Si encara es manté el problema, pots enviar un correu electrònic a l'adreça #correu-electrònic#, i rebràs assistència.
 |===
 
 [[h.sp0e8odyfyee]]
@@ -134,11 +134,11 @@ Revisa la secció "No em funciona la verificació de residència", per si el pro
 
 [width="100%",cols="100%",]
 |===
-|Termes i condicions d’ús (CA)
+|_Termes i condicions d’ús (CA)_
 a|
-Aspectes legals i condicions d’ús de la plataforma de participació nomplataforma de l’Ajuntament de nomdelmunicipi/ entitat.
+Aspectes legals i condicions d’ús de la plataforma de participació #nomplataforma# de l’Ajuntament de #nomdelmunicipi/ entitat#.
 
-(els que us recomanin els serveis jurídics. Podeu fer servir com a model els https://www.google.com/url?q=https://decidim.barcelona/pages/terms-and-conditions&sa=D&ust=1526042293494000[Termes i les condicions d’ús de Decidim.Barcelona]).
+(els que us recomanin els serveis jurídics. Podeu fer servir com a model els https://www.decidim.barcelona/[Termes i les condicions d’ús de Decidim.Barcelona].
 |===
 
 [[h.2jhc8fsz2zl9]]
@@ -148,9 +148,9 @@ Aspectes legals i condicions d’ús de la plataforma de participació nomplataf
 
 [width="100%",cols="100%",]
 |===
-|Accessibilitat (CA)
+|_Accessibilitat (CA)_
 a|
 Fa referència al disseny i continguts de la pàgina web, que han de ser accessibles (sense obstacles visuals, ni tecnològics i per al major nombre possible d'usuaris i usuàries), i a la normativa estàndard (WAI, Web Accessibility Initiative).
 
-Exemple de Decidim.Barcelona https://www.google.com/url?q=https://www.decidim.barcelona/pages/accessibility&sa=D&ust=1526042293495000[Accessibilitat].
+Exemple de Decidim.Barcelona https://www.decidim.barcelona/pages/accessibility[Accessibilitat].
 |===
