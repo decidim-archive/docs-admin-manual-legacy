@@ -1,7 +1,7 @@
 [[h.3fwokq0]]
 == Usuarios
 
-La gestión de los usuarios de administración comprende tareas como dar de alta a otros administradores; validar los grupos de usuarios (organizaciones/colectivos) que se han registrado y que se ha podido comprobar que efectivamente existen; gestionar a los usuarios temporales que se creen desde las oficinas de atención ciudadana para facilitar que las personas que no tienen internet puedan participar en la plataforma Decidim; reconocer que una persona tiene una determinada posición en la organización (*Oficializaciones*); y autentificar que la persona que participa es quien dice que es (*Verificaciones*) footnote:[La función *Verificaciones* se encuentra en fase de desarrollo.].
+La gestión de los usuarios de administración comprende tareas como dar de alta a otros administradores; validar los grupos de usuarios (organizaciones/colectivos) que se han registrado y que se ha podido comprobar que efectivamente existen; gestionar a los usuarios temporales que se creen desde las oficinas de atención ciudadana para facilitar que las personas que no tienen internet puedan participar en la plataforma Decidim; reconocer que una persona tiene una determinada posición en la organización (*Oficializaciones*); y autentificar que la persona que participa es quien dice que es (*Verificaciones*).footnote:[La función *Verificaciones* se encuentra en fase de desarrollo.]
 
 Para la gestión de los usuarios, haz clic en *USUARIOS*, en el menú del *PANEL DE CONTROL*.  Se abrirá la ventana *USUARIOS* (ver <<image60-fig>>).
 
