@@ -44,7 +44,7 @@ Omplir els següents camps (recordar que en cas que la plataforma sigui en dos i
 * **Metadades d'àmbit**: no es mostrarà però és informació interna sobre a quin àmbit de la ciutat va dirigit el procés.
 * **A qui va dirigit?**: persones a qui està destinat el procés participatiu.
 * **Àmbit habilitat**: marcar si es vol identificar amb un àmbit d’actuació (municipal, districte 1, districte 2…).
-* **Àmbit**: seleccionar l’àmbit corresponent en el desplegable. Prèviament s’hauran d’haver creat els àmbits footnote:[Sobre com crear els àmbits, veure el punt 2.].
+* **Àmbit**: seleccionar l’àmbit corresponent en el desplegable. Prèviament s’hauran d’haver creat els àmbits. footnote:[Sobre com crear els àmbits, veure el punt 2.]
 * **Àmbit participatiu**: explicació del marge o límits de decisió que tindrà la ciutadania en aquest procés.
 * **Estructura participativa**: grup promotor, comissió de seguiment, grup de treball, entitats que participaran en els diversos tallers i reunions del procés participatiu.
 * **Grup de processos**: en el cas que es tracti d’un procés dintre d’un grup, seleccionar el grup de processos corresponent en el desplegable. Per exemple, un Pla d’Acció per Districte, dins un Pla d’Acció Municipal. Prèviament s’ha d’haver creat el grup. Si no forma part de cap grup, cal seleccionar **Cap** en el desplegable.
@@ -112,7 +112,7 @@ image::images/image54.png[Captura de pantalla 2017-07-11 a las 13.25.32.png]
 
 És important tenir en compte que un cop definides les categories, no convé canviar-les perquè esdevenen l’índex que estructura els continguts dins d’un espai de participació. Per exemple, en el cas d’un procés participatiu per l’elecció de candidats, les categories podrien identificar llistes o tipus de candidatures. I en el cas que el procés fos per definir un Pla, les categories coincidirien amb l’índex d’aquest Pla.
 
-També s’ha de tenir en compte que pel que fa a la classificació de continguts, Decidim també permet diferenciar i configurar àmbits i  etiquetes (o tags). A diferència de les categories, els àmbits (territorials o temàtics) són generals a tota la plataforma i es defineixen durant la configuració de la plataforma Decidim del municipi/ entitat footnote:[Sobre com crear els àmbits, veure punt 3.2.].Mentre les etiquetas (o tags)  les defineixen lliurement les persones participants i es poden aplicar a qualsevol instància o component. Des del panell d'administració també es poden crear etiquetes i niar-les.
+També s’ha de tenir en compte que pel que fa a la classificació de continguts, Decidim també permet diferenciar i configurar àmbits i  etiquetes (o tags). A diferència de les categories, els àmbits (territorials o temàtics) són generals a tota la plataforma i es defineixen durant la configuració de la plataforma Decidim del municipi/ entitat. footnote:[Sobre com crear els àmbits, veure punt 3.2.] Mentre les etiquetas (o tags)  les defineixen lliurement les persones participants i es poden aplicar a qualsevol instància o component. Des del panell d'administració també es poden crear etiquetes i niar-les.
 
 Per a configurar les categories, clicar **Categories** al submenú del **PROCÉS PARTICIPATIU**. A continuació clicar **NOU/VA**. Per a cada una de les categories/ subcategories cal escriure (Figura 31): **Nom, Descripció**, i en el cas que es tracti d’una subcategoria, seleccionar la categoria a què correspon en el desplegable **Superior**. En acabar, clicar **Crea una categoria**.
 

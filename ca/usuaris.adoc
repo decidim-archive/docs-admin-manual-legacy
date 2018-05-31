@@ -1,7 +1,7 @@
 [[h.3fwokq0]]
 == Usuaris
 
-La gestió dels usuaris d’administració comprèn tasques com: donar d'alta altres administradors, validar els grups d'usuaris (organitzacions/ col·lectius) que s'han registrat i que s'ha pogut comprovar que efectivament existeixen, gestionar els usuaris temporals que es creïn des de les Oficines d'Atenció al Ciutadà per facilitar que les persones que no tenen internet puguin participar en el Decidim, reconèixer que una persona té una determinada posició en l’organització (_Oficialitzacions_) i autenticar que la persona que participa és qui diu que és (_Verificacions_) footnote:[La funció **Verificacions** es troba en fase de desenvolupament.].
+La gestió dels usuaris d’administració comprèn tasques com: donar d'alta altres administradors, validar els grups d'usuaris (organitzacions/ col·lectius) que s'han registrat i que s'ha pogut comprovar que efectivament existeixen, gestionar els usuaris temporals que es creïn des de les Oficines d'Atenció al Ciutadà per facilitar que les persones que no tenen internet puguin participar en el Decidim, reconèixer que una persona té una determinada posició en l’organització (_Oficialitzacions_) i autenticar que la persona que participa és qui diu que és (_Verificacions_). footnote:[La funció **Verificacions** es troba en fase de desenvolupament.]
 
 Per a la gestió dels usuaris, clicar **USUARIS** en el menú del **TAULER DE CONTROL**.  S’obre la finestra **USUARIS** (Figura 16).
 

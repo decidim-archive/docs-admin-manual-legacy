@@ -28,10 +28,10 @@ include::../locale/attributes.adoc[]
 :_editors:
 
 // MANDATORY. See this field description in section "Criteris d'autoria ..." below.
-:authors:
+:authors: Marta Almela (IN3/UOC), Arnau Monterde (IN3/UOC), Juan Linares (IN3/UOC), Antonio Calleja-López (IN3/UOC).
 
 // OPTIONAL. See this field description in section "Criteris d'autoria ..." below.
-:_contributors:
+:_contributors: Carolina Romero  (Localret), Xabier Barandiaran (Ajuntament de Barcelona), Mònica Garriga Miret (Free Knowledge Institute (FKI)), Joan Olivé Llanos (Ajuntament de Barcelona), Mariola Ruiz (Ajuntament de Barcelona), Inma Rodríguez (Ajuntament de Barcelona)
 
 // OPTIONAL. See this field description in section "Criteris d'autoria ..." below.
 :_proofreaders:
@@ -54,7 +54,7 @@ include::../locale/attributes.adoc[]
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE URGE YOU
 // NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title}, {authors},
 // {doctitle} or {revnumber} can be used here.
-:_citation: {authors} (2018) {_title}. v{revnumber}.
+:_citation: Decidim Team (2018) {_title}. v{revnumber}.
 
 // MANDATORY. Legal terms under which this document can be distributed and/or modified.
 // It's usually not necessary to modify the default contents of this field.
