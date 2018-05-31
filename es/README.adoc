@@ -54,7 +54,7 @@ include::../locale/attributes.adoc[]
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE URGE YOU
 // NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title}, {authors},
 // {doctitle} or {revnumber} can be used here.
-:_citation: {authors} (2018) {_title}. v{revnumber}.
+:_citation: Decidim Team (2018) {_title}. v{revnumber}.
 
 // MANDATORY. Legal terms under which this document can be distributed and/or modified.
 // It's usually not necessary to modify the default contents of this field.
